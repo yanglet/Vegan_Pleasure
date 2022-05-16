@@ -1,16 +1,17 @@
 package com.project.veganpleasure.domain.member.entity;
 
 import com.project.veganpleasure.domain.common.entity.BaseEntity;
-import com.project.veganpleasure.domain.common.entity.VegetarianType;
-import lombok.AccessLevel;
-import lombok.Builder;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 import javax.persistence.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
 
 @Entity
 @Getter
+@Setter
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class Member extends BaseEntity {
     @Id @GeneratedValue
@@ -22,16 +23,24 @@ public class Member extends BaseEntity {
     private String name;
     private String nickname;
     private String role;
-    @Enumerated(EnumType.STRING)
-    private VegetarianType vegetarianType; // 한가지 고르는건지??
+    private String vegetarianTypes;
 
     @Builder
-    public Member(String email, String password, String name, String nickname, String role, VegetarianType vegetarianType) {
+    public Member(String email, String password, String name, String nickname, String role, String vegetarianTypes) {
         this.email = email;
         this.password = password;
         this.name = name;
         this.nickname = nickname;
         this.role = role;
-        this.vegetarianType = vegetarianType;
+        this.vegetarianTypes = vegetarianTypes;
+    }
+
+    public List<String> getVegetarianTypeList(){
+        if(this.vegetarianTypes.length() > 0){
+            return Arrays.asList(this.vegetarianTypes.split(","))
+                    .stream()
+                    .map(s -> s.trim()).collect(Collectors.toList());
+        }
+        return new ArrayList<>();
     }
 }

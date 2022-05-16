@@ -4,15 +4,13 @@ import com.project.veganpleasure.domain.common.entity.BaseEntity;
 import com.project.veganpleasure.domain.common.entity.UploadFile;
 import com.project.veganpleasure.domain.member.entity.Member;
 import com.project.veganpleasure.domain.store.entity.Store;
-import lombok.AccessLevel;
-import lombok.Builder;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 import javax.persistence.*;
 
 @Entity
 @Getter
+@Setter(AccessLevel.PRIVATE)
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class Review extends BaseEntity {
     @Id @GeneratedValue
@@ -21,7 +19,7 @@ public class Review extends BaseEntity {
     private String content;
     private Long starRating;
     @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "id")
+    @JoinColumn(name = "store_id")
     private Store store;
     @OneToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "member_id")
@@ -37,5 +35,20 @@ public class Review extends BaseEntity {
         this.store = store;
         this.member = member;
         this.uploadFile = uploadFile;
+    }
+
+    // 생성 메서드
+    public static Review of(String content, Long starRating,
+                            Store store, Member member, UploadFile uploadFile){
+        Review review = new Review();
+        review.setContent(content);
+        review.setStarRating(starRating);
+        review.setStore(store);
+        review.setMember(member);
+        review.setUploadFile(uploadFile);
+
+        store.getReviewList().add(review);
+
+        return review;
     }
 }

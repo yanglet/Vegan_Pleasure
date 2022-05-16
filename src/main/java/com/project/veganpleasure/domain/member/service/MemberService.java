@@ -32,6 +32,7 @@ public class MemberService {
 
     public Member join(Member member){
         isValidateDuplicateMember(member);
+        member.setPassword(bCryptPasswordEncoder.encode(member.getPassword()));
         return memberRepository.save(member);
     }
 

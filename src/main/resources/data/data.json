@@ -1,7 +1,7 @@
 [
  {
   "likes": 0,
-  "uploadfile_id": 0,
+  "starRating": 0,
   "id": 1,
   "name": "발우공양",
   "category": "한식",
@@ -13,7 +13,7 @@
  },
  {
   "likes": 1,
-  "uploadfile_id": 1,
+  "starRating": 1,
   "id": 2,
   "name": "502 세컨즈카페",
   "category": "양식",
@@ -25,7 +25,7 @@
  },
  {
   "likes": 2,
-  "uploadfile_id": 2,
+  "starRating": 2,
   "id": 3,
   "name": "롯데리아 (시흥현대시장)",
   "category": "양식",
@@ -37,7 +37,7 @@
  },
  {
   "likes": 3,
-  "uploadfile_id": 3,
+  "starRating": 3,
   "id": 4,
   "name": "5길반찬",
   "category": "한식",
@@ -49,7 +49,7 @@
  },
  {
   "likes": 4,
-  "uploadfile_id": 4,
+  "starRating": 4,
   "id": 5,
   "name": "롯데리아 (시흥중앙)",
   "category": "양식",
@@ -61,7 +61,7 @@
  },
  {
   "likes": 5,
-  "uploadfile_id": 5,
+  "starRating": 5,
   "id": 6,
   "name": "8빵",
   "category": "베이커리",
@@ -73,7 +73,7 @@
  },
  {
   "likes": 6,
-  "uploadfile_id": 6,
+  "starRating": 6,
   "id": 7,
   "name": "롯데리아 (홈플러스 금천)",
   "category": "양식",
@@ -85,7 +85,7 @@
  },
  {
   "likes": 7,
-  "uploadfile_id": 7,
+  "starRating": 7,
   "id": 8,
   "name": "CEEK",
   "category": "양식",
@@ -97,7 +97,7 @@
  },
  {
   "likes": 8,
-  "uploadfile_id": 8,
+  "starRating": 8,
   "id": 9,
   "name": "롯데리아 (구로가산)",
   "category": "양식",
@@ -109,7 +109,7 @@
  },
  {
   "likes": 9,
-  "uploadfile_id": 9,
+  "starRating": 9,
   "id": 10,
   "name": "DURI화덕피자 & 파스타",
   "category": "양식",
@@ -121,7 +121,7 @@
  },
  {
   "likes": 10,
-  "uploadfile_id": 10,
+  "starRating": 10,
   "id": 11,
   "name": "본죽 (신림푸르지오)",
   "category": "한식",
@@ -133,7 +133,7 @@
  },
  {
   "likes": 11,
-  "uploadfile_id": 11,
+  "starRating": 11,
   "id": 12,
   "name": "Mr Lee (미스터 리)",
   "category": "기타",
@@ -145,7 +145,7 @@
  },
  {
   "likes": 12,
-  "uploadfile_id": 12,
+  "starRating": 12,
   "id": 13,
   "name": "본죽 (시흥)",
   "category": "한식",
@@ -157,7 +157,7 @@
  },
  {
   "likes": 13,
-  "uploadfile_id": 13,
+  "starRating": 13,
   "id": 14,
   "name": "MTL (효창)",
   "category": "카페",
@@ -169,7 +169,7 @@
  },
  {
   "likes": 14,
-  "uploadfile_id": 14,
+  "starRating": 14,
   "id": 15,
   "name": "본죽 (금천롯데캐슬)",
   "category": "한식",
@@ -181,7 +181,7 @@
  },
  {
   "likes": 15,
-  "uploadfile_id": 15,
+  "starRating": 15,
   "id": 16,
   "name": "Ndd",
   "category": "카페",
@@ -193,7 +193,7 @@
  },
  {
   "likes": 16,
-  "uploadfile_id": 16,
+  "starRating": 16,
   "id": 17,
   "name": "본죽 (가산디지털)",
   "category": "한식",
@@ -205,7 +205,7 @@
  },
  {
   "likes": 17,
-  "uploadfile_id": 17,
+  "starRating": 17,
   "id": 18,
   "name": "TLC",
   "category": "양식",
@@ -217,7 +217,7 @@
  },
  {
   "likes": 18,
-  "uploadfile_id": 18,
+  "starRating": 18,
   "id": 19,
   "name": "본죽 (독산동씨티렉스)",
   "category": "한식",
@@ -229,7 +229,7 @@
  },
  {
   "likes": 19,
-  "uploadfile_id": 19,
+  "starRating": 19,
   "id": 20,
   "name": "WHAT A CHEF (왓어쉐프)",
   "category": "양식",
@@ -241,7 +241,7 @@
  },
  {
   "likes": 20,
-  "uploadfile_id": 20,
+  "starRating": 20,
   "id": 21,
   "name": "본죽&비빔밥cafe (가산테라타워)",
   "category": "한식",
@@ -253,7 +253,7 @@
  },
  {
   "likes": 21,
-  "uploadfile_id": 21,
+  "starRating": 21,
   "id": 22,
   "name": "가네샤",
   "category": "인도",
@@ -265,7 +265,7 @@
  },
  {
   "likes": 22,
-  "uploadfile_id": 22,
+  "starRating": 22,
   "id": 23,
   "name": "본죽&비빔밥cafe (시흥사거리)",
   "category": "한식",
@@ -277,7 +277,7 @@
  },
  {
   "likes": 23,
-  "uploadfile_id": 23,
+  "starRating": 23,
   "id": 24,
   "name": "가로수길 칼국수",
   "category": "한식",
@@ -289,7 +289,7 @@
  },
  {
   "likes": 24,
-  "uploadfile_id": 24,
+  "starRating": 24,
   "id": 25,
   "name": "본죽&비빔밥cafe (독산역)",
   "category": "한식",
@@ -301,7 +301,7 @@
  },
  {
   "likes": 25,
-  "uploadfile_id": 25,
+  "starRating": 25,
   "id": 26,
   "name": "가미꼬마김밥",
   "category": "분식",
@@ -313,7 +313,7 @@
  },
  {
   "likes": 26,
-  "uploadfile_id": 26,
+  "starRating": 26,
   "id": 27,
   "name": "본도시락 (가산디지털3단지)",
   "category": "한식",
@@ -325,7 +325,7 @@
  },
  {
   "likes": 27,
-  "uploadfile_id": 27,
+  "starRating": 27,
   "id": 28,
   "name": "가원",
   "category": "중식",
@@ -337,7 +337,7 @@
  },
  {
   "likes": 28,
-  "uploadfile_id": 28,
+  "starRating": 28,
   "id": 29,
   "name": "본도시락 (금천구청)",
   "category": "한식",
@@ -349,7 +349,7 @@
  },
  {
   "likes": 29,
-  "uploadfile_id": 29,
+  "starRating": 29,
   "id": 30,
   "name": "강가 (무교)",
   "category": "인도",
@@ -361,7 +361,7 @@
  },
  {
   "likes": 30,
-  "uploadfile_id": 30,
+  "starRating": 30,
   "id": 31,
   "name": "본도시락 (가산)",
   "category": "한식",
@@ -373,7 +373,7 @@
  },
  {
   "likes": 31,
-  "uploadfile_id": 31,
+  "starRating": 31,
   "id": 32,
   "name": "강가 (여의도)",
   "category": "인도",
@@ -385,7 +385,7 @@
  },
  {
   "likes": 32,
-  "uploadfile_id": 32,
+  "starRating": 32,
   "id": 33,
   "name": "샐러디 (가산디지털단지)",
   "category": "양식",
@@ -397,7 +397,7 @@
  },
  {
   "likes": 33,
-  "uploadfile_id": 33,
+  "starRating": 33,
   "id": 34,
   "name": "강가 (역삼)",
   "category": "인도",
@@ -409,7 +409,7 @@
  },
  {
   "likes": 34,
-  "uploadfile_id": 34,
+  "starRating": 34,
   "id": 35,
   "name": "스무디킹 (가산마리오아울렛)",
   "category": "카페",
@@ -421,7 +421,7 @@
  },
  {
   "likes": 35,
-  "uploadfile_id": 35,
+  "starRating": 35,
   "id": 36,
   "name": "강가 (잠실)",
   "category": "인도",
@@ -433,7 +433,7 @@
  },
  {
   "likes": 36,
-  "uploadfile_id": 36,
+  "starRating": 36,
   "id": 37,
   "name": "스무디킹 (이마트24가산SKV1)",
   "category": "카페",
@@ -445,7 +445,7 @@
  },
  {
   "likes": 37,
-  "uploadfile_id": 37,
+  "starRating": 37,
   "id": 38,
   "name": "강남교자 (뚝섬)",
   "category": "한식",
@@ -457,7 +457,7 @@
  },
  {
   "likes": 38,
-  "uploadfile_id": 38,
+  "starRating": 38,
   "id": 39,
   "name": "스윗밸런스 (가산더블유센터)",
   "category": "양식",
@@ -469,7 +469,7 @@
  },
  {
   "likes": 39,
-  "uploadfile_id": 39,
+  "starRating": 39,
   "id": 40,
   "name": "강남더수제비",
   "category": "한식",
@@ -481,7 +481,7 @@
  },
  {
   "likes": 40,
-  "uploadfile_id": 40,
+  "starRating": 40,
   "id": 41,
   "name": "강릉형제장칼국수",
   "category": "한식",
@@ -493,7 +493,7 @@
  },
  {
   "likes": 41,
-  "uploadfile_id": 41,
+  "starRating": 41,
   "id": 42,
   "name": "개성집",
   "category": "한식",
@@ -505,7 +505,7 @@
  },
  {
   "likes": 42,
-  "uploadfile_id": 42,
+  "starRating": 42,
   "id": 43,
   "name": "갯마을칼국수",
   "category": "한식",
@@ -517,7 +517,7 @@
  },
  {
   "likes": 43,
-  "uploadfile_id": 43,
+  "starRating": 43,
   "id": 44,
   "name": "거북이집",
   "category": "한식",
@@ -529,7 +529,7 @@
  },
  {
   "likes": 44,
-  "uploadfile_id": 44,
+  "starRating": 44,
   "id": 45,
   "name": "건강한빵",
   "category": "베이커리",
@@ -541,7 +541,7 @@
  },
  {
   "likes": 45,
-  "uploadfile_id": 45,
+  "starRating": 45,
   "id": 46,
   "name": "건강한식당",
   "category": "한식",
@@ -553,7 +553,7 @@
  },
  {
   "likes": 46,
-  "uploadfile_id": 46,
+  "starRating": 46,
   "id": 47,
   "name": "걸신맛집",
   "category": "한식",
@@ -565,7 +565,7 @@
  },
  {
   "likes": 47,
-  "uploadfile_id": 47,
+  "starRating": 47,
   "id": 48,
   "name": "경복궁 우동냉면",
   "category": "한식",
@@ -577,7 +577,7 @@
  },
  {
   "likes": 48,
-  "uploadfile_id": 48,
+  "starRating": 48,
   "id": 49,
   "name": "고모네원조콩탕북어찜",
   "category": "한식",
@@ -589,7 +589,7 @@
  },
  {
   "likes": 49,
-  "uploadfile_id": 49,
+  "starRating": 49,
   "id": 50,
   "name": "고향보리밥쌈밥",
   "category": "한식",
@@ -601,7 +601,7 @@
  },
  {
   "likes": 50,
-  "uploadfile_id": 50,
+  "starRating": 50,
   "id": 51,
   "name": "고향칼국수",
   "category": "한식",
@@ -613,7 +613,7 @@
  },
  {
   "likes": 51,
-  "uploadfile_id": 51,
+  "starRating": 51,
   "id": 52,
   "name": "골목주방",
   "category": "한식",
@@ -625,7 +625,7 @@
  },
  {
   "likes": 52,
-  "uploadfile_id": 52,
+  "starRating": 52,
   "id": 53,
   "name": "공간녹음",
   "category": "양식",
@@ -637,7 +637,7 @@
  },
  {
   "likes": 53,
-  "uploadfile_id": 53,
+  "starRating": 53,
   "id": 54,
   "name": "과수당",
   "category": "양식",
@@ -649,7 +649,7 @@
  },
  {
   "likes": 54,
-  "uploadfile_id": 54,
+  "starRating": 54,
   "id": 55,
   "name": "구내식당",
   "category": "한식",
@@ -661,7 +661,7 @@
  },
  {
   "likes": 55,
-  "uploadfile_id": 55,
+  "starRating": 55,
   "id": 56,
   "name": "구포국수",
   "category": "한식",
@@ -673,7 +673,7 @@
  },
  {
   "likes": 56,
-  "uploadfile_id": 56,
+  "starRating": 56,
   "id": 57,
   "name": "국수나무 (남성역)",
   "category": "한식",
@@ -685,7 +685,7 @@
  },
  {
   "likes": 57,
-  "uploadfile_id": 57,
+  "starRating": 57,
   "id": 58,
   "name": "국수천천히",
   "category": "한식",
@@ -697,7 +697,7 @@
  },
  {
   "likes": 58,
-  "uploadfile_id": 58,
+  "starRating": 58,
   "id": 59,
   "name": "굿피자파스타",
   "category": "양식",
@@ -709,7 +709,7 @@
  },
  {
   "likes": 59,
-  "uploadfile_id": 59,
+  "starRating": 59,
   "id": 60,
   "name": "권가김밥",
   "category": "분식",
@@ -721,7 +721,7 @@
  },
  {
   "likes": 60,
-  "uploadfile_id": 60,
+  "starRating": 60,
   "id": 61,
   "name": "권순옥김밥",
   "category": "한식",
@@ -733,7 +733,7 @@
  },
  {
   "likes": 61,
-  "uploadfile_id": 61,
+  "starRating": 61,
   "id": 62,
   "name": "귀빈반점",
   "category": "중식",
@@ -745,7 +745,7 @@
  },
  {
   "likes": 62,
-  "uploadfile_id": 62,
+  "starRating": 62,
   "id": 63,
   "name": "그랑블루",
   "category": "양식",
@@ -757,7 +757,7 @@
  },
  {
   "likes": 63,
-  "uploadfile_id": 63,
+  "starRating": 63,
   "id": 64,
   "name": "그러팡야",
   "category": "베이커리",
@@ -769,7 +769,7 @@
  },
  {
   "likes": 64,
-  "uploadfile_id": 64,
+  "starRating": 64,
   "id": 65,
   "name": "그레이스톤",
   "category": "카페",
@@ -781,7 +781,7 @@
  },
  {
   "likes": 65,
-  "uploadfile_id": 65,
+  "starRating": 65,
   "id": 66,
   "name": "그리너 샐러드",
   "category": "양식",
@@ -793,7 +793,7 @@
  },
  {
   "likes": 66,
-  "uploadfile_id": 66,
+  "starRating": 66,
   "id": 67,
   "name": "그리너 샐러드 (강서구)",
   "category": "양식",
@@ -805,7 +805,7 @@
  },
  {
   "likes": 67,
-  "uploadfile_id": 67,
+  "starRating": 67,
   "id": 68,
   "name": "그리너 샐러드 (구디단점)",
   "category": "양식",
@@ -817,7 +817,7 @@
  },
  {
   "likes": 68,
-  "uploadfile_id": 68,
+  "starRating": 68,
   "id": 69,
   "name": "그리너 샐러드 (논현점)",
   "category": "양식",
@@ -829,7 +829,7 @@
  },
  {
   "likes": 69,
-  "uploadfile_id": 69,
+  "starRating": 69,
   "id": 70,
   "name": "그리너 샐러드 (대치점)",
   "category": "양식",
@@ -841,7 +841,7 @@
  },
  {
   "likes": 70,
-  "uploadfile_id": 70,
+  "starRating": 70,
   "id": 71,
   "name": "그리너리 샐러드",
   "category": "양식",
@@ -853,7 +853,7 @@
  },
  {
   "likes": 71,
-  "uploadfile_id": 71,
+  "starRating": 71,
   "id": 72,
   "name": "그리너샐러드 잠실점",
   "category": "양식",
@@ -865,7 +865,7 @@
  },
  {
   "likes": 72,
-  "uploadfile_id": 72,
+  "starRating": 72,
   "id": 73,
   "name": "그린바이브",
   "category": "양식",
@@ -877,7 +877,7 @@
  },
  {
   "likes": 73,
-  "uploadfile_id": 73,
+  "starRating": 73,
   "id": 74,
   "name": "그린벨리",
   "category": "베이커리",
@@ -889,7 +889,7 @@
  },
  {
   "likes": 74,
-  "uploadfile_id": 74,
+  "starRating": 74,
   "id": 75,
   "name": "그릴도하",
   "category": "양식",
@@ -901,7 +901,7 @@
  },
  {
   "likes": 75,
-  "uploadfile_id": 75,
+  "starRating": 75,
   "id": 76,
   "name": "기웃기웃",
   "category": "카페",
@@ -913,7 +913,7 @@
  },
  {
   "likes": 76,
-  "uploadfile_id": 76,
+  "starRating": 76,
   "id": 77,
   "name": "김밥은",
   "category": "분식",
@@ -925,7 +925,7 @@
  },
  {
   "likes": 77,
-  "uploadfile_id": 77,
+  "starRating": 77,
   "id": 78,
   "name": "김씨네돌솥밥순두부",
   "category": "한식",
@@ -937,7 +937,7 @@
  },
  {
   "likes": 78,
-  "uploadfile_id": 78,
+  "starRating": 78,
   "id": 79,
   "name": "까르보네 (중계은행사거리점)",
   "category": "양식",
@@ -949,7 +949,7 @@
  },
  {
   "likes": 79,
-  "uploadfile_id": 79,
+  "starRating": 79,
   "id": 80,
   "name": "까볼로 (연신내)",
   "category": "양식",
@@ -961,7 +961,7 @@
  },
  {
   "likes": 80,
-  "uploadfile_id": 80,
+  "starRating": 80,
   "id": 81,
   "name": "깔리",
   "category": "인도",
@@ -973,7 +973,7 @@
  },
  {
   "likes": 81,
-  "uploadfile_id": 81,
+  "starRating": 81,
   "id": 82,
   "name": "꼬망김밥 (서울역 내부)",
   "category": "분식",
@@ -985,7 +985,7 @@
  },
  {
   "likes": 82,
-  "uploadfile_id": 82,
+  "starRating": 82,
   "id": 83,
   "name": "꽃갈피",
   "category": "카페",
@@ -997,7 +997,7 @@
  },
  {
   "likes": 83,
-  "uploadfile_id": 83,
+  "starRating": 83,
   "id": 84,
   "name": "꽃제비칼국수",
   "category": "한식",
@@ -1009,7 +1009,7 @@
  },
  {
   "likes": 84,
-  "uploadfile_id": 84,
+  "starRating": 84,
   "id": 85,
   "name": "꿀밤",
   "category": "기타",
@@ -1021,7 +1021,7 @@
  },
  {
   "likes": 85,
-  "uploadfile_id": 85,
+  "starRating": 85,
   "id": 86,
   "name": "나마스테",
   "category": "인도",
@@ -1033,7 +1033,7 @@
  },
  {
   "likes": 86,
-  "uploadfile_id": 86,
+  "starRating": 86,
   "id": 87,
   "name": "나무선인장",
   "category": "일식",
@@ -1045,7 +1045,7 @@
  },
  {
   "likes": 87,
-  "uploadfile_id": 87,
+  "starRating": 87,
   "id": 88,
   "name": "나빈",
   "category": "인도",
@@ -1057,7 +1057,7 @@
  },
  {
   "likes": 88,
-  "uploadfile_id": 88,
+  "starRating": 88,
   "id": 89,
   "name": "나위",
   "category": "한식",
@@ -1069,7 +1069,7 @@
  },
  {
   "likes": 89,
-  "uploadfile_id": 89,
+  "starRating": 89,
   "id": 90,
   "name": "날일달월",
   "category": "한식",
@@ -1081,7 +1081,7 @@
  },
  {
   "likes": 90,
-  "uploadfile_id": 90,
+  "starRating": 90,
   "id": 91,
   "name": "남경막국수 (잠실)",
   "category": "한식",
@@ -1093,7 +1093,7 @@
  },
  {
   "likes": 91,
-  "uploadfile_id": 91,
+  "starRating": 91,
   "id": 92,
   "name": "남미플랜트랩",
   "category": "양식",
@@ -1105,7 +1105,7 @@
  },
  {
   "likes": 92,
-  "uploadfile_id": 92,
+  "starRating": 92,
   "id": 93,
   "name": "낭만모로코",
   "category": "기타",
@@ -1117,7 +1117,7 @@
  },
  {
   "likes": 93,
-  "uploadfile_id": 93,
+  "starRating": 93,
   "id": 94,
   "name": "내여자를부탁해 (메세나폴리스)",
   "category": "양식",
@@ -1129,7 +1129,7 @@
  },
  {
   "likes": 94,
-  "uploadfile_id": 94,
+  "starRating": 94,
   "id": 95,
   "name": "내여자를부탁해 (선릉)",
   "category": "양식",
@@ -1141,7 +1141,7 @@
  },
  {
   "likes": 95,
-  "uploadfile_id": 95,
+  "starRating": 95,
   "id": 96,
   "name": "노이에아트멍",
   "category": "카페",
@@ -1153,7 +1153,7 @@
  },
  {
   "likes": 96,
-  "uploadfile_id": 96,
+  "starRating": 96,
   "id": 97,
   "name": "녹기전에",
   "category": "카페",
@@ -1165,7 +1165,7 @@
  },
  {
   "likes": 97,
-  "uploadfile_id": 97,
+  "starRating": 97,
   "id": 98,
   "name": "뉘조",
   "category": "한식",
@@ -1177,7 +1177,7 @@
  },
  {
   "likes": 98,
-  "uploadfile_id": 98,
+  "starRating": 98,
   "id": 99,
   "name": "뉴델리",
   "category": "인도",
@@ -1189,7 +1189,7 @@
  },
  {
   "likes": 99,
-  "uploadfile_id": 99,
+  "starRating": 99,
   "id": 100,
   "name": "능동샐러드",
   "category": "양식",
@@ -1201,7 +1201,7 @@
  },
  {
   "likes": 100,
-  "uploadfile_id": 100,
+  "starRating": 100,
   "id": 101,
   "name": "니니네",
   "category": "베이커리",
@@ -1213,7 +1213,7 @@
  },
  {
   "likes": 101,
-  "uploadfile_id": 101,
+  "starRating": 101,
   "id": 102,
   "name": "니르바나",
   "category": "인도",
@@ -1225,7 +1225,7 @@
  },
  {
   "likes": 102,
-  "uploadfile_id": 102,
+  "starRating": 102,
   "id": 103,
   "name": "닐리 (중계점)",
   "category": "양식",
@@ -1237,7 +1237,7 @@
  },
  {
   "likes": 103,
-  "uploadfile_id": 103,
+  "starRating": 103,
   "id": 104,
   "name": "다래목해물손칼국수전문점",
   "category": "한식",
@@ -1249,7 +1249,7 @@
  },
  {
   "likes": 104,
-  "uploadfile_id": 104,
+  "starRating": 104,
   "id": 105,
   "name": "다온메밀막국수",
   "category": "한식",
@@ -1261,7 +1261,7 @@
  },
  {
   "likes": 105,
-  "uploadfile_id": 105,
+  "starRating": 105,
   "id": 106,
   "name": "다이너재키",
   "category": "양식",
@@ -1273,7 +1273,7 @@
  },
  {
   "likes": 106,
-  "uploadfile_id": 106,
+  "starRating": 106,
   "id": 107,
   "name": "다포케",
   "category": "양식",
@@ -1285,7 +1285,7 @@
  },
  {
   "likes": 107,
-  "uploadfile_id": 107,
+  "starRating": 107,
   "id": 108,
   "name": "닥터로빈 (강서)",
   "category": "양식",
@@ -1297,7 +1297,7 @@
  },
  {
   "likes": 108,
-  "uploadfile_id": 108,
+  "starRating": 108,
   "id": 109,
   "name": "닥터로빈 (고척)",
   "category": "양식",
@@ -1309,7 +1309,7 @@
  },
  {
   "likes": 109,
-  "uploadfile_id": 109,
+  "starRating": 109,
   "id": 110,
   "name": "닥터로빈 (광화문)",
   "category": "양식",
@@ -1321,7 +1321,7 @@
  },
  {
   "likes": 110,
-  "uploadfile_id": 110,
+  "starRating": 110,
   "id": 111,
   "name": "닥터로빈 (메리어트파크센터)",
   "category": "양식",
@@ -1333,7 +1333,7 @@
  },
  {
   "likes": 111,
-  "uploadfile_id": 111,
+  "starRating": 111,
   "id": 112,
   "name": "닥터로빈 (목동)",
   "category": "양식",
@@ -1345,7 +1345,7 @@
  },
  {
   "likes": 112,
-  "uploadfile_id": 112,
+  "starRating": 112,
   "id": 113,
   "name": "닥터로빈 (반포)",
   "category": "양식",
@@ -1357,7 +1357,7 @@
  },
  {
   "likes": 113,
-  "uploadfile_id": 113,
+  "starRating": 113,
   "id": 114,
   "name": "닥터로빈 (신세계타임스퀘어)",
   "category": "양식",
@@ -1369,7 +1369,7 @@
  },
  {
   "likes": 114,
-  "uploadfile_id": 114,
+  "starRating": 114,
   "id": 115,
   "name": "닥터로빈 (여의도부국)",
   "category": "양식",
@@ -1381,7 +1381,7 @@
  },
  {
   "likes": 115,
-  "uploadfile_id": 115,
+  "starRating": 115,
   "id": 116,
   "name": "닥터로빈 (이대)",
   "category": "양식",
@@ -1393,7 +1393,7 @@
  },
  {
   "likes": 116,
-  "uploadfile_id": 116,
+  "starRating": 116,
   "id": 117,
   "name": "닥터로빈 (흑석)",
   "category": "양식",
@@ -1405,7 +1405,7 @@
  },
  {
   "likes": 117,
-  "uploadfile_id": 117,
+  "starRating": 117,
   "id": 118,
   "name": "닥터비건",
   "category": "카페",
@@ -1417,7 +1417,7 @@
  },
  {
   "likes": 118,
-  "uploadfile_id": 118,
+  "starRating": 118,
   "id": 119,
   "name": "대두네순두부",
   "category": "한식",
@@ -1429,7 +1429,7 @@
  },
  {
   "likes": 119,
-  "uploadfile_id": 119,
+  "starRating": 119,
   "id": 120,
   "name": "더 로 바이 트윈스",
   "category": "베이커리",
@@ -1441,7 +1441,7 @@
  },
  {
   "likes": 120,
-  "uploadfile_id": 120,
+  "starRating": 120,
   "id": 121,
   "name": "더담백",
   "category": "베이커리",
@@ -1453,7 +1453,7 @@
  },
  {
   "likes": 121,
-  "uploadfile_id": 121,
+  "starRating": 121,
   "id": 122,
   "name": "더드림",
   "category": "한식",
@@ -1465,7 +1465,7 @@
  },
  {
   "likes": 122,
-  "uploadfile_id": 122,
+  "starRating": 122,
   "id": 123,
   "name": "더드림 (본점)",
   "category": "한식",
@@ -1477,7 +1477,7 @@
  },
  {
   "likes": 123,
-  "uploadfile_id": 123,
+  "starRating": 123,
   "id": 124,
   "name": "더로열푸드앤드링크",
   "category": "양식",
@@ -1489,7 +1489,7 @@
  },
  {
   "likes": 124,
-  "uploadfile_id": 124,
+  "starRating": 124,
   "id": 125,
   "name": "더멜팅팟",
   "category": "양식",
@@ -1501,7 +1501,7 @@
  },
  {
   "likes": 125,
-  "uploadfile_id": 125,
+  "starRating": 125,
   "id": 126,
   "name": "더벨로 (개포)",
   "category": "베이커리",
@@ -1513,7 +1513,7 @@
  },
  {
   "likes": 126,
-  "uploadfile_id": 126,
+  "starRating": 126,
   "id": 127,
   "name": "더벨로 (양재)",
   "category": "베이커리",
@@ -1525,7 +1525,7 @@
  },
  {
   "likes": 127,
-  "uploadfile_id": 127,
+  "starRating": 127,
   "id": 128,
   "name": "더브레드블루 (서초)",
   "category": "카페",
@@ -1537,7 +1537,7 @@
  },
  {
   "likes": 128,
-  "uploadfile_id": 128,
+  "starRating": 128,
   "id": 129,
   "name": "더브레드블루 (신촌)",
   "category": "베이커리",
@@ -1549,7 +1549,7 @@
  },
  {
   "likes": 129,
-  "uploadfile_id": 129,
+  "starRating": 129,
   "id": 130,
   "name": "델리인디아",
   "category": "인도",
@@ -1561,7 +1561,7 @@
  },
  {
   "likes": 130,
-  "uploadfile_id": 130,
+  "starRating": 130,
   "id": 131,
   "name": "도란도란",
   "category": "양식",
@@ -1573,7 +1573,7 @@
  },
  {
   "likes": 131,
-  "uploadfile_id": 131,
+  "starRating": 131,
   "id": 132,
   "name": "도스타코스 (강남역)",
   "category": "양식",
@@ -1585,7 +1585,7 @@
  },
  {
   "likes": 132,
-  "uploadfile_id": 132,
+  "starRating": 132,
   "id": 133,
   "name": "도스타코스 (서울대입구역)",
   "category": "양식",
@@ -1597,7 +1597,7 @@
  },
  {
   "likes": 133,
-  "uploadfile_id": 133,
+  "starRating": 133,
   "id": 134,
   "name": "도스타코스 (선릉)",
   "category": "양식",
@@ -1609,7 +1609,7 @@
  },
  {
   "likes": 134,
-  "uploadfile_id": 134,
+  "starRating": 134,
   "id": 135,
   "name": "도스타코스 (성균관대)",
   "category": "양식",
@@ -1621,7 +1621,7 @@
  },
  {
   "likes": 135,
-  "uploadfile_id": 135,
+  "starRating": 135,
   "id": 136,
   "name": "도스타코스 (송파)",
   "category": "양식",
@@ -1633,7 +1633,7 @@
  },
  {
   "likes": 136,
-  "uploadfile_id": 136,
+  "starRating": 136,
   "id": 137,
   "name": "도스타코스 (시청배달)",
   "category": "양식",
@@ -1645,7 +1645,7 @@
  },
  {
   "likes": 137,
-  "uploadfile_id": 137,
+  "starRating": 137,
   "id": 138,
   "name": "도스타코스 (종로)",
   "category": "양식",
@@ -1657,7 +1657,7 @@
  },
  {
   "likes": 138,
-  "uploadfile_id": 138,
+  "starRating": 138,
   "id": 139,
   "name": "도스타코스 (한남)",
   "category": "양식",
@@ -1669,7 +1669,7 @@
  },
  {
   "likes": 139,
-  "uploadfile_id": 139,
+  "starRating": 139,
   "id": 140,
   "name": "두란 (롯데백화점 영등포)",
   "category": "한식",
@@ -1681,7 +1681,7 @@
  },
  {
   "likes": 140,
-  "uploadfile_id": 140,
+  "starRating": 140,
   "id": 141,
   "name": "두르가 (여의도)",
   "category": "인도",
@@ -1693,7 +1693,7 @@
  },
  {
   "likes": 141,
-  "uploadfile_id": 141,
+  "starRating": 141,
   "id": 142,
   "name": "두르가 (종각)",
   "category": "인도",
@@ -1705,7 +1705,7 @@
  },
  {
   "likes": 142,
-  "uploadfile_id": 142,
+  "starRating": 142,
   "id": 143,
   "name": "두르가 (종로1가)",
   "category": "인도",
@@ -1717,7 +1717,7 @@
  },
  {
   "likes": 143,
-  "uploadfile_id": 143,
+  "starRating": 143,
   "id": 144,
   "name": "두부공작소 사당직영점",
   "category": "한식",
@@ -1729,7 +1729,7 @@
  },
  {
   "likes": 144,
-  "uploadfile_id": 144,
+  "starRating": 144,
   "id": 145,
   "name": "두부공작소 신사직영점",
   "category": "한식",
@@ -1741,7 +1741,7 @@
  },
  {
   "likes": 145,
-  "uploadfile_id": 145,
+  "starRating": 145,
   "id": 146,
   "name": "두잉",
   "category": "카페",
@@ -1753,7 +1753,7 @@
  },
  {
   "likes": 146,
-  "uploadfile_id": 146,
+  "starRating": 146,
   "id": 147,
   "name": "두화당 (남영)",
   "category": "카페",
@@ -1765,7 +1765,7 @@
  },
  {
   "likes": 147,
-  "uploadfile_id": 147,
+  "starRating": 147,
   "id": 148,
   "name": "뒤주르",
   "category": "기타",
@@ -1777,7 +1777,7 @@
  },
  {
   "likes": 148,
-  "uploadfile_id": 148,
+  "starRating": 148,
   "id": 149,
   "name": "드도트",
   "category": "카페",
@@ -1789,7 +1789,7 @@
  },
  {
   "likes": 149,
-  "uploadfile_id": 149,
+  "starRating": 149,
   "id": 150,
   "name": "들풀 (서교동)",
   "category": "한식",
@@ -1801,7 +1801,7 @@
  },
  {
   "likes": 150,
-  "uploadfile_id": 150,
+  "starRating": 150,
   "id": 151,
   "name": "등꺼비 식당",
   "category": "한식",
@@ -1813,7 +1813,7 @@
  },
  {
   "likes": 151,
-  "uploadfile_id": 151,
+  "starRating": 151,
   "id": 152,
   "name": "디마떼오",
   "category": "양식",
@@ -1825,7 +1825,7 @@
  },
  {
   "likes": 152,
-  "uploadfile_id": 152,
+  "starRating": 152,
   "id": 153,
   "name": "디어그린",
   "category": "양식",
@@ -1837,7 +1837,7 @@
  },
  {
   "likes": 153,
-  "uploadfile_id": 153,
+  "starRating": 153,
   "id": 154,
   "name": "디어브레드 (고대)",
   "category": "베이커리",
@@ -1849,7 +1849,7 @@
  },
  {
   "likes": 154,
-  "uploadfile_id": 154,
+  "starRating": 154,
   "id": 155,
   "name": "디저트작업실",
   "category": "카페",
@@ -1861,7 +1861,7 @@
  },
  {
   "likes": 155,
-  "uploadfile_id": 155,
+  "starRating": 155,
   "id": 156,
   "name": "또르띠",
   "category": "양식",
@@ -1873,7 +1873,7 @@
  },
  {
   "likes": 156,
-  "uploadfile_id": 156,
+  "starRating": 156,
   "id": 157,
   "name": "또와또",
   "category": "분식",
@@ -1885,7 +1885,7 @@
  },
  {
   "likes": 157,
-  "uploadfile_id": 157,
+  "starRating": 157,
   "id": 158,
   "name": "라그린",
   "category": "카페",
@@ -1897,7 +1897,7 @@
  },
  {
   "likes": 158,
-  "uploadfile_id": 158,
+  "starRating": 158,
   "id": 159,
   "name": "라미스콘",
   "category": "카페",
@@ -1909,7 +1909,7 @@
  },
  {
   "likes": 159,
-  "uploadfile_id": 159,
+  "starRating": 159,
   "id": 160,
   "name": "라뽀즈",
   "category": "카페",
@@ -1921,7 +1921,7 @@
  },
  {
   "likes": 160,
-  "uploadfile_id": 160,
+  "starRating": 160,
   "id": 161,
   "name": "라페름",
   "category": "양식",
@@ -1933,7 +1933,7 @@
  },
  {
   "likes": 161,
-  "uploadfile_id": 161,
+  "starRating": 161,
   "id": 162,
   "name": "러빙헛 스마일",
   "category": "한식",
@@ -1945,7 +1945,7 @@
  },
  {
   "likes": 162,
-  "uploadfile_id": 162,
+  "starRating": 162,
   "id": 163,
   "name": "러빙헛 카페",
   "category": "양식",
@@ -1957,7 +1957,7 @@
  },
  {
   "likes": 163,
-  "uploadfile_id": 163,
+  "starRating": 163,
   "id": 164,
   "name": "레드라인",
   "category": "카페",
@@ -1969,7 +1969,7 @@
  },
  {
   "likes": 164,
-  "uploadfile_id": 164,
+  "starRating": 164,
   "id": 165,
   "name": "레스토랑 바이 농축원",
   "category": "양식",
@@ -1981,7 +1981,7 @@
  },
  {
   "likes": 165,
-  "uploadfile_id": 165,
+  "starRating": 165,
   "id": 166,
   "name": "로드샌드위치",
   "category": "양식",
@@ -1993,7 +1993,7 @@
  },
  {
   "likes": 166,
-  "uploadfile_id": 166,
+  "starRating": 166,
   "id": 167,
   "name": "로라오븐",
   "category": "베이커리",
@@ -2005,7 +2005,7 @@
  },
  {
   "likes": 167,
-  "uploadfile_id": 167,
+  "starRating": 167,
   "id": 168,
   "name": "로봇김밥 (강남고속터미널)",
   "category": "분식",
@@ -2017,7 +2017,7 @@
  },
  {
   "likes": 168,
-  "uploadfile_id": 168,
+  "starRating": 168,
   "id": 169,
   "name": "로봇김밥 (강남역)",
   "category": "분식",
@@ -2029,7 +2029,7 @@
  },
  {
   "likes": 169,
-  "uploadfile_id": 169,
+  "starRating": 169,
   "id": 170,
   "name": "로봇김밥 (김포공항)",
   "category": "분식",
@@ -2041,7 +2041,7 @@
  },
  {
   "likes": 170,
-  "uploadfile_id": 170,
+  "starRating": 170,
   "id": 171,
   "name": "로봇김밥 (롯데월드)",
   "category": "분식",
@@ -2053,7 +2053,7 @@
  },
  {
   "likes": 171,
-  "uploadfile_id": 171,
+  "starRating": 171,
   "id": 172,
   "name": "로봇김밥 (세브란스)",
   "category": "분식",
@@ -2065,7 +2065,7 @@
  },
  {
   "likes": 172,
-  "uploadfile_id": 172,
+  "starRating": 172,
   "id": 173,
   "name": "로봇김밥 (신분당선양재역)",
   "category": "분식",
@@ -2077,7 +2077,7 @@
  },
  {
   "likes": 173,
-  "uploadfile_id": 173,
+  "starRating": 173,
   "id": 174,
   "name": "로봇김밥 (연대)",
   "category": "분식",
@@ -2089,7 +2089,7 @@
  },
  {
   "likes": 174,
-  "uploadfile_id": 174,
+  "starRating": 174,
   "id": 175,
   "name": "로봇김밥 (현대시티아울렛동대문)",
   "category": "분식",
@@ -2101,7 +2101,7 @@
  },
  {
   "likes": 175,
-  "uploadfile_id": 175,
+  "starRating": 175,
   "id": 176,
   "name": "로컬릿",
   "category": "양식",
@@ -2113,7 +2113,7 @@
  },
  {
   "likes": 176,
-  "uploadfile_id": 176,
+  "starRating": 176,
   "id": 177,
   "name": "롤링파스타 (강남역씨티)",
   "category": "양식",
@@ -2125,7 +2125,7 @@
  },
  {
   "likes": 177,
-  "uploadfile_id": 177,
+  "starRating": 177,
   "id": 178,
   "name": "롤링파스타 (성신여대)",
   "category": "양식",
@@ -2137,7 +2137,7 @@
  },
  {
   "likes": 178,
-  "uploadfile_id": 178,
+  "starRating": 178,
   "id": 179,
   "name": "롯데리아 (GS마트상계)",
   "category": "양식",
@@ -2149,7 +2149,7 @@
  },
  {
   "likes": 179,
-  "uploadfile_id": 179,
+  "starRating": 179,
   "id": 180,
   "name": "롯데리아 (NC백화점 강서)",
   "category": "양식",
@@ -2161,7 +2161,7 @@
  },
  {
   "likes": 180,
-  "uploadfile_id": 180,
+  "starRating": 180,
   "id": 181,
   "name": "롯데리아 (가든파이브)",
   "category": "양식",
@@ -2173,7 +2173,7 @@
  },
  {
   "likes": 181,
-  "uploadfile_id": 181,
+  "starRating": 181,
   "id": 182,
   "name": "롯데리아 (강남우성사거리0",
   "category": "양식",
@@ -2185,7 +2185,7 @@
  },
  {
   "likes": 182,
-  "uploadfile_id": 182,
+  "starRating": 182,
   "id": 183,
   "name": "롯데리아 (강남일원)",
   "category": "양식",
@@ -2197,7 +2197,7 @@
  },
  {
   "likes": 183,
-  "uploadfile_id": 183,
+  "starRating": 183,
   "id": 184,
   "name": "롯데리아 (강동구청DT)",
   "category": "양식",
@@ -2209,7 +2209,7 @@
  },
  {
   "likes": 184,
-  "uploadfile_id": 184,
+  "starRating": 184,
   "id": 185,
   "name": "롯데리아 (강변씨네마)",
   "category": "양식",
@@ -2221,7 +2221,7 @@
  },
  {
   "likes": 185,
-  "uploadfile_id": 185,
+  "starRating": 185,
   "id": 186,
   "name": "롯데리아 (강변테크노)",
   "category": "양식",
@@ -2233,7 +2233,7 @@
  },
  {
   "likes": 186,
-  "uploadfile_id": 186,
+  "starRating": 186,
   "id": 187,
   "name": "롯데리아 (강일)",
   "category": "양식",
@@ -2245,7 +2245,7 @@
  },
  {
   "likes": 187,
-  "uploadfile_id": 187,
+  "starRating": 187,
   "id": 188,
   "name": "롯데리아 (개봉)",
   "category": "양식",
@@ -2257,7 +2257,7 @@
  },
  {
   "likes": 188,
-  "uploadfile_id": 188,
+  "starRating": 188,
   "id": 189,
   "name": "롯데리아 (개봉역)",
   "category": "양식",
@@ -2269,7 +2269,7 @@
  },
  {
   "likes": 189,
-  "uploadfile_id": 189,
+  "starRating": 189,
   "id": 190,
   "name": "롯데리아 (개포)",
   "category": "양식",
@@ -2281,7 +2281,7 @@
  },
  {
   "likes": 190,
-  "uploadfile_id": 190,
+  "starRating": 190,
   "id": 191,
   "name": "롯데리아 (건대스타시티)",
   "category": "양식",
@@ -2293,7 +2293,7 @@
  },
  {
   "likes": 191,
-  "uploadfile_id": 191,
+  "starRating": 191,
   "id": 192,
   "name": "롯데리아 (건대역)",
   "category": "양식",
@@ -2305,7 +2305,7 @@
  },
  {
   "likes": 192,
-  "uploadfile_id": 192,
+  "starRating": 192,
   "id": 193,
   "name": "롯데리아 (고덕역)",
   "category": "양식",
@@ -2317,7 +2317,7 @@
  },
  {
   "likes": 193,
-  "uploadfile_id": 193,
+  "starRating": 193,
   "id": 194,
   "name": "롯데리아 (공릉역)",
   "category": "양식",
@@ -2329,7 +2329,7 @@
  },
  {
   "likes": 194,
-  "uploadfile_id": 194,
+  "starRating": 194,
   "id": 195,
   "name": "롯데리아 (구로IT)",
   "category": "양식",
@@ -2341,7 +2341,7 @@
  },
  {
   "likes": 195,
-  "uploadfile_id": 195,
+  "starRating": 195,
   "id": 196,
   "name": "롯데리아 (구로디지털역)",
   "category": "양식",
@@ -2353,7 +2353,7 @@
  },
  {
   "likes": 196,
-  "uploadfile_id": 196,
+  "starRating": 196,
   "id": 197,
   "name": "롯데리아 (구로시장)",
   "category": "양식",
@@ -2365,7 +2365,7 @@
  },
  {
   "likes": 197,
-  "uploadfile_id": 197,
+  "starRating": 197,
   "id": 198,
   "name": "롯데리아 (구산역)",
   "category": "양식",
@@ -2377,7 +2377,7 @@
  },
  {
   "likes": 198,
-  "uploadfile_id": 198,
+  "starRating": 198,
   "id": 199,
   "name": "롯데리아 (구의)",
   "category": "양식",
@@ -2389,7 +2389,7 @@
  },
  {
   "likes": 199,
-  "uploadfile_id": 199,
+  "starRating": 199,
   "id": 200,
   "name": "롯데리아 (구의역)",
   "category": "양식",
@@ -2401,7 +2401,7 @@
  },
  {
   "likes": 200,
-  "uploadfile_id": 200,
+  "starRating": 200,
   "id": 201,
   "name": "롯데리아 (구파발역)",
   "category": "양식",
@@ -2413,7 +2413,7 @@
  },
  {
   "likes": 201,
-  "uploadfile_id": 201,
+  "starRating": 201,
   "id": 202,
   "name": "롯데리아 (군자역)",
   "category": "양식",
@@ -2425,7 +2425,7 @@
  },
  {
   "likes": 202,
-  "uploadfile_id": 202,
+  "starRating": 202,
   "id": 203,
   "name": "롯데리아 (금호)",
   "category": "양식",
@@ -2437,7 +2437,7 @@
  },
  {
   "likes": 203,
-  "uploadfile_id": 203,
+  "starRating": 203,
   "id": 204,
   "name": "롯데리아 (길동)",
   "category": "양식",
@@ -2449,7 +2449,7 @@
  },
  {
   "likes": 204,
-  "uploadfile_id": 204,
+  "starRating": 204,
   "id": 205,
   "name": "롯데리아 (길음뉴타운점)",
   "category": "양식",
@@ -2461,7 +2461,7 @@
  },
  {
   "likes": 205,
-  "uploadfile_id": 205,
+  "starRating": 205,
   "id": 206,
   "name": "롯데리아 (김포공항)",
   "category": "양식",
@@ -2473,7 +2473,7 @@
  },
  {
   "likes": 206,
-  "uploadfile_id": 206,
+  "starRating": 206,
   "id": 207,
   "name": "롯데리아 (까치산역)",
   "category": "양식",
@@ -2485,7 +2485,7 @@
  },
  {
   "likes": 207,
-  "uploadfile_id": 207,
+  "starRating": 207,
   "id": 208,
   "name": "롯데리아 (남부터미널)",
   "category": "양식",
@@ -2497,7 +2497,7 @@
  },
  {
   "likes": 208,
-  "uploadfile_id": 208,
+  "starRating": 208,
   "id": 209,
   "name": "롯데리아 (남성역)",
   "category": "양식",
@@ -2509,7 +2509,7 @@
  },
  {
   "likes": 209,
-  "uploadfile_id": 209,
+  "starRating": 209,
   "id": 210,
   "name": "롯데리아 (노량진)",
   "category": "양식",
@@ -2521,7 +2521,7 @@
  },
  {
   "likes": 210,
-  "uploadfile_id": 210,
+  "starRating": 210,
   "id": 211,
   "name": "롯데리아 (노원역)",
   "category": "양식",
@@ -2533,7 +2533,7 @@
  },
  {
   "likes": 211,
-  "uploadfile_id": 211,
+  "starRating": 211,
   "id": 212,
   "name": "롯데리아 (녹번)",
   "category": "양식",
@@ -2545,7 +2545,7 @@
  },
  {
   "likes": 212,
-  "uploadfile_id": 212,
+  "starRating": 212,
   "id": 213,
   "name": "롯데리아 (답십리)",
   "category": "양식",
@@ -2557,7 +2557,7 @@
  },
  {
   "likes": 213,
-  "uploadfile_id": 213,
+  "starRating": 213,
   "id": 214,
   "name": "롯데리아 (대림역)",
   "category": "양식",
@@ -2569,7 +2569,7 @@
  },
  {
   "likes": 214,
-  "uploadfile_id": 214,
+  "starRating": 214,
   "id": 215,
   "name": "롯데리아 (대방역)",
   "category": "양식",
@@ -2581,7 +2581,7 @@
  },
  {
   "likes": 215,
-  "uploadfile_id": 215,
+  "starRating": 215,
   "id": 216,
   "name": "롯데리아 (덕성여대)",
   "category": "양식",
@@ -2593,7 +2593,7 @@
  },
  {
   "likes": 216,
-  "uploadfile_id": 216,
+  "starRating": 216,
   "id": 217,
   "name": "롯데리아 (동대문광장)",
   "category": "양식",
@@ -2605,7 +2605,7 @@
  },
  {
   "likes": 217,
-  "uploadfile_id": 217,
+  "starRating": 217,
   "id": 218,
   "name": "롯데리아 (동대문역사문화공원역)",
   "category": "양식",
@@ -2617,7 +2617,7 @@
  },
  {
   "likes": 218,
-  "uploadfile_id": 218,
+  "starRating": 218,
   "id": 219,
   "name": "롯데리아 (동묘역)",
   "category": "양식",
@@ -2629,7 +2629,7 @@
  },
  {
   "likes": 219,
-  "uploadfile_id": 219,
+  "starRating": 219,
   "id": 220,
   "name": "롯데리아 (뚝섬유원지)",
   "category": "양식",
@@ -2641,7 +2641,7 @@
  },
  {
   "likes": 220,
-  "uploadfile_id": 220,
+  "starRating": 220,
   "id": 221,
   "name": "롯데리아 (롯데노원)",
   "category": "양식",
@@ -2653,7 +2653,7 @@
  },
  {
   "likes": 221,
-  "uploadfile_id": 221,
+  "starRating": 221,
   "id": 222,
   "name": "롯데리아 (롯데마트 강변)",
   "category": "양식",
@@ -2665,7 +2665,7 @@
  },
  {
   "likes": 222,
-  "uploadfile_id": 222,
+  "starRating": 222,
   "id": 223,
   "name": "롯데리아 (롯데마트 행당역)",
   "category": "양식",
@@ -2677,7 +2677,7 @@
  },
  {
   "likes": 223,
-  "uploadfile_id": 223,
+  "starRating": 223,
   "id": 224,
   "name": "롯데리아 (롯데마트삼양)",
   "category": "양식",
@@ -2689,7 +2689,7 @@
  },
  {
   "likes": 224,
-  "uploadfile_id": 224,
+  "starRating": 224,
   "id": 225,
   "name": "롯데리아 (롯데마트서울양평)",
   "category": "양식",
@@ -2701,7 +2701,7 @@
  },
  {
   "likes": 225,
-  "uploadfile_id": 225,
+  "starRating": 225,
   "id": 226,
   "name": "롯데리아 (롯데마트송파)",
   "category": "양식",
@@ -2713,7 +2713,7 @@
  },
  {
   "likes": 226,
-  "uploadfile_id": 226,
+  "starRating": 226,
   "id": 227,
   "name": "롯데리아 (롯데마트중계)",
   "category": "양식",
@@ -2725,7 +2725,7 @@
  },
  {
   "likes": 227,
-  "uploadfile_id": 227,
+  "starRating": 227,
   "id": 228,
   "name": "롯데리아 (롯데백잠실광장)",
   "category": "양식",
@@ -2737,7 +2737,7 @@
  },
  {
   "likes": 228,
-  "uploadfile_id": 228,
+  "starRating": 228,
   "id": 229,
   "name": "롯데리아 (롯데백화점 김포공항)",
   "category": "양식",
@@ -2749,7 +2749,7 @@
  },
  {
   "likes": 229,
-  "uploadfile_id": 229,
+  "starRating": 229,
   "id": 230,
   "name": "롯데리아 (롯데월드)",
   "category": "양식",
@@ -2761,7 +2761,7 @@
  },
  {
   "likes": 230,
-  "uploadfile_id": 230,
+  "starRating": 230,
   "id": 231,
   "name": "롯데리아 (마곡역)",
   "category": "양식",
@@ -2773,7 +2773,7 @@
  },
  {
   "likes": 231,
-  "uploadfile_id": 231,
+  "starRating": 231,
   "id": 232,
   "name": "롯데리아 (마들역)",
   "category": "양식",
@@ -2785,7 +2785,7 @@
  },
  {
   "likes": 232,
-  "uploadfile_id": 232,
+  "starRating": 232,
   "id": 233,
   "name": "롯데리아 (마천)",
   "category": "양식",
@@ -2797,7 +2797,7 @@
  },
  {
   "likes": 233,
-  "uploadfile_id": 233,
+  "starRating": 233,
   "id": 234,
   "name": "롯데리아 (망우)",
   "category": "양식",
@@ -2809,7 +2809,7 @@
  },
  {
   "likes": 234,
-  "uploadfile_id": 234,
+  "starRating": 234,
   "id": 235,
   "name": "롯데리아 (면목중앙)",
   "category": "양식",
@@ -2821,7 +2821,7 @@
  },
  {
   "likes": 235,
-  "uploadfile_id": 235,
+  "starRating": 235,
   "id": 236,
   "name": "롯데리아 (명지대학)",
   "category": "양식",
@@ -2833,7 +2833,7 @@
  },
  {
   "likes": 236,
-  "uploadfile_id": 236,
+  "starRating": 236,
   "id": 237,
   "name": "롯데리아 (목동)",
   "category": "양식",
@@ -2845,7 +2845,7 @@
  },
  {
   "likes": 237,
-  "uploadfile_id": 237,
+  "starRating": 237,
   "id": 238,
   "name": "롯데리아 (목동사거리)",
   "category": "양식",
@@ -2857,7 +2857,7 @@
  },
  {
   "likes": 238,
-  "uploadfile_id": 238,
+  "starRating": 238,
   "id": 239,
   "name": "롯데리아 (목동킴스클럽)",
   "category": "양식",
@@ -2869,7 +2869,7 @@
  },
  {
   "likes": 239,
-  "uploadfile_id": 239,
+  "starRating": 239,
   "id": 240,
   "name": "롯데리아 (목동행복한백화점)",
   "category": "양식",
@@ -2881,7 +2881,7 @@
  },
  {
   "likes": 240,
-  "uploadfile_id": 240,
+  "starRating": 240,
   "id": 241,
   "name": "롯데리아 (문정로데오)",
   "category": "양식",
@@ -2893,7 +2893,7 @@
  },
  {
   "likes": 241,
-  "uploadfile_id": 241,
+  "starRating": 241,
   "id": 242,
   "name": "롯데리아 (미아삼거리)",
   "category": "양식",
@@ -2905,7 +2905,7 @@
  },
  {
   "likes": 242,
-  "uploadfile_id": 242,
+  "starRating": 242,
   "id": 243,
   "name": "롯데리아 (발산역)",
   "category": "양식",
@@ -2917,7 +2917,7 @@
  },
  {
   "likes": 243,
-  "uploadfile_id": 243,
+  "starRating": 243,
   "id": 244,
   "name": "롯데리아 (방배역)",
   "category": "양식",
@@ -2929,7 +2929,7 @@
  },
  {
   "likes": 244,
-  "uploadfile_id": 244,
+  "starRating": 244,
   "id": 245,
   "name": "롯데리아 (방이역)",
   "category": "양식",
@@ -2941,7 +2941,7 @@
  },
  {
   "likes": 245,
-  "uploadfile_id": 245,
+  "starRating": 245,
   "id": 246,
   "name": "롯데리아 (방학)",
   "category": "양식",
@@ -2953,7 +2953,7 @@
  },
  {
   "likes": 246,
-  "uploadfile_id": 246,
+  "starRating": 246,
   "id": 247,
   "name": "롯데리아 (방화)",
   "category": "양식",
@@ -2965,7 +2965,7 @@
  },
  {
   "likes": 247,
-  "uploadfile_id": 247,
+  "starRating": 247,
   "id": 248,
   "name": "롯데리아 (번동DT)",
   "category": "양식",
@@ -2977,7 +2977,7 @@
  },
  {
   "likes": 248,
-  "uploadfile_id": 248,
+  "starRating": 248,
   "id": 249,
   "name": "롯데리아 (보광)",
   "category": "양식",
@@ -2989,7 +2989,7 @@
  },
  {
   "likes": 249,
-  "uploadfile_id": 249,
+  "starRating": 249,
   "id": 250,
   "name": "롯데리아 (보라매타운)",
   "category": "양식",
@@ -3001,7 +3001,7 @@
  },
  {
   "likes": 250,
-  "uploadfile_id": 250,
+  "starRating": 250,
   "id": 251,
   "name": "롯데리아 (보문역)",
   "category": "양식",
@@ -3013,7 +3013,7 @@
  },
  {
   "likes": 251,
-  "uploadfile_id": 251,
+  "starRating": 251,
   "id": 252,
   "name": "롯데리아 (봉천)",
   "category": "양식",
@@ -3025,7 +3025,7 @@
  },
  {
   "likes": 252,
-  "uploadfile_id": 252,
+  "starRating": 252,
   "id": 253,
   "name": "롯데리아 (봉천역)",
   "category": "양식",
@@ -3037,7 +3037,7 @@
  },
  {
   "likes": 253,
-  "uploadfile_id": 253,
+  "starRating": 253,
   "id": 254,
   "name": "롯데리아 (불광)",
   "category": "양식",
@@ -3049,7 +3049,7 @@
  },
  {
   "likes": 254,
-  "uploadfile_id": 254,
+  "starRating": 254,
   "id": 255,
   "name": "롯데리아 (사가정역)",
   "category": "양식",
@@ -3061,7 +3061,7 @@
  },
  {
   "likes": 255,
-  "uploadfile_id": 255,
+  "starRating": 255,
   "id": 256,
   "name": "롯데리아 (사당)",
   "category": "양식",
@@ -3073,7 +3073,7 @@
  },
  {
   "likes": 256,
-  "uploadfile_id": 256,
+  "starRating": 256,
   "id": 257,
   "name": "롯데리아 (삼양사거리)",
   "category": "양식",
@@ -3085,7 +3085,7 @@
  },
  {
   "likes": 257,
-  "uploadfile_id": 257,
+  "starRating": 257,
   "id": 258,
   "name": "롯데리아 (상계)",
   "category": "양식",
@@ -3097,7 +3097,7 @@
  },
  {
   "likes": 258,
-  "uploadfile_id": 258,
+  "starRating": 258,
   "id": 259,
   "name": "롯데리아 (상봉역)",
   "category": "양식",
@@ -3109,7 +3109,7 @@
  },
  {
   "likes": 259,
-  "uploadfile_id": 259,
+  "starRating": 259,
   "id": 260,
   "name": "롯데리아 (상일동)",
   "category": "양식",
@@ -3121,7 +3121,7 @@
  },
  {
   "likes": 260,
-  "uploadfile_id": 260,
+  "starRating": 260,
   "id": 261,
   "name": "롯데리아 (서대문역)",
   "category": "양식",
@@ -3133,7 +3133,7 @@
  },
  {
   "likes": 261,
-  "uploadfile_id": 261,
+  "starRating": 261,
   "id": 262,
   "name": "롯데리아 (서울대)",
   "category": "양식",
@@ -3145,7 +3145,7 @@
  },
  {
   "likes": 262,
-  "uploadfile_id": 262,
+  "starRating": 262,
   "id": 263,
   "name": "롯데리아 (서울대입구역)",
   "category": "양식",
@@ -3157,7 +3157,7 @@
  },
  {
   "likes": 263,
-  "uploadfile_id": 263,
+  "starRating": 263,
   "id": 264,
   "name": "롯데리아 (서울역광장)",
   "category": "양식",
@@ -3169,7 +3169,7 @@
  },
  {
   "likes": 264,
-  "uploadfile_id": 264,
+  "starRating": 264,
   "id": 265,
   "name": "롯데리아 (서울역사)",
   "category": "양식",
@@ -3181,7 +3181,7 @@
  },
  {
   "likes": 265,
-  "uploadfile_id": 265,
+  "starRating": 265,
   "id": 266,
   "name": "롯데리아 (석계)",
   "category": "양식",
@@ -3193,7 +3193,7 @@
  },
  {
   "likes": 266,
-  "uploadfile_id": 266,
+  "starRating": 266,
   "id": 267,
   "name": "롯데리아 (석관)",
   "category": "양식",
@@ -3205,7 +3205,7 @@
  },
  {
   "likes": 267,
-  "uploadfile_id": 267,
+  "starRating": 267,
   "id": 268,
   "name": "롯데리아 (선릉)",
   "category": "양식",
@@ -3217,7 +3217,7 @@
  },
  {
   "likes": 268,
-  "uploadfile_id": 268,
+  "starRating": 268,
   "id": 269,
   "name": "롯데리아 (성대시장)",
   "category": "양식",
@@ -3229,7 +3229,7 @@
  },
  {
   "likes": 269,
-  "uploadfile_id": 269,
+  "starRating": 269,
   "id": 270,
   "name": "롯데리아 (성수역)",
   "category": "양식",
@@ -3241,7 +3241,7 @@
  },
  {
   "likes": 270,
-  "uploadfile_id": 270,
+  "starRating": 270,
   "id": 271,
   "name": "롯데리아 (성신여대)",
   "category": "양식",
@@ -3253,7 +3253,7 @@
  },
  {
   "likes": 271,
-  "uploadfile_id": 271,
+  "starRating": 271,
   "id": 272,
   "name": "롯데리아 (세곡)",
   "category": "양식",
@@ -3265,7 +3265,7 @@
  },
  {
   "likes": 272,
-  "uploadfile_id": 272,
+  "starRating": 272,
   "id": 273,
   "name": "롯데리아 (세이브마트)",
   "category": "양식",
@@ -3277,7 +3277,7 @@
  },
  {
   "likes": 273,
-  "uploadfile_id": 273,
+  "starRating": 273,
   "id": 274,
   "name": "롯데리아 (소공2호)",
   "category": "양식",
@@ -3289,7 +3289,7 @@
  },
  {
   "likes": 274,
-  "uploadfile_id": 274,
+  "starRating": 274,
   "id": 275,
   "name": "롯데리아 (송파)",
   "category": "양식",
@@ -3301,7 +3301,7 @@
  },
  {
   "likes": 275,
-  "uploadfile_id": 275,
+  "starRating": 275,
   "id": 276,
   "name": "롯데리아 (송파삼전)",
   "category": "양식",
@@ -3313,7 +3313,7 @@
  },
  {
   "likes": 276,
-  "uploadfile_id": 276,
+  "starRating": 276,
   "id": 277,
   "name": "롯데리아 (송파하비오)",
   "category": "양식",
@@ -3325,7 +3325,7 @@
  },
  {
   "likes": 277,
-  "uploadfile_id": 277,
+  "starRating": 277,
   "id": 278,
   "name": "롯데리아 (수락산역)",
   "category": "양식",
@@ -3337,7 +3337,7 @@
  },
  {
   "likes": 278,
-  "uploadfile_id": 278,
+  "starRating": 278,
   "id": 279,
   "name": "롯데리아 (수서역)",
   "category": "양식",
@@ -3349,7 +3349,7 @@
  },
  {
   "likes": 279,
-  "uploadfile_id": 279,
+  "starRating": 279,
   "id": 280,
   "name": "롯데리아 (숙대입구역)",
   "category": "양식",
@@ -3361,7 +3361,7 @@
  },
  {
   "likes": 280,
-  "uploadfile_id": 280,
+  "starRating": 280,
   "id": 281,
   "name": "롯데리아 (숭실대입구역)",
   "category": "양식",
@@ -3373,7 +3373,7 @@
  },
  {
   "likes": 281,
-  "uploadfile_id": 281,
+  "starRating": 281,
   "id": 282,
   "name": "롯데리아 (신곡시장)",
   "category": "양식",
@@ -3385,7 +3385,7 @@
  },
  {
   "likes": 282,
-  "uploadfile_id": 282,
+  "starRating": 282,
   "id": 283,
   "name": "롯데리아 (신당역)",
   "category": "양식",
@@ -3397,7 +3397,7 @@
  },
  {
   "likes": 283,
-  "uploadfile_id": 283,
+  "starRating": 283,
   "id": 284,
   "name": "롯데리아 (신도림역)",
   "category": "양식",
@@ -3409,7 +3409,7 @@
  },
  {
   "likes": 284,
-  "uploadfile_id": 284,
+  "starRating": 284,
   "id": 285,
   "name": "롯데리아 (신림녹두)",
   "category": "양식",
@@ -3421,7 +3421,7 @@
  },
  {
   "likes": 285,
-  "uploadfile_id": 285,
+  "starRating": 285,
   "id": 286,
   "name": "롯데리아 (신림역)",
   "category": "양식",
@@ -3433,7 +3433,7 @@
  },
  {
   "likes": 286,
-  "uploadfile_id": 286,
+  "starRating": 286,
   "id": 287,
   "name": "롯데리아 (신방화역)",
   "category": "양식",
@@ -3445,7 +3445,7 @@
  },
  {
   "likes": 287,
-  "uploadfile_id": 287,
+  "starRating": 287,
   "id": 288,
   "name": "롯데리아 (신정네거리)",
   "category": "양식",
@@ -3457,7 +3457,7 @@
  },
  {
   "likes": 288,
-  "uploadfile_id": 288,
+  "starRating": 288,
   "id": 289,
   "name": "롯데리아 (쌍문역)",
   "category": "양식",
@@ -3469,7 +3469,7 @@
  },
  {
   "likes": 289,
-  "uploadfile_id": 289,
+  "starRating": 289,
   "id": 290,
   "name": "롯데리아 (아차산역)",
   "category": "양식",
@@ -3481,7 +3481,7 @@
  },
  {
   "likes": 290,
-  "uploadfile_id": 290,
+  "starRating": 290,
   "id": 291,
   "name": "롯데리아 (암사역)",
   "category": "양식",
@@ -3493,7 +3493,7 @@
  },
  {
   "likes": 291,
-  "uploadfile_id": 291,
+  "starRating": 291,
   "id": 292,
   "name": "롯데리아 (양재동)",
   "category": "양식",
@@ -3505,7 +3505,7 @@
  },
  {
   "likes": 292,
-  "uploadfile_id": 292,
+  "starRating": 292,
   "id": 293,
   "name": "롯데리아 (언더랜드)",
   "category": "양식",
@@ -3517,7 +3517,7 @@
  },
  {
   "likes": 293,
-  "uploadfile_id": 293,
+  "starRating": 293,
   "id": 294,
   "name": "롯데리아 (여의도선착장)",
   "category": "양식",
@@ -3529,7 +3529,7 @@
  },
  {
   "likes": 294,
-  "uploadfile_id": 294,
+  "starRating": 294,
   "id": 295,
   "name": "롯데리아 (역삼)",
   "category": "양식",
@@ -3541,7 +3541,7 @@
  },
  {
   "likes": 295,
-  "uploadfile_id": 295,
+  "starRating": 295,
   "id": 296,
   "name": "롯데리아 (염창)",
   "category": "양식",
@@ -3553,7 +3553,7 @@
  },
  {
   "likes": 296,
-  "uploadfile_id": 296,
+  "starRating": 296,
   "id": 297,
   "name": "롯데리아 (영등포롯데)",
   "category": "양식",
@@ -3565,7 +3565,7 @@
  },
  {
   "likes": 297,
-  "uploadfile_id": 297,
+  "starRating": 297,
   "id": 298,
   "name": "롯데리아 (영등포역사)",
   "category": "양식",
@@ -3577,7 +3577,7 @@
  },
  {
   "likes": 298,
-  "uploadfile_id": 298,
+  "starRating": 298,
   "id": 299,
   "name": "롯데리아 (영등포타임스퀘어B2)",
   "category": "양식",
@@ -3589,7 +3589,7 @@
  },
  {
   "likes": 299,
-  "uploadfile_id": 299,
+  "starRating": 299,
   "id": 300,
   "name": "롯데리아 (오금)",
   "category": "양식",
@@ -3601,7 +3601,7 @@
  },
  {
   "likes": 300,
-  "uploadfile_id": 300,
+  "starRating": 300,
   "id": 301,
   "name": "롯데리아 (오류동역)",
   "category": "양식",
@@ -3613,7 +3613,7 @@
  },
  {
   "likes": 301,
-  "uploadfile_id": 301,
+  "starRating": 301,
   "id": 302,
   "name": "롯데리아 (왕십리역)",
   "category": "양식",
@@ -3625,7 +3625,7 @@
  },
  {
   "likes": 302,
-  "uploadfile_id": 302,
+  "starRating": 302,
   "id": 303,
   "name": "롯데리아 (외대역)",
   "category": "양식",
@@ -3637,7 +3637,7 @@
  },
  {
   "likes": 303,
-  "uploadfile_id": 303,
+  "starRating": 303,
   "id": 304,
   "name": "롯데리아 (용산역사)",
   "category": "양식",
@@ -3649,7 +3649,7 @@
  },
  {
   "likes": 304,
-  "uploadfile_id": 304,
+  "starRating": 304,
   "id": 305,
   "name": "롯데리아 (용산역사ST)",
   "category": "양식",
@@ -3661,7 +3661,7 @@
  },
  {
   "likes": 305,
-  "uploadfile_id": 305,
+  "starRating": 305,
   "id": 306,
   "name": "롯데리아 (응암)",
   "category": "양식",
@@ -3673,7 +3673,7 @@
  },
  {
   "likes": 306,
-  "uploadfile_id": 306,
+  "starRating": 306,
   "id": 307,
   "name": "롯데리아 (응암오거리)",
   "category": "양식",
@@ -3685,7 +3685,7 @@
  },
  {
   "likes": 307,
-  "uploadfile_id": 307,
+  "starRating": 307,
   "id": 308,
   "name": "롯데리아 (이대)",
   "category": "양식",
@@ -3697,7 +3697,7 @@
  },
  {
   "likes": 308,
-  "uploadfile_id": 308,
+  "starRating": 308,
   "id": 309,
   "name": "롯데리아 (이수역)",
   "category": "양식",
@@ -3709,7 +3709,7 @@
  },
  {
   "likes": 309,
-  "uploadfile_id": 309,
+  "starRating": 309,
   "id": 310,
   "name": "롯데리아 (잠실롯데월드몰B1)",
   "category": "양식",
@@ -3721,7 +3721,7 @@
  },
  {
   "likes": 310,
-  "uploadfile_id": 310,
+  "starRating": 310,
   "id": 311,
   "name": "롯데리아 (잠실새내)",
   "category": "양식",
@@ -3733,7 +3733,7 @@
  },
  {
   "likes": 311,
-  "uploadfile_id": 311,
+  "starRating": 311,
   "id": 312,
   "name": "롯데리아 (잠실아이스링크)",
   "category": "양식",
@@ -3745,7 +3745,7 @@
  },
  {
   "likes": 312,
-  "uploadfile_id": 312,
+  "starRating": 312,
   "id": 313,
   "name": "롯데리아 (장안사거리)",
   "category": "양식",
@@ -3757,7 +3757,7 @@
  },
  {
   "likes": 313,
-  "uploadfile_id": 313,
+  "starRating": 313,
   "id": 314,
   "name": "롯데리아 (정릉)",
   "category": "양식",
@@ -3769,7 +3769,7 @@
  },
  {
   "likes": 314,
-  "uploadfile_id": 314,
+  "starRating": 314,
   "id": 315,
   "name": "롯데리아 (제기역)",
   "category": "양식",
@@ -3781,7 +3781,7 @@
  },
  {
   "likes": 315,
-  "uploadfile_id": 315,
+  "starRating": 315,
   "id": 316,
   "name": "롯데리아 (종암)",
   "category": "양식",
@@ -3793,7 +3793,7 @@
  },
  {
   "likes": 316,
-  "uploadfile_id": 316,
+  "starRating": 316,
   "id": 317,
   "name": "롯데리아 (중곡)",
   "category": "양식",
@@ -3805,7 +3805,7 @@
  },
  {
   "likes": 317,
-  "uploadfile_id": 317,
+  "starRating": 317,
   "id": 318,
   "name": "롯데리아 (중랑역)",
   "category": "양식",
@@ -3817,7 +3817,7 @@
  },
  {
   "likes": 318,
-  "uploadfile_id": 318,
+  "starRating": 318,
   "id": 319,
   "name": "롯데리아 (중앙대)",
   "category": "양식",
@@ -3829,7 +3829,7 @@
  },
  {
   "likes": 319,
-  "uploadfile_id": 319,
+  "starRating": 319,
   "id": 320,
   "name": "롯데리아 (중화역)",
   "category": "양식",
@@ -3841,7 +3841,7 @@
  },
  {
   "likes": 320,
-  "uploadfile_id": 320,
+  "starRating": 320,
   "id": 321,
   "name": "롯데리아 (창동역)",
   "category": "양식",
@@ -3853,7 +3853,7 @@
  },
  {
   "likes": 321,
-  "uploadfile_id": 321,
+  "starRating": 321,
   "id": 322,
   "name": "롯데리아 (창천)",
   "category": "양식",
@@ -3865,7 +3865,7 @@
  },
  {
   "likes": 322,
-  "uploadfile_id": 322,
+  "starRating": 322,
   "id": 323,
   "name": "롯데리아 (천왕역)",
   "category": "양식",
@@ -3877,7 +3877,7 @@
  },
  {
   "likes": 323,
-  "uploadfile_id": 323,
+  "starRating": 323,
   "id": 324,
   "name": "롯데리아 (천호역)",
   "category": "양식",
@@ -3889,7 +3889,7 @@
  },
  {
   "likes": 324,
-  "uploadfile_id": 324,
+  "starRating": 324,
   "id": 325,
   "name": "롯데리아 (청량리)",
   "category": "양식",
@@ -3901,7 +3901,7 @@
  },
  {
   "likes": 325,
-  "uploadfile_id": 325,
+  "starRating": 325,
   "id": 326,
   "name": "롯데리아 (청량리)",
   "category": "양식",
@@ -3913,7 +3913,7 @@
  },
  {
   "likes": 326,
-  "uploadfile_id": 326,
+  "starRating": 326,
   "id": 327,
   "name": "롯데리아 (청량리역)",
   "category": "양식",
@@ -3925,7 +3925,7 @@
  },
  {
   "likes": 327,
-  "uploadfile_id": 327,
+  "starRating": 327,
   "id": 328,
   "name": "롯데리아 (캐슬플라자)",
   "category": "양식",
@@ -3937,7 +3937,7 @@
  },
  {
   "likes": 328,
-  "uploadfile_id": 328,
+  "starRating": 328,
   "id": 329,
   "name": "롯데리아 (키자니아)",
   "category": "양식",
@@ -3949,7 +3949,7 @@
  },
  {
   "likes": 329,
-  "uploadfile_id": 329,
+  "starRating": 329,
   "id": 330,
   "name": "롯데리아 (학동역)",
   "category": "양식",
@@ -3961,7 +3961,7 @@
  },
  {
   "likes": 330,
-  "uploadfile_id": 330,
+  "starRating": 330,
   "id": 331,
   "name": "롯데리아 (한성대입구역)",
   "category": "양식",
@@ -3973,7 +3973,7 @@
  },
  {
   "likes": 331,
-  "uploadfile_id": 331,
+  "starRating": 331,
   "id": 332,
   "name": "롯데리아 (혜화)",
   "category": "양식",
@@ -3985,7 +3985,7 @@
  },
  {
   "likes": 332,
-  "uploadfile_id": 332,
+  "starRating": 332,
   "id": 333,
   "name": "롯데리아 (홈플러스 강서)",
   "category": "양식",
@@ -3997,7 +3997,7 @@
  },
  {
   "likes": 333,
-  "uploadfile_id": 333,
+  "starRating": 333,
   "id": 334,
   "name": "롯데리아 (홈플러스 남현)",
   "category": "양식",
@@ -4009,7 +4009,7 @@
  },
  {
   "likes": 334,
-  "uploadfile_id": 334,
+  "starRating": 334,
   "id": 335,
   "name": "롯데리아 (홈플러스방학)",
   "category": "양식",
@@ -4021,7 +4021,7 @@
  },
  {
   "likes": 335,
-  "uploadfile_id": 335,
+  "starRating": 335,
   "id": 336,
   "name": "롯데리아 (홈플러스상봉)",
   "category": "양식",
@@ -4033,7 +4033,7 @@
  },
  {
   "likes": 336,
-  "uploadfile_id": 336,
+  "starRating": 336,
   "id": 337,
   "name": "롯데리아 (홈플러스신내)",
   "category": "양식",
@@ -4045,7 +4045,7 @@
  },
  {
   "likes": 337,
-  "uploadfile_id": 337,
+  "starRating": 337,
   "id": 338,
   "name": "롯데리아 (홈플러스영등포)",
   "category": "양식",
@@ -4057,7 +4057,7 @@
  },
  {
   "likes": 338,
-  "uploadfile_id": 338,
+  "starRating": 338,
   "id": 339,
   "name": "롯데리아 (홈플러스월곡)",
   "category": "양식",
@@ -4069,7 +4069,7 @@
  },
  {
   "likes": 339,
-  "uploadfile_id": 339,
+  "starRating": 339,
   "id": 340,
   "name": "롯데리아 (홈플러스중계)",
   "category": "양식",
@@ -4081,7 +4081,7 @@
  },
  {
   "likes": 340,
-  "uploadfile_id": 340,
+  "starRating": 340,
   "id": 341,
   "name": "롯데리아 (홍은포방)",
   "category": "양식",
@@ -4093,7 +4093,7 @@
  },
  {
   "likes": 341,
-  "uploadfile_id": 341,
+  "starRating": 341,
   "id": 342,
   "name": "롯데리아 (화곡시장)",
   "category": "양식",
@@ -4105,7 +4105,7 @@
  },
  {
   "likes": 342,
-  "uploadfile_id": 342,
+  "starRating": 342,
   "id": 343,
   "name": "롯데리아 (화곡역)",
   "category": "양식",
@@ -4117,7 +4117,7 @@
  },
  {
   "likes": 343,
-  "uploadfile_id": 343,
+  "starRating": 343,
   "id": 344,
   "name": "롯데리아 (후암)",
   "category": "양식",
@@ -4129,7 +4129,7 @@
  },
  {
   "likes": 344,
-  "uploadfile_id": 344,
+  "starRating": 344,
   "id": 345,
   "name": "르베지왕",
   "category": "양식",
@@ -4141,7 +4141,7 @@
  },
  {
   "likes": 345,
-  "uploadfile_id": 345,
+  "starRating": 345,
   "id": 346,
   "name": "르알레스카 가로수길(Le ALASKA)",
   "category": "베이커리",
@@ -4153,7 +4153,7 @@
  },
  {
   "likes": 346,
-  "uploadfile_id": 346,
+  "starRating": 346,
   "id": 347,
   "name": "리밍",
   "category": "중식",
@@ -4165,7 +4165,7 @@
  },
  {
   "likes": 347,
-  "uploadfile_id": 347,
+  "starRating": 347,
   "id": 348,
   "name": "릴리베이커리",
   "category": "카페",
@@ -4177,7 +4177,7 @@
  },
  {
   "likes": 348,
-  "uploadfile_id": 348,
+  "starRating": 348,
   "id": 349,
   "name": "마나님레시피(계동마나님)",
   "category": "한식",
@@ -4189,7 +4189,7 @@
  },
  {
   "likes": 349,
-  "uploadfile_id": 349,
+  "starRating": 349,
   "id": 350,
   "name": "마녀샐러드 (역삼)",
   "category": "양식",
@@ -4201,7 +4201,7 @@
  },
  {
   "likes": 350,
-  "uploadfile_id": 350,
+  "starRating": 350,
   "id": 351,
   "name": "마루 자연식김밥",
   "category": "분식",
@@ -4213,7 +4213,7 @@
  },
  {
   "likes": 351,
-  "uploadfile_id": 351,
+  "starRating": 351,
   "id": 352,
   "name": "마리오네",
   "category": "양식",
@@ -4225,7 +4225,7 @@
  },
  {
   "likes": 352,
-  "uploadfile_id": 352,
+  "starRating": 352,
   "id": 353,
   "name": "마마미베이커리",
   "category": "베이커리",
@@ -4237,7 +4237,7 @@
  },
  {
   "likes": 353,
-  "uploadfile_id": 353,
+  "starRating": 353,
   "id": 354,
   "name": "마을찻집 마주이야기",
   "category": "카페",
@@ -4249,7 +4249,7 @@
  },
  {
   "likes": 354,
-  "uploadfile_id": 354,
+  "starRating": 354,
   "id": 355,
   "name": "마이클식당",
   "category": "한식",
@@ -4261,7 +4261,7 @@
  },
  {
   "likes": 355,
-  "uploadfile_id": 355,
+  "starRating": 355,
   "id": 356,
   "name": "마지",
   "category": "한식",
@@ -4273,7 +4273,7 @@
  },
  {
   "likes": 356,
-  "uploadfile_id": 356,
+  "starRating": 356,
   "id": 357,
   "name": "마치래빗 (상암)",
   "category": "양식",
@@ -4285,7 +4285,7 @@
  },
  {
   "likes": 357,
-  "uploadfile_id": 357,
+  "starRating": 357,
   "id": 358,
   "name": "마치래빗 (신사)",
   "category": "양식",
@@ -4297,7 +4297,7 @@
  },
  {
   "likes": 358,
-  "uploadfile_id": 358,
+  "starRating": 358,
   "id": 359,
   "name": "마켓온오프 성수",
   "category": "한식",
@@ -4309,7 +4309,7 @@
  },
  {
   "likes": 359,
-  "uploadfile_id": 359,
+  "starRating": 359,
   "id": 360,
   "name": "마히나 비건 테이블",
   "category": "양식",
@@ -4321,7 +4321,7 @@
  },
  {
   "likes": 360,
-  "uploadfile_id": 360,
+  "starRating": 360,
   "id": 361,
   "name": "만리장성",
   "category": "중식",
@@ -4333,7 +4333,7 @@
  },
  {
   "likes": 361,
-  "uploadfile_id": 361,
+  "starRating": 361,
   "id": 362,
   "name": "머노까머나 (대학로)",
   "category": "인도",
@@ -4345,7 +4345,7 @@
  },
  {
   "likes": 362,
-  "uploadfile_id": 362,
+  "starRating": 362,
   "id": 363,
   "name": "머노까머나 (신촌)",
   "category": "인도",
@@ -4357,7 +4357,7 @@
  },
  {
   "likes": 363,
-  "uploadfile_id": 363,
+  "starRating": 363,
   "id": 364,
   "name": "메밀부엌",
   "category": "한식",
@@ -4369,7 +4369,7 @@
  },
  {
   "likes": 364,
-  "uploadfile_id": 364,
+  "starRating": 364,
   "id": 365,
   "name": "메이크샐러드",
   "category": "양식",
@@ -4381,7 +4381,7 @@
  },
  {
   "likes": 365,
-  "uploadfile_id": 365,
+  "starRating": 365,
   "id": 366,
   "name": "메종데쎄종",
   "category": "베이커리",
@@ -4393,7 +4393,7 @@
  },
  {
   "likes": 366,
-  "uploadfile_id": 366,
+  "starRating": 366,
   "id": 367,
   "name": "메종드비건",
   "category": "베이커리",
@@ -4405,7 +4405,7 @@
  },
  {
   "likes": 367,
-  "uploadfile_id": 367,
+  "starRating": 367,
   "id": 368,
   "name": "멜라",
   "category": "인도",
@@ -4417,7 +4417,7 @@
  },
  {
   "likes": 368,
-  "uploadfile_id": 368,
+  "starRating": 368,
   "id": 369,
   "name": "명동칼국수",
   "category": "한식",
@@ -4429,7 +4429,7 @@
  },
  {
   "likes": 369,
-  "uploadfile_id": 369,
+  "starRating": 369,
   "id": 370,
   "name": "명동칼국수샤브샤브 (역삼디오빌)",
   "category": "한식",
@@ -4441,7 +4441,7 @@
  },
  {
   "likes": 370,
-  "uploadfile_id": 370,
+  "starRating": 370,
   "id": 371,
   "name": "모던김밥",
   "category": "분식",
@@ -4453,7 +4453,7 @@
  },
  {
   "likes": 371,
-  "uploadfile_id": 371,
+  "starRating": 371,
   "id": 372,
   "name": "모던파머스",
   "category": "양식",
@@ -4465,7 +4465,7 @@
  },
  {
   "likes": 372,
-  "uploadfile_id": 372,
+  "starRating": 372,
   "id": 373,
   "name": "모로코코 카페",
   "category": "양식",
@@ -4477,7 +4477,7 @@
  },
  {
   "likes": 373,
-  "uploadfile_id": 373,
+  "starRating": 373,
   "id": 374,
   "name": "모모메이드",
   "category": "베이커리",
@@ -4489,7 +4489,7 @@
  },
  {
   "likes": 374,
-  "uploadfile_id": 374,
+  "starRating": 374,
   "id": 375,
   "name": "모스가든",
   "category": "양식",
@@ -4501,7 +4501,7 @@
  },
  {
   "likes": 375,
-  "uploadfile_id": 375,
+  "starRating": 375,
   "id": 376,
   "name": "몽크스부처",
   "category": "양식",
@@ -4513,7 +4513,7 @@
  },
  {
   "likes": 376,
-  "uploadfile_id": 376,
+  "starRating": 376,
   "id": 377,
   "name": "몽타이",
   "category": "동남아",
@@ -4525,7 +4525,7 @@
  },
  {
   "likes": 377,
-  "uploadfile_id": 377,
+  "starRating": 377,
   "id": 378,
   "name": "무대륙",
   "category": "카페",
@@ -4537,7 +4537,7 @@
  },
  {
   "likes": 378,
-  "uploadfile_id": 378,
+  "starRating": 378,
   "id": 379,
   "name": "미니마이즈",
   "category": "카페",
@@ -4549,7 +4549,7 @@
  },
  {
   "likes": 379,
-  "uploadfile_id": 379,
+  "starRating": 379,
   "id": 380,
   "name": "미당순두부",
   "category": "한식",
@@ -4561,7 +4561,7 @@
  },
  {
   "likes": 380,
-  "uploadfile_id": 380,
+  "starRating": 380,
   "id": 381,
   "name": "미락",
   "category": "분식",
@@ -4573,7 +4573,7 @@
  },
  {
   "likes": 381,
-  "uploadfile_id": 381,
+  "starRating": 381,
   "id": 382,
   "name": "미스터 케밥",
   "category": "인도",
@@ -4585,7 +4585,7 @@
  },
  {
   "likes": 382,
-  "uploadfile_id": 382,
+  "starRating": 382,
   "id": 383,
   "name": "밀과보리",
   "category": "한식",
@@ -4597,7 +4597,7 @@
  },
  {
   "likes": 383,
-  "uploadfile_id": 383,
+  "starRating": 383,
   "id": 384,
   "name": "밀토니아",
   "category": "카페",
@@ -4609,7 +4609,7 @@
  },
  {
   "likes": 384,
-  "uploadfile_id": 384,
+  "starRating": 384,
   "id": 385,
   "name": "바토스 이태원점",
   "category": "양식",
@@ -4621,7 +4621,7 @@
  },
  {
   "likes": 385,
-  "uploadfile_id": 385,
+  "starRating": 385,
   "id": 386,
   "name": "바토스 잠실점",
   "category": "양식",
@@ -4633,7 +4633,7 @@
  },
  {
   "likes": 386,
-  "uploadfile_id": 386,
+  "starRating": 386,
   "id": 387,
   "name": "반기다",
   "category": "한식",
@@ -4645,7 +4645,7 @@
  },
  {
   "likes": 387,
-  "uploadfile_id": 387,
+  "starRating": 387,
   "id": 388,
   "name": "반미362 (대치)",
   "category": "동남아",
@@ -4657,7 +4657,7 @@
  },
  {
   "likes": 388,
-  "uploadfile_id": 388,
+  "starRating": 388,
   "id": 389,
   "name": "반미362 (센트라스)",
   "category": "동남아",
@@ -4669,7 +4669,7 @@
  },
  {
   "likes": 389,
-  "uploadfile_id": 389,
+  "starRating": 389,
   "id": 390,
   "name": "반미리 (이태원 반미점)",
   "category": "동남아",
@@ -4681,7 +4681,7 @@
  },
  {
   "likes": 390,
-  "uploadfile_id": 390,
+  "starRating": 390,
   "id": 391,
   "name": "반미리 (이태원 쌀국수점)",
   "category": "동남아",
@@ -4693,7 +4693,7 @@
  },
  {
   "likes": 391,
-  "uploadfile_id": 391,
+  "starRating": 391,
   "id": 392,
   "name": "발리인망원",
   "category": "동남아",
@@ -4705,7 +4705,7 @@
  },
  {
   "likes": 392,
-  "uploadfile_id": 392,
+  "starRating": 392,
   "id": 393,
   "name": "발효카페 큔",
   "category": "카페",
@@ -4717,7 +4717,7 @@
  },
  {
   "likes": 393,
-  "uploadfile_id": 393,
+  "starRating": 393,
   "id": 394,
   "name": "방콕야시장",
   "category": "동남아",
@@ -4729,7 +4729,7 @@
  },
  {
   "likes": 394,
-  "uploadfile_id": 394,
+  "starRating": 394,
   "id": 395,
   "name": "베르베르",
   "category": "양식",
@@ -4741,7 +4741,7 @@
  },
  {
   "likes": 395,
-  "uploadfile_id": 395,
+  "starRating": 395,
   "id": 396,
   "name": "베지그린",
   "category": "한식",
@@ -4753,7 +4753,7 @@
  },
  {
   "likes": 396,
-  "uploadfile_id": 396,
+  "starRating": 396,
   "id": 397,
   "name": "베지베어",
   "category": "양식",
@@ -4765,7 +4765,7 @@
  },
  {
   "likes": 397,
-  "uploadfile_id": 397,
+  "starRating": 397,
   "id": 398,
   "name": "베커린",
   "category": "베이커리",
@@ -4777,7 +4777,7 @@
  },
  {
   "likes": 398,
-  "uploadfile_id": 398,
+  "starRating": 398,
   "id": 399,
   "name": "별자리마라탕&훠궈",
   "category": "중식",
@@ -4789,7 +4789,7 @@
  },
  {
   "likes": 399,
-  "uploadfile_id": 399,
+  "starRating": 399,
   "id": 400,
   "name": "보난자베이커리 (성수)",
   "category": "베이커리",
@@ -4801,7 +4801,7 @@
  },
  {
   "likes": 400,
-  "uploadfile_id": 400,
+  "starRating": 400,
   "id": 401,
   "name": "보리보리옥선이 시골밥상 (성북)",
   "category": "한식",
@@ -4813,7 +4813,7 @@
  },
  {
   "likes": 401,
-  "uploadfile_id": 401,
+  "starRating": 401,
   "id": 402,
   "name": "보울룸 (신촌)",
   "category": "양식",
@@ -4825,7 +4825,7 @@
  },
  {
   "likes": 402,
-  "uploadfile_id": 402,
+  "starRating": 402,
   "id": 403,
   "name": "복춘정",
   "category": "한식",
@@ -4837,7 +4837,7 @@
  },
  {
   "likes": 403,
-  "uploadfile_id": 403,
+  "starRating": 403,
   "id": 404,
   "name": "본도시락 (교대역)",
   "category": "한식",
@@ -4849,7 +4849,7 @@
  },
  {
   "likes": 404,
-  "uploadfile_id": 404,
+  "starRating": 404,
   "id": 405,
   "name": "본도시락 (신논현역)",
   "category": "한식",
@@ -4861,7 +4861,7 @@
  },
  {
   "likes": 405,
-  "uploadfile_id": 405,
+  "starRating": 405,
   "id": 406,
   "name": "본도시락 (역삼초교)",
   "category": "한식",
@@ -4873,7 +4873,7 @@
  },
  {
   "likes": 406,
-  "uploadfile_id": 406,
+  "starRating": 406,
   "id": 407,
   "name": "본도시락 (영등포문래)",
   "category": "한식",
@@ -4885,7 +4885,7 @@
  },
  {
   "likes": 407,
-  "uploadfile_id": 407,
+  "starRating": 407,
   "id": 408,
   "name": "본도시락 (차병원사거리)",
   "category": "한식",
@@ -4897,7 +4897,7 @@
  },
  {
   "likes": 408,
-  "uploadfile_id": 408,
+  "starRating": 408,
   "id": 409,
   "name": "본죽 (가재울뉴타운)",
   "category": "한식",
@@ -4909,7 +4909,7 @@
  },
  {
   "likes": 409,
-  "uploadfile_id": 409,
+  "starRating": 409,
   "id": 410,
   "name": "본죽 (강남구청역)",
   "category": "한식",
@@ -4921,7 +4921,7 @@
  },
  {
   "likes": 410,
-  "uploadfile_id": 410,
+  "starRating": 410,
   "id": 411,
   "name": "본죽 (강남세브란스사거리)",
   "category": "한식",
@@ -4933,7 +4933,7 @@
  },
  {
   "likes": 411,
-  "uploadfile_id": 411,
+  "starRating": 411,
   "id": 412,
   "name": "본죽 (강남터미널)",
   "category": "한식",
@@ -4945,7 +4945,7 @@
  },
  {
   "likes": 412,
-  "uploadfile_id": 412,
+  "starRating": 412,
   "id": 413,
   "name": "본죽 (강동구청)",
   "category": "한식",
@@ -4957,7 +4957,7 @@
  },
  {
   "likes": 413,
-  "uploadfile_id": 413,
+  "starRating": 413,
   "id": 414,
   "name": "본죽 (강동성심병원)",
   "category": "한식",
@@ -4969,7 +4969,7 @@
  },
  {
   "likes": 414,
-  "uploadfile_id": 414,
+  "starRating": 414,
   "id": 415,
   "name": "본죽 (강변테크노마트)",
   "category": "한식",
@@ -4981,7 +4981,7 @@
  },
  {
   "likes": 415,
-  "uploadfile_id": 415,
+  "starRating": 415,
   "id": 416,
   "name": "본죽 (강일지구)",
   "category": "한식",
@@ -4993,7 +4993,7 @@
  },
  {
   "likes": 416,
-  "uploadfile_id": 416,
+  "starRating": 416,
   "id": 417,
   "name": "본죽 (개롱역)",
   "category": "한식",
@@ -5005,7 +5005,7 @@
  },
  {
   "likes": 417,
-  "uploadfile_id": 417,
+  "starRating": 417,
   "id": 418,
   "name": "본죽 (개포동)",
   "category": "한식",
@@ -5017,7 +5017,7 @@
  },
  {
   "likes": 418,
-  "uploadfile_id": 418,
+  "starRating": 418,
   "id": 419,
   "name": "본죽 (개포동역)",
   "category": "한식",
@@ -5029,7 +5029,7 @@
  },
  {
   "likes": 419,
-  "uploadfile_id": 419,
+  "starRating": 419,
   "id": 420,
   "name": "본죽 (거여동)",
   "category": "한식",
@@ -5041,7 +5041,7 @@
  },
  {
   "likes": 420,
-  "uploadfile_id": 420,
+  "starRating": 420,
   "id": 421,
   "name": "본죽 (경복궁)",
   "category": "한식",
@@ -5053,7 +5053,7 @@
  },
  {
   "likes": 421,
-  "uploadfile_id": 421,
+  "starRating": 421,
   "id": 422,
   "name": "본죽 (경복아파트)",
   "category": "한식",
@@ -5065,7 +5065,7 @@
  },
  {
   "likes": 422,
-  "uploadfile_id": 422,
+  "starRating": 422,
   "id": 423,
   "name": "본죽 (경희대)",
   "category": "한식",
@@ -5077,7 +5077,7 @@
  },
  {
   "likes": 423,
-  "uploadfile_id": 423,
+  "starRating": 423,
   "id": 424,
   "name": "본죽 (계동)",
   "category": "한식",
@@ -5089,7 +5089,7 @@
  },
  {
   "likes": 424,
-  "uploadfile_id": 424,
+  "starRating": 424,
   "id": 425,
   "name": "본죽 (공릉)",
   "category": "한식",
@@ -5101,7 +5101,7 @@
  },
  {
   "likes": 425,
-  "uploadfile_id": 425,
+  "starRating": 425,
   "id": 426,
   "name": "본죽 (공릉원자력병원)",
   "category": "한식",
@@ -5113,7 +5113,7 @@
  },
  {
   "likes": 426,
-  "uploadfile_id": 426,
+  "starRating": 426,
   "id": 427,
   "name": "본죽 (관악구청)",
   "category": "한식",
@@ -5125,7 +5125,7 @@
  },
  {
   "likes": 427,
-  "uploadfile_id": 427,
+  "starRating": 427,
   "id": 428,
   "name": "본죽 (광운대역)",
   "category": "한식",
@@ -5137,7 +5137,7 @@
  },
  {
   "likes": 428,
-  "uploadfile_id": 428,
+  "starRating": 428,
   "id": 429,
   "name": "본죽 (광장동)",
   "category": "한식",
@@ -5149,7 +5149,7 @@
  },
  {
   "likes": 429,
-  "uploadfile_id": 429,
+  "starRating": 429,
   "id": 430,
   "name": "본죽 (교대)",
   "category": "한식",
@@ -5161,7 +5161,7 @@
  },
  {
   "likes": 430,
-  "uploadfile_id": 430,
+  "starRating": 430,
   "id": 431,
   "name": "본죽 (교대역지파이브)",
   "category": "한식",
@@ -5173,7 +5173,7 @@
  },
  {
   "likes": 431,
-  "uploadfile_id": 431,
+  "starRating": 431,
   "id": 432,
   "name": "본죽 (구로디지털역)",
   "category": "한식",
@@ -5185,7 +5185,7 @@
  },
  {
   "likes": 432,
-  "uploadfile_id": 432,
+  "starRating": 432,
   "id": 433,
   "name": "본죽 (구반포)",
   "category": "한식",
@@ -5197,7 +5197,7 @@
  },
  {
   "likes": 433,
-  "uploadfile_id": 433,
+  "starRating": 433,
   "id": 434,
   "name": "본죽 (구의)",
   "category": "한식",
@@ -5209,7 +5209,7 @@
  },
  {
   "likes": 434,
-  "uploadfile_id": 434,
+  "starRating": 434,
   "id": 435,
   "name": "본죽 (구의시장)",
   "category": "한식",
@@ -5221,7 +5221,7 @@
  },
  {
   "likes": 435,
-  "uploadfile_id": 435,
+  "starRating": 435,
   "id": 436,
   "name": "본죽 (군자역)",
   "category": "한식",
@@ -5233,7 +5233,7 @@
  },
  {
   "likes": 436,
-  "uploadfile_id": 436,
+  "starRating": 436,
   "id": 437,
   "name": "본죽 (길동시장)",
   "category": "한식",
@@ -5245,7 +5245,7 @@
  },
  {
   "likes": 437,
-  "uploadfile_id": 437,
+  "starRating": 437,
   "id": 438,
   "name": "본죽 (길음뉴타운)",
   "category": "한식",
@@ -5257,7 +5257,7 @@
  },
  {
   "likes": 438,
-  "uploadfile_id": 438,
+  "starRating": 438,
   "id": 439,
   "name": "본죽 (길음역)",
   "category": "한식",
@@ -5269,7 +5269,7 @@
  },
  {
   "likes": 439,
-  "uploadfile_id": 439,
+  "starRating": 439,
   "id": 440,
   "name": "본죽 (난곡미성)",
   "category": "한식",
@@ -5281,7 +5281,7 @@
  },
  {
   "likes": 440,
-  "uploadfile_id": 440,
+  "starRating": 440,
   "id": 441,
   "name": "본죽 (남가좌)",
   "category": "한식",
@@ -5293,7 +5293,7 @@
  },
  {
   "likes": 441,
-  "uploadfile_id": 441,
+  "starRating": 441,
   "id": 442,
   "name": "본죽 (남부터미널)",
   "category": "한식",
@@ -5305,7 +5305,7 @@
  },
  {
   "likes": 442,
-  "uploadfile_id": 442,
+  "starRating": 442,
   "id": 443,
   "name": "본죽 (남성역)",
   "category": "한식",
@@ -5317,7 +5317,7 @@
  },
  {
   "likes": 443,
-  "uploadfile_id": 443,
+  "starRating": 443,
   "id": 444,
   "name": "본죽 (내방역)",
   "category": "한식",
@@ -5329,7 +5329,7 @@
  },
  {
   "likes": 444,
-  "uploadfile_id": 444,
+  "starRating": 444,
   "id": 445,
   "name": "본죽 (노원)",
   "category": "한식",
@@ -5341,7 +5341,7 @@
  },
  {
   "likes": 445,
-  "uploadfile_id": 445,
+  "starRating": 445,
   "id": 446,
   "name": "본죽 (노원7단지)",
   "category": "한식",
@@ -5353,7 +5353,7 @@
  },
  {
   "likes": 446,
-  "uploadfile_id": 446,
+  "starRating": 446,
   "id": 447,
   "name": "본죽 (녹번)",
   "category": "한식",
@@ -5365,7 +5365,7 @@
  },
  {
   "likes": 447,
-  "uploadfile_id": 447,
+  "starRating": 447,
   "id": 448,
   "name": "본죽 (논현)",
   "category": "한식",
@@ -5377,7 +5377,7 @@
  },
  {
   "likes": 448,
-  "uploadfile_id": 448,
+  "starRating": 448,
   "id": 449,
   "name": "본죽 (답십리)",
   "category": "한식",
@@ -5389,7 +5389,7 @@
  },
  {
   "likes": 449,
-  "uploadfile_id": 449,
+  "starRating": 449,
   "id": 450,
   "name": "본죽 (대림)",
   "category": "한식",
@@ -5401,7 +5401,7 @@
  },
  {
   "likes": 450,
-  "uploadfile_id": 450,
+  "starRating": 450,
   "id": 451,
   "name": "본죽 (대방)",
   "category": "한식",
@@ -5413,7 +5413,7 @@
  },
  {
   "likes": 451,
-  "uploadfile_id": 451,
+  "starRating": 451,
   "id": 452,
   "name": "본죽 (대치롯데)",
   "category": "한식",
@@ -5425,7 +5425,7 @@
  },
  {
   "likes": 452,
-  "uploadfile_id": 452,
+  "starRating": 452,
   "id": 453,
   "name": "본죽 (대치은마)",
   "category": "한식",
@@ -5437,7 +5437,7 @@
  },
  {
   "likes": 453,
-  "uploadfile_id": 453,
+  "starRating": 453,
   "id": 454,
   "name": "본죽 (대학로본)",
   "category": "한식",
@@ -5449,7 +5449,7 @@
  },
  {
   "likes": 454,
-  "uploadfile_id": 454,
+  "starRating": 454,
   "id": 455,
   "name": "본죽 (도봉월드)",
   "category": "한식",
@@ -5461,7 +5461,7 @@
  },
  {
   "likes": 455,
-  "uploadfile_id": 455,
+  "starRating": 455,
   "id": 456,
   "name": "본죽 (도심공항타워)",
   "category": "한식",
@@ -5473,7 +5473,7 @@
  },
  {
   "likes": 456,
-  "uploadfile_id": 456,
+  "starRating": 456,
   "id": 457,
   "name": "본죽 (독립문)",
   "category": "한식",
@@ -5485,7 +5485,7 @@
  },
  {
   "likes": 457,
-  "uploadfile_id": 457,
+  "starRating": 457,
   "id": 458,
   "name": "본죽 (돌곶이역)",
   "category": "한식",
@@ -5497,7 +5497,7 @@
  },
  {
   "likes": 458,
-  "uploadfile_id": 458,
+  "starRating": 458,
   "id": 459,
   "name": "본죽 (동국대제일병원)",
   "category": "한식",
@@ -5509,7 +5509,7 @@
  },
  {
   "likes": 459,
-  "uploadfile_id": 459,
+  "starRating": 459,
   "id": 460,
   "name": "본죽 (동대문밀리오레)",
   "category": "한식",
@@ -5521,7 +5521,7 @@
  },
  {
   "likes": 460,
-  "uploadfile_id": 460,
+  "starRating": 460,
   "id": 461,
   "name": "본죽 (동묘앞역)",
   "category": "한식",
@@ -5533,7 +5533,7 @@
  },
  {
   "likes": 461,
-  "uploadfile_id": 461,
+  "starRating": 461,
   "id": 462,
   "name": "본죽 (동부시장)",
   "category": "한식",
@@ -5545,7 +5545,7 @@
  },
  {
   "likes": 462,
-  "uploadfile_id": 462,
+  "starRating": 462,
   "id": 463,
   "name": "본죽 (둔촌동)",
   "category": "한식",
@@ -5557,7 +5557,7 @@
  },
  {
   "likes": 463,
-  "uploadfile_id": 463,
+  "starRating": 463,
   "id": 464,
   "name": "본죽 (뚝섬)",
   "category": "한식",
@@ -5569,7 +5569,7 @@
  },
  {
   "likes": 464,
-  "uploadfile_id": 464,
+  "starRating": 464,
   "id": 465,
   "name": "본죽 (뚝섬유원지역)",
   "category": "한식",
@@ -5581,7 +5581,7 @@
  },
  {
   "likes": 465,
-  "uploadfile_id": 465,
+  "starRating": 465,
   "id": 466,
   "name": "본죽 (마들역)",
   "category": "한식",
@@ -5593,7 +5593,7 @@
  },
  {
   "likes": 466,
-  "uploadfile_id": 466,
+  "starRating": 466,
   "id": 467,
   "name": "본죽 (마천동)",
   "category": "한식",
@@ -5605,7 +5605,7 @@
  },
  {
   "likes": 467,
-  "uploadfile_id": 467,
+  "starRating": 467,
   "id": 468,
   "name": "본죽 (망우동)",
   "category": "한식",
@@ -5617,7 +5617,7 @@
  },
  {
   "likes": 468,
-  "uploadfile_id": 468,
+  "starRating": 468,
   "id": 469,
   "name": "본죽 (망우역)",
   "category": "한식",
@@ -5629,7 +5629,7 @@
  },
  {
   "likes": 469,
-  "uploadfile_id": 469,
+  "starRating": 469,
   "id": 470,
   "name": "본죽 (망우우림시장)",
   "category": "한식",
@@ -5641,7 +5641,7 @@
  },
  {
   "likes": 470,
-  "uploadfile_id": 470,
+  "starRating": 470,
   "id": 471,
   "name": "본죽 (매봉역)",
   "category": "한식",
@@ -5653,7 +5653,7 @@
  },
  {
   "likes": 471,
-  "uploadfile_id": 471,
+  "starRating": 471,
   "id": 472,
   "name": "본죽 (먹골역)",
   "category": "한식",
@@ -5665,7 +5665,7 @@
  },
  {
   "likes": 472,
-  "uploadfile_id": 472,
+  "starRating": 472,
   "id": 473,
   "name": "본죽 (면목역)",
   "category": "한식",
@@ -5677,7 +5677,7 @@
  },
  {
   "likes": 473,
-  "uploadfile_id": 473,
+  "starRating": 473,
   "id": 474,
   "name": "본죽 (명동)",
   "category": "한식",
@@ -5689,7 +5689,7 @@
  },
  {
   "likes": 474,
-  "uploadfile_id": 474,
+  "starRating": 474,
   "id": 475,
   "name": "본죽 (명일동)",
   "category": "한식",
@@ -5701,7 +5701,7 @@
  },
  {
   "likes": 475,
-  "uploadfile_id": 475,
+  "starRating": 475,
   "id": 476,
   "name": "본죽 (명일역)",
   "category": "한식",
@@ -5713,7 +5713,7 @@
  },
  {
   "likes": 476,
-  "uploadfile_id": 476,
+  "starRating": 476,
   "id": 477,
   "name": "본죽 (문정로데오)",
   "category": "한식",
@@ -5725,7 +5725,7 @@
  },
  {
   "likes": 477,
-  "uploadfile_id": 477,
+  "starRating": 477,
   "id": 478,
   "name": "본죽 (미아사거리)",
   "category": "한식",
@@ -5737,7 +5737,7 @@
  },
  {
   "likes": 478,
-  "uploadfile_id": 478,
+  "starRating": 478,
   "id": 479,
   "name": "본죽 (미아역)",
   "category": "한식",
@@ -5749,7 +5749,7 @@
  },
  {
   "likes": 479,
-  "uploadfile_id": 479,
+  "starRating": 479,
   "id": 480,
   "name": "본죽 (반포)",
   "category": "한식",
@@ -5761,7 +5761,7 @@
  },
  {
   "likes": 480,
-  "uploadfile_id": 480,
+  "starRating": 480,
   "id": 481,
   "name": "본죽 (반포KCC)",
   "category": "한식",
@@ -5773,7 +5773,7 @@
  },
  {
   "likes": 481,
-  "uploadfile_id": 481,
+  "starRating": 481,
   "id": 482,
   "name": "본죽 (방배까페골목)",
   "category": "한식",
@@ -5785,7 +5785,7 @@
  },
  {
   "likes": 482,
-  "uploadfile_id": 482,
+  "starRating": 482,
   "id": 483,
   "name": "본죽 (방배메트로)",
   "category": "한식",
@@ -5797,7 +5797,7 @@
  },
  {
   "likes": 483,
-  "uploadfile_id": 483,
+  "starRating": 483,
   "id": 484,
   "name": "본죽 (방배상문고)",
   "category": "한식",
@@ -5809,7 +5809,7 @@
  },
  {
   "likes": 484,
-  "uploadfile_id": 484,
+  "starRating": 484,
   "id": 485,
   "name": "본죽 (방배역)",
   "category": "한식",
@@ -5821,7 +5821,7 @@
  },
  {
   "likes": 485,
-  "uploadfile_id": 485,
+  "starRating": 485,
   "id": 486,
   "name": "본죽 (방이시장)",
   "category": "한식",
@@ -5833,7 +5833,7 @@
  },
  {
   "likes": 486,
-  "uploadfile_id": 486,
+  "starRating": 486,
   "id": 487,
   "name": "본죽 (방이역)",
   "category": "한식",
@@ -5845,7 +5845,7 @@
  },
  {
   "likes": 487,
-  "uploadfile_id": 487,
+  "starRating": 487,
   "id": 488,
   "name": "본죽 (번동)",
   "category": "한식",
@@ -5857,7 +5857,7 @@
  },
  {
   "likes": 488,
-  "uploadfile_id": 488,
+  "starRating": 488,
   "id": 489,
   "name": "본죽 (보라매)",
   "category": "한식",
@@ -5869,7 +5869,7 @@
  },
  {
   "likes": 489,
-  "uploadfile_id": 489,
+  "starRating": 489,
   "id": 490,
   "name": "본죽 (보라매역)",
   "category": "한식",
@@ -5881,7 +5881,7 @@
  },
  {
   "likes": 490,
-  "uploadfile_id": 490,
+  "starRating": 490,
   "id": 491,
   "name": "본죽 (보문역)",
   "category": "한식",
@@ -5893,7 +5893,7 @@
  },
  {
   "likes": 491,
-  "uploadfile_id": 491,
+  "starRating": 491,
   "id": 492,
   "name": "본죽 (봉일시장)",
   "category": "한식",
@@ -5905,7 +5905,7 @@
  },
  {
   "likes": 492,
-  "uploadfile_id": 492,
+  "starRating": 492,
   "id": 493,
   "name": "본죽 (봉천)",
   "category": "한식",
@@ -5917,7 +5917,7 @@
  },
  {
   "likes": 493,
-  "uploadfile_id": 493,
+  "starRating": 493,
   "id": 494,
   "name": "본죽 (봉화산역)",
   "category": "한식",
@@ -5929,7 +5929,7 @@
  },
  {
   "likes": 494,
-  "uploadfile_id": 494,
+  "starRating": 494,
   "id": 495,
   "name": "본죽 (사가정역)",
   "category": "한식",
@@ -5941,7 +5941,7 @@
  },
  {
   "likes": 495,
-  "uploadfile_id": 495,
+  "starRating": 495,
   "id": 496,
   "name": "본죽 (사당)",
   "category": "한식",
@@ -5953,7 +5953,7 @@
  },
  {
   "likes": 496,
-  "uploadfile_id": 496,
+  "starRating": 496,
   "id": 497,
   "name": "본죽 (삼성차관아파트)",
   "category": "한식",
@@ -5965,7 +5965,7 @@
  },
  {
   "likes": 497,
-  "uploadfile_id": 497,
+  "starRating": 497,
   "id": 498,
   "name": "본죽 (삼양사거리)",
   "category": "한식",
@@ -5977,7 +5977,7 @@
  },
  {
   "likes": 498,
-  "uploadfile_id": 498,
+  "starRating": 498,
   "id": 499,
   "name": "본죽 (삼전동)",
   "category": "한식",
@@ -5989,7 +5989,7 @@
  },
  {
   "likes": 499,
-  "uploadfile_id": 499,
+  "starRating": 499,
   "id": 500,
   "name": "본죽 (상계백병원)",
   "category": "한식",
@@ -6001,7 +6001,7 @@
  },
  {
   "likes": 500,
-  "uploadfile_id": 500,
+  "starRating": 500,
   "id": 501,
   "name": "본죽 (상계보람)",
   "category": "한식",
@@ -6013,7 +6013,7 @@
  },
  {
   "likes": 501,
-  "uploadfile_id": 501,
+  "starRating": 501,
   "id": 502,
   "name": "본죽 (상계역)",
   "category": "한식",
@@ -6025,7 +6025,7 @@
  },
  {
   "likes": 502,
-  "uploadfile_id": 502,
+  "starRating": 502,
   "id": 503,
   "name": "본죽 (서림)",
   "category": "한식",
@@ -6037,7 +6037,7 @@
  },
  {
   "likes": 503,
-  "uploadfile_id": 503,
+  "starRating": 503,
   "id": 504,
   "name": "본죽 (서소문)",
   "category": "한식",
@@ -6049,7 +6049,7 @@
  },
  {
   "likes": 504,
-  "uploadfile_id": 504,
+  "starRating": 504,
   "id": 505,
   "name": "본죽 (서울금호)",
   "category": "한식",
@@ -6061,7 +6061,7 @@
  },
  {
   "likes": 505,
-  "uploadfile_id": 505,
+  "starRating": 505,
   "id": 506,
   "name": "본죽 (서울대입구역)",
   "category": "한식",
@@ -6073,7 +6073,7 @@
  },
  {
   "likes": 506,
-  "uploadfile_id": 506,
+  "starRating": 506,
   "id": 507,
   "name": "본죽 (서울백병원)",
   "category": "한식",
@@ -6085,7 +6085,7 @@
  },
  {
   "likes": 507,
-  "uploadfile_id": 507,
+  "starRating": 507,
   "id": 508,
   "name": "본죽 (서초구청)",
   "category": "한식",
@@ -6097,7 +6097,7 @@
  },
  {
   "likes": 508,
-  "uploadfile_id": 508,
+  "starRating": 508,
   "id": 509,
   "name": "본죽 (서초우체국)",
   "category": "한식",
@@ -6109,7 +6109,7 @@
  },
  {
   "likes": 509,
-  "uploadfile_id": 509,
+  "starRating": 509,
   "id": 510,
   "name": "본죽 (석계역)",
   "category": "한식",
@@ -6121,7 +6121,7 @@
  },
  {
   "likes": 510,
-  "uploadfile_id": 510,
+  "starRating": 510,
   "id": 511,
   "name": "본죽 (선릉역)",
   "category": "한식",
@@ -6133,7 +6133,7 @@
  },
  {
   "likes": 511,
-  "uploadfile_id": 511,
+  "starRating": 511,
   "id": 512,
   "name": "본죽 (성균관대)",
   "category": "한식",
@@ -6145,7 +6145,7 @@
  },
  {
   "likes": 512,
-  "uploadfile_id": 512,
+  "starRating": 512,
   "id": 513,
   "name": "본죽 (성수역)",
   "category": "한식",
@@ -6157,7 +6157,7 @@
  },
  {
   "likes": 513,
-  "uploadfile_id": 513,
+  "starRating": 513,
   "id": 514,
   "name": "본죽 (성수힐스테이트)",
   "category": "한식",
@@ -6169,7 +6169,7 @@
  },
  {
   "likes": 514,
-  "uploadfile_id": 514,
+  "starRating": 514,
   "id": 515,
   "name": "본죽 (세곡)",
   "category": "한식",
@@ -6181,7 +6181,7 @@
  },
  {
   "likes": 515,
-  "uploadfile_id": 515,
+  "starRating": 515,
   "id": 516,
   "name": "본죽 (세브란스직영)",
   "category": "한식",
@@ -6193,7 +6193,7 @@
  },
  {
   "likes": 516,
-  "uploadfile_id": 516,
+  "starRating": 516,
   "id": 517,
   "name": "본죽 (송파)",
   "category": "한식",
@@ -6205,7 +6205,7 @@
  },
  {
   "likes": 517,
-  "uploadfile_id": 517,
+  "starRating": 517,
   "id": 518,
   "name": "본죽 (송파가락)",
   "category": "한식",
@@ -6217,7 +6217,7 @@
  },
  {
   "likes": 518,
-  "uploadfile_id": 518,
+  "starRating": 518,
   "id": 519,
   "name": "본죽 (송파석촌)",
   "category": "한식",
@@ -6229,7 +6229,7 @@
  },
  {
   "likes": 519,
-  "uploadfile_id": 519,
+  "starRating": 519,
   "id": 520,
   "name": "본죽 (송파엄마손)",
   "category": "한식",
@@ -6241,7 +6241,7 @@
  },
  {
   "likes": 520,
-  "uploadfile_id": 520,
+  "starRating": 520,
   "id": 521,
   "name": "본죽 (송파위례중앙)",
   "category": "한식",
@@ -6253,7 +6253,7 @@
  },
  {
   "likes": 521,
-  "uploadfile_id": 521,
+  "starRating": 521,
   "id": 522,
   "name": "본죽 (수서)",
   "category": "한식",
@@ -6265,7 +6265,7 @@
  },
  {
   "likes": 522,
-  "uploadfile_id": 522,
+  "starRating": 522,
   "id": 523,
   "name": "본죽 (수유)",
   "category": "한식",
@@ -6277,7 +6277,7 @@
  },
  {
   "likes": 523,
-  "uploadfile_id": 523,
+  "starRating": 523,
   "id": 524,
   "name": "본죽 (숙대입구역)",
   "category": "한식",
@@ -6289,7 +6289,7 @@
  },
  {
   "likes": 524,
-  "uploadfile_id": 524,
+  "starRating": 524,
   "id": 525,
   "name": "본죽 (숭실대역)",
   "category": "한식",
@@ -6301,7 +6301,7 @@
  },
  {
   "likes": 525,
-  "uploadfile_id": 525,
+  "starRating": 525,
   "id": 526,
   "name": "본죽 (신금호역)",
   "category": "한식",
@@ -6313,7 +6313,7 @@
  },
  {
   "likes": 526,
-  "uploadfile_id": 526,
+  "starRating": 526,
   "id": 527,
   "name": "본죽 (신길)",
   "category": "한식",
@@ -6325,7 +6325,7 @@
  },
  {
   "likes": 527,
-  "uploadfile_id": 527,
+  "starRating": 527,
   "id": 528,
   "name": "본죽 (신길사러가쇼핑)",
   "category": "한식",
@@ -6337,7 +6337,7 @@
  },
  {
   "likes": 528,
-  "uploadfile_id": 528,
+  "starRating": 528,
   "id": 529,
   "name": "본죽 (신길성애병원옆)",
   "category": "한식",
@@ -6349,7 +6349,7 @@
  },
  {
   "likes": 529,
-  "uploadfile_id": 529,
+  "starRating": 529,
   "id": 530,
   "name": "본죽 (신내)",
   "category": "한식",
@@ -6361,7 +6361,7 @@
  },
  {
   "likes": 530,
-  "uploadfile_id": 530,
+  "starRating": 530,
   "id": 531,
   "name": "본죽 (신당동)",
   "category": "한식",
@@ -6373,7 +6373,7 @@
  },
  {
   "likes": 531,
-  "uploadfile_id": 531,
+  "starRating": 531,
   "id": 532,
   "name": "본죽 (신대방삼거리역)",
   "category": "한식",
@@ -6385,7 +6385,7 @@
  },
  {
   "likes": 532,
-  "uploadfile_id": 532,
+  "starRating": 532,
   "id": 533,
   "name": "본죽 (신대방역)",
   "category": "한식",
@@ -6397,7 +6397,7 @@
  },
  {
   "likes": 533,
-  "uploadfile_id": 533,
+  "starRating": 533,
   "id": 534,
   "name": "본죽 (신림고시촌)",
   "category": "한식",
@@ -6409,7 +6409,7 @@
  },
  {
   "likes": 534,
-  "uploadfile_id": 534,
+  "starRating": 534,
   "id": 535,
   "name": "본죽 (신림녹두거리)",
   "category": "한식",
@@ -6421,7 +6421,7 @@
  },
  {
   "likes": 535,
-  "uploadfile_id": 535,
+  "starRating": 535,
   "id": 536,
   "name": "본죽 (신림역)",
   "category": "한식",
@@ -6433,7 +6433,7 @@
  },
  {
   "likes": 536,
-  "uploadfile_id": 536,
+  "starRating": 536,
   "id": 537,
   "name": "본죽 (신사)",
   "category": "한식",
@@ -6445,7 +6445,7 @@
  },
  {
   "likes": 537,
-  "uploadfile_id": 537,
+  "starRating": 537,
   "id": 538,
   "name": "본죽 (신설동)",
   "category": "한식",
@@ -6457,7 +6457,7 @@
  },
  {
   "likes": 538,
-  "uploadfile_id": 538,
+  "starRating": 538,
   "id": 539,
   "name": "본죽 (신창)",
   "category": "한식",
@@ -6469,7 +6469,7 @@
  },
  {
   "likes": 539,
-  "uploadfile_id": 539,
+  "starRating": 539,
   "id": 540,
   "name": "본죽 (신천)",
   "category": "한식",
@@ -6481,7 +6481,7 @@
  },
  {
   "likes": 540,
-  "uploadfile_id": 540,
+  "starRating": 540,
   "id": 541,
   "name": "본죽 (신풍역)",
   "category": "한식",
@@ -6493,7 +6493,7 @@
  },
  {
   "likes": 541,
-  "uploadfile_id": 541,
+  "starRating": 541,
   "id": 542,
   "name": "본죽 (쌍문)",
   "category": "한식",
@@ -6505,7 +6505,7 @@
  },
  {
   "likes": 542,
-  "uploadfile_id": 542,
+  "starRating": 542,
   "id": 543,
   "name": "본죽 (쌍문한일병원)",
   "category": "한식",
@@ -6517,7 +6517,7 @@
  },
  {
   "likes": 543,
-  "uploadfile_id": 543,
+  "starRating": 543,
   "id": 544,
   "name": "본죽 (아차산)",
   "category": "한식",
@@ -6529,7 +6529,7 @@
  },
  {
   "likes": 544,
-  "uploadfile_id": 544,
+  "starRating": 544,
   "id": 545,
   "name": "본죽 (암사롯데팰리스)",
   "category": "한식",
@@ -6541,7 +6541,7 @@
  },
  {
   "likes": 545,
-  "uploadfile_id": 545,
+  "starRating": 545,
   "id": 546,
   "name": "본죽 (암사역)",
   "category": "한식",
@@ -6553,7 +6553,7 @@
  },
  {
   "likes": 546,
-  "uploadfile_id": 546,
+  "starRating": 546,
   "id": 547,
   "name": "본죽 (압구정로데오)",
   "category": "한식",
@@ -6565,7 +6565,7 @@
  },
  {
   "likes": 547,
-  "uploadfile_id": 547,
+  "starRating": 547,
   "id": 548,
   "name": "본죽 (압구정역)",
   "category": "한식",
@@ -6577,7 +6577,7 @@
  },
  {
   "likes": 548,
-  "uploadfile_id": 548,
+  "starRating": 548,
   "id": 549,
   "name": "본죽 (약수역)",
   "category": "한식",
@@ -6589,7 +6589,7 @@
  },
  {
   "likes": 549,
-  "uploadfile_id": 549,
+  "starRating": 549,
   "id": 550,
   "name": "본죽 (양재은광여고)",
   "category": "한식",
@@ -6601,7 +6601,7 @@
  },
  {
   "likes": 550,
-  "uploadfile_id": 550,
+  "starRating": 550,
   "id": 551,
   "name": "본죽 (여의도KBS)",
   "category": "한식",
@@ -6613,7 +6613,7 @@
  },
  {
   "likes": 551,
-  "uploadfile_id": 551,
+  "starRating": 551,
   "id": 552,
   "name": "본죽 (역삼역)",
   "category": "한식",
@@ -6625,7 +6625,7 @@
  },
  {
   "likes": 552,
-  "uploadfile_id": 552,
+  "starRating": 552,
   "id": 553,
   "name": "본죽 (역삼특허청)",
   "category": "한식",
@@ -6637,7 +6637,7 @@
  },
  {
   "likes": 553,
-  "uploadfile_id": 553,
+  "starRating": 553,
   "id": 554,
   "name": "본죽 (연대대신동)",
   "category": "한식",
@@ -6649,7 +6649,7 @@
  },
  {
   "likes": 554,
-  "uploadfile_id": 554,
+  "starRating": 554,
   "id": 555,
   "name": "본죽 (영등포로터리)",
   "category": "한식",
@@ -6661,7 +6661,7 @@
  },
  {
   "likes": 555,
-  "uploadfile_id": 555,
+  "starRating": 555,
   "id": 556,
   "name": "본죽 (영등포역)",
   "category": "한식",
@@ -6673,7 +6673,7 @@
  },
  {
   "likes": 556,
-  "uploadfile_id": 556,
+  "starRating": 556,
   "id": 557,
   "name": "본죽 (오금)",
   "category": "한식",
@@ -6685,7 +6685,7 @@
  },
  {
   "likes": 557,
-  "uploadfile_id": 557,
+  "starRating": 557,
   "id": 558,
   "name": "본죽 (올림픽)",
   "category": "한식",
@@ -6697,7 +6697,7 @@
  },
  {
   "likes": 558,
-  "uploadfile_id": 558,
+  "starRating": 558,
   "id": 559,
   "name": "본죽 (왕십리)",
   "category": "한식",
@@ -6709,7 +6709,7 @@
  },
  {
   "likes": 559,
-  "uploadfile_id": 559,
+  "starRating": 559,
   "id": 560,
   "name": "본죽 (외대)",
   "category": "한식",
@@ -6721,7 +6721,7 @@
  },
  {
   "likes": 560,
-  "uploadfile_id": 560,
+  "starRating": 560,
   "id": 561,
   "name": "본죽 (용두)",
   "category": "한식",
@@ -6733,7 +6733,7 @@
  },
  {
   "likes": 561,
-  "uploadfile_id": 561,
+  "starRating": 561,
   "id": 562,
   "name": "본죽 (용문동)",
   "category": "한식",
@@ -6745,7 +6745,7 @@
  },
  {
   "likes": 562,
-  "uploadfile_id": 562,
+  "starRating": 562,
   "id": 563,
   "name": "본죽 (우면)",
   "category": "한식",
@@ -6757,7 +6757,7 @@
  },
  {
   "likes": 563,
-  "uploadfile_id": 563,
+  "starRating": 563,
   "id": 564,
   "name": "본죽 (우이사거리)",
   "category": "한식",
@@ -6769,7 +6769,7 @@
  },
  {
   "likes": 564,
-  "uploadfile_id": 564,
+  "starRating": 564,
   "id": 565,
   "name": "본죽 (월계)",
   "category": "한식",
@@ -6781,7 +6781,7 @@
  },
  {
   "likes": 565,
-  "uploadfile_id": 565,
+  "starRating": 565,
   "id": 566,
   "name": "본죽 (월곡)",
   "category": "한식",
@@ -6793,7 +6793,7 @@
  },
  {
   "likes": 566,
-  "uploadfile_id": 566,
+  "starRating": 566,
   "id": 567,
   "name": "본죽 (위생병원)",
   "category": "한식",
@@ -6805,7 +6805,7 @@
  },
  {
   "likes": 567,
-  "uploadfile_id": 567,
+  "starRating": 567,
   "id": 568,
   "name": "본죽 (이대)",
   "category": "한식",
@@ -6817,7 +6817,7 @@
  },
  {
   "likes": 568,
-  "uploadfile_id": 568,
+  "starRating": 568,
   "id": 569,
   "name": "본죽 (이수)",
   "category": "한식",
@@ -6829,7 +6829,7 @@
  },
  {
   "likes": 569,
-  "uploadfile_id": 569,
+  "starRating": 569,
   "id": 570,
   "name": "본죽 (인사동)",
   "category": "한식",
@@ -6841,7 +6841,7 @@
  },
  {
   "likes": 570,
-  "uploadfile_id": 570,
+  "starRating": 570,
   "id": 571,
   "name": "본죽 (인왕산)",
   "category": "한식",
@@ -6853,7 +6853,7 @@
  },
  {
   "likes": 571,
-  "uploadfile_id": 571,
+  "starRating": 571,
   "id": 572,
   "name": "본죽 (일원)",
   "category": "한식",
@@ -6865,7 +6865,7 @@
  },
  {
   "likes": 572,
-  "uploadfile_id": 572,
+  "starRating": 572,
   "id": 573,
   "name": "본죽 (자양동)",
   "category": "한식",
@@ -6877,7 +6877,7 @@
  },
  {
   "likes": 573,
-  "uploadfile_id": 573,
+  "starRating": 573,
   "id": 574,
   "name": "본죽 (잠실나루역)",
   "category": "한식",
@@ -6889,7 +6889,7 @@
  },
  {
   "likes": 574,
-  "uploadfile_id": 574,
+  "starRating": 574,
   "id": 575,
   "name": "본죽 (잠원)",
   "category": "한식",
@@ -6901,7 +6901,7 @@
  },
  {
   "likes": 575,
-  "uploadfile_id": 575,
+  "starRating": 575,
   "id": 576,
   "name": "본죽 (장승배기역)",
   "category": "한식",
@@ -6913,7 +6913,7 @@
  },
  {
   "likes": 576,
-  "uploadfile_id": 576,
+  "starRating": 576,
   "id": 577,
   "name": "본죽 (장안동)",
   "category": "한식",
@@ -6925,7 +6925,7 @@
  },
  {
   "likes": 577,
-  "uploadfile_id": 577,
+  "starRating": 577,
   "id": 578,
   "name": "본죽 (장안동삼거리)",
   "category": "한식",
@@ -6937,7 +6937,7 @@
  },
  {
   "likes": 578,
-  "uploadfile_id": 578,
+  "starRating": 578,
   "id": 579,
   "name": "본죽 (전농뉴타운)",
   "category": "한식",
@@ -6949,7 +6949,7 @@
  },
  {
   "likes": 579,
-  "uploadfile_id": 579,
+  "starRating": 579,
   "id": 580,
   "name": "본죽 (전농동)",
   "category": "한식",
@@ -6961,7 +6961,7 @@
  },
  {
   "likes": 580,
-  "uploadfile_id": 580,
+  "starRating": 580,
   "id": 581,
   "name": "본죽 (정릉)",
   "category": "한식",
@@ -6973,7 +6973,7 @@
  },
  {
   "likes": 581,
-  "uploadfile_id": 581,
+  "starRating": 581,
   "id": 582,
   "name": "본죽 (종로3가)",
   "category": "한식",
@@ -6985,7 +6985,7 @@
  },
  {
   "likes": 582,
-  "uploadfile_id": 582,
+  "starRating": 582,
   "id": 583,
   "name": "본죽 (종로6가)",
   "category": "한식",
@@ -6997,7 +6997,7 @@
  },
  {
   "likes": 583,
-  "uploadfile_id": 583,
+  "starRating": 583,
   "id": 584,
   "name": "본죽 (종암)",
   "category": "한식",
@@ -7009,7 +7009,7 @@
  },
  {
   "likes": 584,
-  "uploadfile_id": 584,
+  "starRating": 584,
   "id": 585,
   "name": "본죽 (중계)",
   "category": "한식",
@@ -7021,7 +7021,7 @@
  },
  {
   "likes": 585,
-  "uploadfile_id": 585,
+  "starRating": 585,
   "id": 586,
   "name": "본죽 (중계브라운스톤)",
   "category": "한식",
@@ -7033,7 +7033,7 @@
  },
  {
   "likes": 586,
-  "uploadfile_id": 586,
+  "starRating": 586,
   "id": 587,
   "name": "본죽 (중곡신성시장)",
   "category": "한식",
@@ -7045,7 +7045,7 @@
  },
  {
   "likes": 587,
-  "uploadfile_id": 587,
+  "starRating": 587,
   "id": 588,
   "name": "본죽 (중앙대)",
   "category": "한식",
@@ -7057,7 +7057,7 @@
  },
  {
   "likes": 588,
-  "uploadfile_id": 588,
+  "starRating": 588,
   "id": 589,
   "name": "본죽 (중화역)",
   "category": "한식",
@@ -7069,7 +7069,7 @@
  },
  {
   "likes": 589,
-  "uploadfile_id": 589,
+  "starRating": 589,
   "id": 590,
   "name": "본죽 (창동)",
   "category": "한식",
@@ -7081,7 +7081,7 @@
  },
  {
   "likes": 590,
-  "uploadfile_id": 590,
+  "starRating": 590,
   "id": 591,
   "name": "본죽 (천호로데오)",
   "category": "한식",
@@ -7093,7 +7093,7 @@
  },
  {
   "likes": 591,
-  "uploadfile_id": 591,
+  "starRating": 591,
   "id": 592,
   "name": "본죽 (천호초교)",
   "category": "한식",
@@ -7105,7 +7105,7 @@
  },
  {
   "likes": 592,
-  "uploadfile_id": 592,
+  "starRating": 592,
   "id": 593,
   "name": "본죽 (청담)",
   "category": "한식",
@@ -7117,7 +7117,7 @@
  },
  {
   "likes": 593,
-  "uploadfile_id": 593,
+  "starRating": 593,
   "id": 594,
   "name": "본죽 (청담프리마)",
   "category": "한식",
@@ -7129,7 +7129,7 @@
  },
  {
   "likes": 594,
-  "uploadfile_id": 594,
+  "starRating": 594,
   "id": 595,
   "name": "본죽 (청량리)",
   "category": "한식",
@@ -7141,7 +7141,7 @@
  },
  {
   "likes": 595,
-  "uploadfile_id": 595,
+  "starRating": 595,
   "id": 596,
   "name": "본죽 (충정로역)",
   "category": "한식",
@@ -7153,7 +7153,7 @@
  },
  {
   "likes": 596,
-  "uploadfile_id": 596,
+  "starRating": 596,
   "id": 597,
   "name": "본죽 (코엑스몰)",
   "category": "한식",
@@ -7165,7 +7165,7 @@
  },
  {
   "likes": 597,
-  "uploadfile_id": 597,
+  "starRating": 597,
   "id": 598,
   "name": "본죽 (평창)",
   "category": "한식",
@@ -7177,7 +7177,7 @@
  },
  {
   "likes": 598,
-  "uploadfile_id": 598,
+  "starRating": 598,
   "id": 599,
   "name": "본죽 (풍납동)",
   "category": "한식",
@@ -7189,7 +7189,7 @@
  },
  {
   "likes": 599,
-  "uploadfile_id": 599,
+  "starRating": 599,
   "id": 600,
   "name": "본죽 (하계)",
   "category": "한식",
@@ -7201,7 +7201,7 @@
  },
  {
   "likes": 600,
-  "uploadfile_id": 600,
+  "starRating": 600,
   "id": 601,
   "name": "본죽 (학동역)",
   "category": "한식",
@@ -7213,7 +7213,7 @@
  },
  {
   "likes": 601,
-  "uploadfile_id": 601,
+  "starRating": 601,
   "id": 602,
   "name": "본죽 (한남순천향병원)",
   "category": "한식",
@@ -7225,7 +7225,7 @@
  },
  {
   "likes": 602,
-  "uploadfile_id": 602,
+  "starRating": 602,
   "id": 603,
   "name": "본죽 (한성대입구)",
   "category": "한식",
@@ -7237,7 +7237,7 @@
  },
  {
   "likes": 603,
-  "uploadfile_id": 603,
+  "starRating": 603,
   "id": 604,
   "name": "본죽 (한양대)",
   "category": "한식",
@@ -7249,7 +7249,7 @@
  },
  {
   "likes": 604,
-  "uploadfile_id": 604,
+  "starRating": 604,
   "id": 605,
   "name": "본죽 (행당동)",
   "category": "한식",
@@ -7261,7 +7261,7 @@
  },
  {
   "likes": 605,
-  "uploadfile_id": 605,
+  "starRating": 605,
   "id": 606,
   "name": "본죽 (홍은1동)",
   "category": "한식",
@@ -7273,7 +7273,7 @@
  },
  {
   "likes": 606,
-  "uploadfile_id": 606,
+  "starRating": 606,
   "id": 607,
   "name": "본죽 (홍은서대문구청)",
   "category": "한식",
@@ -7285,7 +7285,7 @@
  },
  {
   "likes": 607,
-  "uploadfile_id": 607,
+  "starRating": 607,
   "id": 608,
   "name": "본죽 (홍제)",
   "category": "한식",
@@ -7297,7 +7297,7 @@
  },
  {
   "likes": 608,
-  "uploadfile_id": 608,
+  "starRating": 608,
   "id": 609,
   "name": "본죽 (화랑대역)",
   "category": "한식",
@@ -7309,7 +7309,7 @@
  },
  {
   "likes": 609,
-  "uploadfile_id": 609,
+  "starRating": 609,
   "id": 610,
   "name": "본죽 (화양사거리)",
   "category": "한식",
@@ -7321,7 +7321,7 @@
  },
  {
   "likes": 610,
-  "uploadfile_id": 610,
+  "starRating": 610,
   "id": 611,
   "name": "본죽 (황학동롯데캐슬)",
   "category": "한식",
@@ -7333,7 +7333,7 @@
  },
  {
   "likes": 611,
-  "uploadfile_id": 611,
+  "starRating": 611,
   "id": 612,
   "name": "본죽 (회현역)",
   "category": "한식",
@@ -7345,7 +7345,7 @@
  },
  {
   "likes": 612,
-  "uploadfile_id": 612,
+  "starRating": 612,
   "id": 613,
   "name": "본죽&비빔밥cafe (강남역)",
   "category": "한식",
@@ -7357,7 +7357,7 @@
  },
  {
   "likes": 613,
-  "uploadfile_id": 613,
+  "starRating": 613,
   "id": 614,
   "name": "본죽&비빔밥cafe (건대)",
   "category": "한식",
@@ -7369,7 +7369,7 @@
  },
  {
   "likes": 614,
-  "uploadfile_id": 614,
+  "starRating": 614,
   "id": 615,
   "name": "본죽&비빔밥cafe (고려대)",
   "category": "한식",
@@ -7381,7 +7381,7 @@
  },
  {
   "likes": 615,
-  "uploadfile_id": 615,
+  "starRating": 615,
   "id": 616,
   "name": "본죽&비빔밥cafe (관악우체국)",
   "category": "한식",
@@ -7393,7 +7393,7 @@
  },
  {
   "likes": 616,
-  "uploadfile_id": 616,
+  "starRating": 616,
   "id": 617,
   "name": "본죽&비빔밥cafe (광화문)",
   "category": "한식",
@@ -7405,7 +7405,7 @@
  },
  {
   "likes": 617,
-  "uploadfile_id": 617,
+  "starRating": 617,
   "id": 618,
   "name": "본죽&비빔밥cafe (굽은다리역)",
   "category": "한식",
@@ -7417,7 +7417,7 @@
  },
  {
   "likes": 618,
-  "uploadfile_id": 618,
+  "starRating": 618,
   "id": 619,
   "name": "본죽&비빔밥cafe (노량진)",
   "category": "한식",
@@ -7429,7 +7429,7 @@
  },
  {
   "likes": 619,
-  "uploadfile_id": 619,
+  "starRating": 619,
   "id": 620,
   "name": "본죽&비빔밥cafe (돈암동)",
   "category": "한식",
@@ -7441,7 +7441,7 @@
  },
  {
   "likes": 620,
-  "uploadfile_id": 620,
+  "starRating": 620,
   "id": 621,
   "name": "본죽&비빔밥cafe (둔촌보훈병원)",
   "category": "한식",
@@ -7453,7 +7453,7 @@
  },
  {
   "likes": 621,
-  "uploadfile_id": 621,
+  "starRating": 621,
   "id": 622,
   "name": "본죽&비빔밥cafe (명동2호)",
   "category": "한식",
@@ -7465,7 +7465,7 @@
  },
  {
   "likes": 622,
-  "uploadfile_id": 622,
+  "starRating": 622,
   "id": 623,
   "name": "본죽&비빔밥cafe (반포서래)",
   "category": "한식",
@@ -7477,7 +7477,7 @@
  },
  {
   "likes": 623,
-  "uploadfile_id": 623,
+  "starRating": 623,
   "id": 624,
   "name": "본죽&비빔밥cafe (서초법원)",
   "category": "한식",
@@ -7489,7 +7489,7 @@
  },
  {
   "likes": 624,
-  "uploadfile_id": 624,
+  "starRating": 624,
   "id": 625,
   "name": "본죽&비빔밥cafe (선릉)",
   "category": "한식",
@@ -7501,7 +7501,7 @@
  },
  {
   "likes": 625,
-  "uploadfile_id": 625,
+  "starRating": 625,
   "id": 626,
   "name": "본죽&비빔밥cafe (성신여대)",
   "category": "한식",
@@ -7513,7 +7513,7 @@
  },
  {
   "likes": 626,
-  "uploadfile_id": 626,
+  "starRating": 626,
   "id": 627,
   "name": "본죽&비빔밥cafe (시청)",
   "category": "한식",
@@ -7525,7 +7525,7 @@
  },
  {
   "likes": 627,
-  "uploadfile_id": 627,
+  "starRating": 627,
   "id": 628,
   "name": "본죽&비빔밥cafe (신촌)",
   "category": "한식",
@@ -7537,7 +7537,7 @@
  },
  {
   "likes": 628,
-  "uploadfile_id": 628,
+  "starRating": 628,
   "id": 629,
   "name": "본죽&비빔밥cafe (여의도역)",
   "category": "한식",
@@ -7549,7 +7549,7 @@
  },
  {
   "likes": 629,
-  "uploadfile_id": 629,
+  "starRating": 629,
   "id": 630,
   "name": "본죽&비빔밥cafe (연세암병원)",
   "category": "한식",
@@ -7561,7 +7561,7 @@
  },
  {
   "likes": 630,
-  "uploadfile_id": 630,
+  "starRating": 630,
   "id": 631,
   "name": "본죽&비빔밥cafe (연희)",
   "category": "한식",
@@ -7573,7 +7573,7 @@
  },
  {
   "likes": 631,
-  "uploadfile_id": 631,
+  "starRating": 631,
   "id": 632,
   "name": "본죽&비빔밥cafe (잠실)",
   "category": "한식",
@@ -7585,7 +7585,7 @@
  },
  {
   "likes": 632,
-  "uploadfile_id": 632,
+  "starRating": 632,
   "id": 633,
   "name": "본죽&비빔밥cafe (잠실레이크팰리스)",
   "category": "한식",
@@ -7597,7 +7597,7 @@
  },
  {
   "likes": 633,
-  "uploadfile_id": 633,
+  "starRating": 633,
   "id": 634,
   "name": "본죽&비빔밥cafe (장지파인타운)",
   "category": "한식",
@@ -7609,7 +7609,7 @@
  },
  {
   "likes": 634,
-  "uploadfile_id": 634,
+  "starRating": 634,
   "id": 635,
   "name": "본죽&비빔밥cafe (장한평역)",
   "category": "한식",
@@ -7621,7 +7621,7 @@
  },
  {
   "likes": 635,
-  "uploadfile_id": 635,
+  "starRating": 635,
   "id": 636,
   "name": "본죽&비빔밥cafe (종각역)",
   "category": "한식",
@@ -7633,7 +7633,7 @@
  },
  {
   "likes": 636,
-  "uploadfile_id": 636,
+  "starRating": 636,
   "id": 637,
   "name": "본죽&비빔밥cafe (태릉입구역)",
   "category": "한식",
@@ -7645,7 +7645,7 @@
  },
  {
   "likes": 637,
-  "uploadfile_id": 637,
+  "starRating": 637,
   "id": 638,
   "name": "본죽&비빔밥cafe (포이)",
   "category": "한식",
@@ -7657,7 +7657,7 @@
  },
  {
   "likes": 638,
-  "uploadfile_id": 638,
+  "starRating": 638,
   "id": 639,
   "name": "본죽&비빕밥 (낙성대)",
   "category": "한식",
@@ -7669,7 +7669,7 @@
  },
  {
   "likes": 639,
-  "uploadfile_id": 639,
+  "starRating": 639,
   "id": 640,
   "name": "불티나 이모네전",
   "category": "기타",
@@ -7681,7 +7681,7 @@
  },
  {
   "likes": 640,
-  "uploadfile_id": 640,
+  "starRating": 640,
   "id": 641,
   "name": "브레드피트",
   "category": "베이커리",
@@ -7693,7 +7693,7 @@
  },
  {
   "likes": 641,
-  "uploadfile_id": 641,
+  "starRating": 641,
   "id": 642,
   "name": "브레라",
   "category": "양식",
@@ -7705,7 +7705,7 @@
  },
  {
   "likes": 642,
-  "uploadfile_id": 642,
+  "starRating": 642,
   "id": 643,
   "name": "블렌드랩",
   "category": "카페",
@@ -7717,7 +7717,7 @@
  },
  {
   "likes": 643,
-  "uploadfile_id": 643,
+  "starRating": 643,
   "id": 644,
   "name": "비건이삼 (비건23)",
   "category": "베이커리",
@@ -7729,7 +7729,7 @@
  },
  {
   "likes": 644,
-  "uploadfile_id": 644,
+  "starRating": 644,
   "id": 645,
   "name": "비건키친",
   "category": "양식",
@@ -7741,7 +7741,7 @@
  },
  {
   "likes": 645,
-  "uploadfile_id": 645,
+  "starRating": 645,
   "id": 646,
   "name": "비글루 (V glue)",
   "category": "카페",
@@ -7753,7 +7753,7 @@
  },
  {
   "likes": 646,
-  "uploadfile_id": 646,
+  "starRating": 646,
   "id": 647,
   "name": "비비빔",
   "category": "한식",
@@ -7765,7 +7765,7 @@
  },
  {
   "likes": 647,
-  "uploadfile_id": 647,
+  "starRating": 647,
   "id": 648,
   "name": "비스코티앤파이",
   "category": "베이커리",
@@ -7777,7 +7777,7 @@
  },
  {
   "likes": 648,
-  "uploadfile_id": 648,
+  "starRating": 648,
   "id": 649,
   "name": "비터스윗",
   "category": "카페",
@@ -7789,7 +7789,7 @@
  },
  {
   "likes": 649,
-  "uploadfile_id": 649,
+  "starRating": 649,
   "id": 650,
   "name": "사우스사이드팔러",
   "category": "양식",
@@ -7801,7 +7801,7 @@
  },
  {
   "likes": 650,
-  "uploadfile_id": 650,
+  "starRating": 650,
   "id": 651,
   "name": "산촌",
   "category": "한식",
@@ -7813,7 +7813,7 @@
  },
  {
   "likes": 651,
-  "uploadfile_id": 651,
+  "starRating": 651,
   "id": 652,
   "name": "산타비",
   "category": "분식",
@@ -7825,7 +7825,7 @@
  },
  {
   "likes": 652,
-  "uploadfile_id": 652,
+  "starRating": 652,
   "id": 653,
   "name": "삼미제면",
   "category": "한식",
@@ -7837,7 +7837,7 @@
  },
  {
   "likes": 653,
-  "uploadfile_id": 653,
+  "starRating": 653,
   "id": 654,
   "name": "삼삼오오커피공작소",
   "category": "카페",
@@ -7849,7 +7849,7 @@
  },
  {
   "likes": 654,
-  "uploadfile_id": 654,
+  "starRating": 654,
   "id": 655,
   "name": "샐러데이 (고려대)",
   "category": "양식",
@@ -7861,7 +7861,7 @@
  },
  {
   "likes": 655,
-  "uploadfile_id": 655,
+  "starRating": 655,
   "id": 656,
   "name": "샐러데이 (수유)",
   "category": "양식",
@@ -7873,7 +7873,7 @@
  },
  {
   "likes": 656,
-  "uploadfile_id": 656,
+  "starRating": 656,
   "id": 657,
   "name": "샐러데이 (종로)",
   "category": "양식",
@@ -7885,7 +7885,7 @@
  },
  {
   "likes": 657,
-  "uploadfile_id": 657,
+  "starRating": 657,
   "id": 658,
   "name": "샐러데이 (중랑)",
   "category": "양식",
@@ -7897,7 +7897,7 @@
  },
  {
   "likes": 658,
-  "uploadfile_id": 658,
+  "starRating": 658,
   "id": 659,
   "name": "샐러데이 (한성대)",
   "category": "양식",
@@ -7909,7 +7909,7 @@
  },
  {
   "likes": 659,
-  "uploadfile_id": 659,
+  "starRating": 659,
   "id": 660,
   "name": "샐러드 보투아",
   "category": "한식",
@@ -7921,7 +7921,7 @@
  },
  {
   "likes": 660,
-  "uploadfile_id": 660,
+  "starRating": 660,
   "id": 661,
   "name": "샐러디 (가양역)",
   "category": "양식",
@@ -7933,7 +7933,7 @@
  },
  {
   "likes": 661,
-  "uploadfile_id": 661,
+  "starRating": 661,
   "id": 662,
   "name": "샐러디 (강남역)",
   "category": "양식",
@@ -7945,7 +7945,7 @@
  },
  {
   "likes": 662,
-  "uploadfile_id": 662,
+  "starRating": 662,
   "id": 663,
   "name": "샐러디 (건대역)",
   "category": "양식",
@@ -7957,7 +7957,7 @@
  },
  {
   "likes": 663,
-  "uploadfile_id": 663,
+  "starRating": 663,
   "id": 664,
   "name": "샐러디 (교대역)",
   "category": "양식",
@@ -7969,7 +7969,7 @@
  },
  {
   "likes": 664,
-  "uploadfile_id": 664,
+  "starRating": 664,
   "id": 665,
   "name": "샐러디 (국민대)",
   "category": "양식",
@@ -7981,7 +7981,7 @@
  },
  {
   "likes": 665,
-  "uploadfile_id": 665,
+  "starRating": 665,
   "id": 666,
   "name": "샐러디 (당산역)",
   "category": "양식",
@@ -7993,7 +7993,7 @@
  },
  {
   "likes": 666,
-  "uploadfile_id": 666,
+  "starRating": 666,
   "id": 667,
   "name": "샐러디 (덕수궁롯데캐슬)",
   "category": "양식",
@@ -8005,7 +8005,7 @@
  },
  {
   "likes": 667,
-  "uploadfile_id": 667,
+  "starRating": 667,
   "id": 668,
   "name": "샐러디 (롯데마트서울양평)",
   "category": "양식",
@@ -8017,7 +8017,7 @@
  },
  {
   "likes": 668,
-  "uploadfile_id": 668,
+  "starRating": 668,
   "id": 669,
   "name": "샐러디 (마곡나루역)",
   "category": "양식",
@@ -8029,7 +8029,7 @@
  },
  {
   "likes": 669,
-  "uploadfile_id": 669,
+  "starRating": 669,
   "id": 670,
   "name": "샐러디 (마곡발산역)",
   "category": "양식",
@@ -8041,7 +8041,7 @@
  },
  {
   "likes": 670,
-  "uploadfile_id": 670,
+  "starRating": 670,
   "id": 671,
   "name": "샐러디 (문래동)",
   "category": "양식",
@@ -8053,7 +8053,7 @@
  },
  {
   "likes": 671,
-  "uploadfile_id": 671,
+  "starRating": 671,
   "id": 672,
   "name": "샐러디 (문정엠스테이트)",
   "category": "양식",
@@ -8065,7 +8065,7 @@
  },
  {
   "likes": 672,
-  "uploadfile_id": 672,
+  "starRating": 672,
   "id": 673,
   "name": "샐러디 (보라매)",
   "category": "양식",
@@ -8077,7 +8077,7 @@
  },
  {
   "likes": 673,
-  "uploadfile_id": 673,
+  "starRating": 673,
   "id": 674,
   "name": "샐러디 (삼성)",
   "category": "양식",
@@ -8089,7 +8089,7 @@
  },
  {
   "likes": 674,
-  "uploadfile_id": 674,
+  "starRating": 674,
   "id": 675,
   "name": "샐러디 (서울스퀘어)",
   "category": "양식",
@@ -8101,7 +8101,7 @@
  },
  {
   "likes": 675,
-  "uploadfile_id": 675,
+  "starRating": 675,
   "id": 676,
   "name": "샐러디 (선릉)",
   "category": "양식",
@@ -8113,7 +8113,7 @@
  },
  {
   "likes": 676,
-  "uploadfile_id": 676,
+  "starRating": 676,
   "id": 677,
   "name": "샐러디 (선유도역)",
   "category": "양식",
@@ -8125,7 +8125,7 @@
  },
  {
   "likes": 677,
-  "uploadfile_id": 677,
+  "starRating": 677,
   "id": 678,
   "name": "샐러디 (숙명여대)",
   "category": "양식",
@@ -8137,7 +8137,7 @@
  },
  {
   "likes": 678,
-  "uploadfile_id": 678,
+  "starRating": 678,
   "id": 679,
   "name": "샐러디 (신용산)",
   "category": "양식",
@@ -8149,7 +8149,7 @@
  },
  {
   "likes": 679,
-  "uploadfile_id": 679,
+  "starRating": 679,
   "id": 680,
   "name": "샐러디 (역삼)",
   "category": "양식",
@@ -8161,7 +8161,7 @@
  },
  {
   "likes": 680,
-  "uploadfile_id": 680,
+  "starRating": 680,
   "id": 681,
   "name": "샐러디 (연세대)",
   "category": "양식",
@@ -8173,7 +8173,7 @@
  },
  {
   "likes": 681,
-  "uploadfile_id": 681,
+  "starRating": 681,
   "id": 682,
   "name": "샐러디 (이화여대)",
   "category": "양식",
@@ -8185,7 +8185,7 @@
  },
  {
   "likes": 682,
-  "uploadfile_id": 682,
+  "starRating": 682,
   "id": 683,
   "name": "샐러디 (익스프레스 압구정)",
   "category": "양식",
@@ -8197,7 +8197,7 @@
  },
  {
   "likes": 683,
-  "uploadfile_id": 683,
+  "starRating": 683,
   "id": 684,
   "name": "샐러디 (종로광교)",
   "category": "양식",
@@ -8209,7 +8209,7 @@
  },
  {
   "likes": 684,
-  "uploadfile_id": 684,
+  "starRating": 684,
   "id": 685,
   "name": "샐러디 (충무로역)",
   "category": "양식",
@@ -8221,7 +8221,7 @@
  },
  {
   "likes": 685,
-  "uploadfile_id": 685,
+  "starRating": 685,
   "id": 686,
   "name": "샐러디 (한양대)",
   "category": "양식",
@@ -8233,7 +8233,7 @@
  },
  {
   "likes": 686,
-  "uploadfile_id": 686,
+  "starRating": 686,
   "id": 687,
   "name": "샐러디치오도씨",
   "category": "양식",
@@ -8245,7 +8245,7 @@
  },
  {
   "likes": 687,
-  "uploadfile_id": 687,
+  "starRating": 687,
   "id": 688,
   "name": "샐러마리",
   "category": "분식",
@@ -8257,7 +8257,7 @@
  },
  {
   "likes": 688,
-  "uploadfile_id": 688,
+  "starRating": 688,
   "id": 689,
   "name": "서촌가락",
   "category": "기타",
@@ -8269,7 +8269,7 @@
  },
  {
   "likes": 689,
-  "uploadfile_id": 689,
+  "starRating": 689,
   "id": 690,
   "name": "선동보리밥",
   "category": "한식",
@@ -8281,7 +8281,7 @@
  },
  {
   "likes": 690,
-  "uploadfile_id": 690,
+  "starRating": 690,
   "id": 691,
   "name": "세아마라탕",
   "category": "중식",
@@ -8293,7 +8293,7 @@
  },
  {
   "likes": 691,
-  "uploadfile_id": 691,
+  "starRating": 691,
   "id": 692,
   "name": "세향마라탕",
   "category": "중식",
@@ -8305,7 +8305,7 @@
  },
  {
   "likes": 692,
-  "uploadfile_id": 692,
+  "starRating": 692,
   "id": 693,
   "name": "셰발레리",
   "category": "양식",
@@ -8317,7 +8317,7 @@
  },
  {
   "likes": 693,
-  "uploadfile_id": 693,
+  "starRating": 693,
   "id": 694,
   "name": "소소하게",
   "category": "카페",
@@ -8329,7 +8329,7 @@
  },
  {
   "likes": 694,
-  "uploadfile_id": 694,
+  "starRating": 694,
   "id": 695,
   "name": "소이로움",
   "category": "양식",
@@ -8341,7 +8341,7 @@
  },
  {
   "likes": 695,
-  "uploadfile_id": 695,
+  "starRating": 695,
   "id": 696,
   "name": "송포어스(song for earth)",
   "category": "카페",
@@ -8353,7 +8353,7 @@
  },
  {
   "likes": 696,
-  "uploadfile_id": 696,
+  "starRating": 696,
   "id": 697,
   "name": "수잔네 허브식당",
   "category": "한식",
@@ -8365,7 +8365,7 @@
  },
  {
   "likes": 697,
-  "uploadfile_id": 697,
+  "starRating": 697,
   "id": 698,
   "name": "수제비와보리밥",
   "category": "한식",
@@ -8377,7 +8377,7 @@
  },
  {
   "likes": 698,
-  "uploadfile_id": 698,
+  "starRating": 698,
   "id": 699,
   "name": "수카라",
   "category": "카페",
@@ -8389,7 +8389,7 @@
  },
  {
   "likes": 699,
-  "uploadfile_id": 699,
+  "starRating": 699,
   "id": 700,
   "name": "술탄 케밥",
   "category": "인도",
@@ -8401,7 +8401,7 @@
  },
  {
   "likes": 700,
-  "uploadfile_id": 700,
+  "starRating": 700,
   "id": 701,
   "name": "스무디킹 (강남역)",
   "category": "카페",
@@ -8413,7 +8413,7 @@
  },
  {
   "likes": 701,
-  "uploadfile_id": 701,
+  "starRating": 701,
   "id": 702,
   "name": "스무디킹 (강남터미널)",
   "category": "카페",
@@ -8425,7 +8425,7 @@
  },
  {
   "likes": 702,
-  "uploadfile_id": 702,
+  "starRating": 702,
   "id": 703,
   "name": "스무디킹 (건대입구 롯데시네마)",
   "category": "카페",
@@ -8437,7 +8437,7 @@
  },
  {
   "likes": 703,
-  "uploadfile_id": 703,
+  "starRating": 703,
   "id": 704,
   "name": "스무디킹 (논현)",
   "category": "카페",
@@ -8449,7 +8449,7 @@
  },
  {
   "likes": 704,
-  "uploadfile_id": 704,
+  "starRating": 704,
   "id": 705,
   "name": "스무디킹 (뉴코아강남)",
   "category": "카페",
@@ -8461,7 +8461,7 @@
  },
  {
   "likes": 705,
-  "uploadfile_id": 705,
+  "starRating": 705,
   "id": 706,
   "name": "스무디킹 (롯데몰은평)",
   "category": "카페",
@@ -8473,7 +8473,7 @@
  },
  {
   "likes": 706,
-  "uploadfile_id": 706,
+  "starRating": 706,
   "id": 707,
   "name": "스무디킹 (롯데월드몰)",
   "category": "카페",
@@ -8485,7 +8485,7 @@
  },
  {
   "likes": 707,
-  "uploadfile_id": 707,
+  "starRating": 707,
   "id": 708,
   "name": "스무디킹 (삼청동)",
   "category": "카페",
@@ -8497,7 +8497,7 @@
  },
  {
   "likes": 708,
-  "uploadfile_id": 708,
+  "starRating": 708,
   "id": 709,
   "name": "스무디킹 (서울역사)",
   "category": "카페",
@@ -8509,7 +8509,7 @@
  },
  {
   "likes": 709,
-  "uploadfile_id": 709,
+  "starRating": 709,
   "id": 710,
   "name": "스무디킹 (스타필드코엑스몰)",
   "category": "카페",
@@ -8521,7 +8521,7 @@
  },
  {
   "likes": 710,
-  "uploadfile_id": 710,
+  "starRating": 710,
   "id": 711,
   "name": "스무디킹 (신림포도몰)",
   "category": "카페",
@@ -8533,7 +8533,7 @@
  },
  {
   "likes": 711,
-  "uploadfile_id": 711,
+  "starRating": 711,
   "id": 712,
   "name": "스무디킹 (영등포타임스퀘어)",
   "category": "카페",
@@ -8545,7 +8545,7 @@
  },
  {
   "likes": 712,
-  "uploadfile_id": 712,
+  "starRating": 712,
   "id": 713,
   "name": "스무디킹 (이대ECC)",
   "category": "카페",
@@ -8557,7 +8557,7 @@
  },
  {
   "likes": 713,
-  "uploadfile_id": 713,
+  "starRating": 713,
   "id": 714,
   "name": "스무디킹 (청량리역사)",
   "category": "카페",
@@ -8569,7 +8569,7 @@
  },
  {
   "likes": 714,
-  "uploadfile_id": 714,
+  "starRating": 714,
   "id": 715,
   "name": "스무디킹 (파스텔시티)",
   "category": "카페",
@@ -8581,7 +8581,7 @@
  },
  {
   "likes": 715,
-  "uploadfile_id": 715,
+  "starRating": 715,
   "id": 716,
   "name": "스윗밸런스 (샤로수길)",
   "category": "양식",
@@ -8593,7 +8593,7 @@
  },
  {
   "likes": 716,
-  "uploadfile_id": 716,
+  "starRating": 716,
   "id": 717,
   "name": "스윗밸런스 (신용산)",
   "category": "양식",
@@ -8605,7 +8605,7 @@
  },
  {
   "likes": 717,
-  "uploadfile_id": 717,
+  "starRating": 717,
   "id": 718,
   "name": "스윗밸런스 (역삼)",
   "category": "양식",
@@ -8617,7 +8617,7 @@
  },
  {
   "likes": 718,
-  "uploadfile_id": 718,
+  "starRating": 718,
   "id": 719,
   "name": "스윗밸런스 (정동길)",
   "category": "양식",
@@ -8629,7 +8629,7 @@
  },
  {
   "likes": 719,
-  "uploadfile_id": 719,
+  "starRating": 719,
   "id": 720,
   "name": "스윗밸런스 (퍼시픽타워)",
   "category": "양식",
@@ -8641,7 +8641,7 @@
  },
  {
   "likes": 720,
-  "uploadfile_id": 720,
+  "starRating": 720,
   "id": 721,
   "name": "스윗솔키친",
   "category": "카페",
@@ -8653,7 +8653,7 @@
  },
  {
   "likes": 721,
-  "uploadfile_id": 721,
+  "starRating": 721,
   "id": 722,
   "name": "슬로우브레드 오고",
   "category": "베이커리",
@@ -8665,7 +8665,7 @@
  },
  {
   "likes": 722,
-  "uploadfile_id": 722,
+  "starRating": 722,
   "id": 723,
   "name": "슬로우캘리",
   "category": "양식",
@@ -8677,7 +8677,7 @@
  },
  {
   "likes": 723,
-  "uploadfile_id": 723,
+  "starRating": 723,
   "id": 724,
   "name": "써니브레드",
   "category": "베이커리",
@@ -8689,7 +8689,7 @@
  },
  {
   "likes": 724,
-  "uploadfile_id": 724,
+  "starRating": 724,
   "id": 725,
   "name": "써니스 멕시칸 키친",
   "category": "양식",
@@ -8701,7 +8701,7 @@
  },
  {
   "likes": 725,
-  "uploadfile_id": 725,
+  "starRating": 725,
   "id": 726,
   "name": "쏭타이 (역삼)",
   "category": "동남아",
@@ -8713,7 +8713,7 @@
  },
  {
   "likes": 726,
-  "uploadfile_id": 726,
+  "starRating": 726,
   "id": 727,
   "name": "쏭타이 (이태원)",
   "category": "동남아",
@@ -8725,7 +8725,7 @@
  },
  {
   "likes": 727,
-  "uploadfile_id": 727,
+  "starRating": 727,
   "id": 728,
   "name": "아그라 (서울로)",
   "category": "인도",
@@ -8737,7 +8737,7 @@
  },
  {
   "likes": 728,
-  "uploadfile_id": 728,
+  "starRating": 728,
   "id": 729,
   "name": "아그라 (센터원)",
   "category": "인도",
@@ -8749,7 +8749,7 @@
  },
  {
   "likes": 729,
-  "uploadfile_id": 729,
+  "starRating": 729,
   "id": 730,
   "name": "아그라 (이태원)",
   "category": "인도",
@@ -8761,7 +8761,7 @@
  },
  {
   "likes": 730,
-  "uploadfile_id": 730,
+  "starRating": 730,
   "id": 731,
   "name": "아날로그 소사이어티 키친",
   "category": "양식",
@@ -8773,7 +8773,7 @@
  },
  {
   "likes": 731,
-  "uploadfile_id": 731,
+  "starRating": 731,
   "id": 732,
   "name": "아담스타코",
   "category": "양식",
@@ -8785,7 +8785,7 @@
  },
  {
   "likes": 732,
-  "uploadfile_id": 732,
+  "starRating": 732,
   "id": 733,
   "name": "아승지",
   "category": "한식",
@@ -8797,7 +8797,7 @@
  },
  {
   "likes": 733,
-  "uploadfile_id": 733,
+  "starRating": 733,
   "id": 734,
   "name": "아이엠",
   "category": "카페",
@@ -8809,7 +8809,7 @@
  },
  {
   "likes": 734,
-  "uploadfile_id": 734,
+  "starRating": 734,
   "id": 735,
   "name": "아이엠샐러드",
   "category": "양식",
@@ -8821,7 +8821,7 @@
  },
  {
   "likes": 735,
-  "uploadfile_id": 735,
+  "starRating": 735,
   "id": 736,
   "name": "아틀리에 송",
   "category": "양식",
@@ -8833,7 +8833,7 @@
  },
  {
   "likes": 736,
-  "uploadfile_id": 736,
+  "starRating": 736,
   "id": 737,
   "name": "아필립",
   "category": "양식",
@@ -8845,7 +8845,7 @@
  },
  {
   "likes": 737,
-  "uploadfile_id": 737,
+  "starRating": 737,
   "id": 738,
   "name": "알디프 티 바 & 라운지",
   "category": "기타",
@@ -8857,7 +8857,7 @@
  },
  {
   "likes": 738,
-  "uploadfile_id": 738,
+  "starRating": 738,
   "id": 739,
   "name": "앙뗄",
   "category": "베이커리",
@@ -8869,7 +8869,7 @@
  },
  {
   "likes": 739,
-  "uploadfile_id": 739,
+  "starRating": 739,
   "id": 740,
   "name": "앞으로의빵집",
   "category": "카페",
@@ -8881,7 +8881,7 @@
  },
  {
   "likes": 740,
-  "uploadfile_id": 740,
+  "starRating": 740,
   "id": 741,
   "name": "애프터 저크 오프 (After Jerk Off)",
   "category": "기타",
@@ -8893,7 +8893,7 @@
  },
  {
   "likes": 741,
-  "uploadfile_id": 741,
+  "starRating": 741,
   "id": 742,
   "name": "얌미타이 (Yummy Thai)",
   "category": "동남아",
@@ -8905,7 +8905,7 @@
  },
  {
   "likes": 742,
-  "uploadfile_id": 742,
+  "starRating": 742,
   "id": 743,
   "name": "어게인리프레쉬 (가로수길)",
   "category": "양식",
@@ -8917,7 +8917,7 @@
  },
  {
   "likes": 743,
-  "uploadfile_id": 743,
+  "starRating": 743,
   "id": 744,
   "name": "어게인리프레쉬 (연남)",
   "category": "양식",
@@ -8929,7 +8929,7 @@
  },
  {
   "likes": 744,
-  "uploadfile_id": 744,
+  "starRating": 744,
   "id": 745,
   "name": "어글리스토브 (상봉)",
   "category": "양식",
@@ -8941,7 +8941,7 @@
  },
  {
   "likes": 745,
-  "uploadfile_id": 745,
+  "starRating": 745,
   "id": 746,
   "name": "어글리스토브 (신논현강남역)",
   "category": "양식",
@@ -8953,7 +8953,7 @@
  },
  {
   "likes": 746,
-  "uploadfile_id": 746,
+  "starRating": 746,
   "id": 747,
   "name": "어니스트그린",
   "category": "카페",
@@ -8965,7 +8965,7 @@
  },
  {
   "likes": 747,
-  "uploadfile_id": 747,
+  "starRating": 747,
   "id": 748,
   "name": "어반도투리",
   "category": "한식",
@@ -8977,7 +8977,7 @@
  },
  {
   "likes": 748,
-  "uploadfile_id": 748,
+  "starRating": 748,
   "id": 749,
   "name": "언니네반점",
   "category": "중식",
@@ -8989,7 +8989,7 @@
  },
  {
   "likes": 749,
-  "uploadfile_id": 749,
+  "starRating": 749,
   "id": 750,
   "name": "언플러그드",
   "category": "카페",
@@ -9001,7 +9001,7 @@
  },
  {
   "likes": 750,
-  "uploadfile_id": 750,
+  "starRating": 750,
   "id": 751,
   "name": "엄마식탁",
   "category": "한식",
@@ -9013,7 +9013,7 @@
  },
  {
   "likes": 751,
-  "uploadfile_id": 751,
+  "starRating": 751,
   "id": 752,
   "name": "에베레스트 (동대문 굿모닝씨티)",
   "category": "인도",
@@ -9025,7 +9025,7 @@
  },
  {
   "likes": 752,
-  "uploadfile_id": 752,
+  "starRating": 752,
   "id": 753,
   "name": "에베레스트 (동대문)",
   "category": "인도",
@@ -9037,7 +9037,7 @@
  },
  {
   "likes": 753,
-  "uploadfile_id": 753,
+  "starRating": 753,
   "id": 754,
   "name": "에베레스트 (영등포)",
   "category": "인도",
@@ -9049,7 +9049,7 @@
  },
  {
   "likes": 754,
-  "uploadfile_id": 754,
+  "starRating": 754,
   "id": 755,
   "name": "에베레스트 (종로)",
   "category": "인도",
@@ -9061,7 +9061,7 @@
  },
  {
   "likes": 755,
-  "uploadfile_id": 755,
+  "starRating": 755,
   "id": 756,
   "name": "에이투지카페 (SFC)",
   "category": "양식",
@@ -9073,7 +9073,7 @@
  },
  {
   "likes": 756,
-  "uploadfile_id": 756,
+  "starRating": 756,
   "id": 757,
   "name": "엔와이84.8",
   "category": "양식",
@@ -9085,7 +9085,7 @@
  },
  {
   "likes": 757,
-  "uploadfile_id": 757,
+  "starRating": 757,
   "id": 758,
   "name": "엔조",
   "category": "양식",
@@ -9097,7 +9097,7 @@
  },
  {
   "likes": 758,
-  "uploadfile_id": 758,
+  "starRating": 758,
   "id": 759,
   "name": "엘리펀트키친",
   "category": "기타",
@@ -9109,7 +9109,7 @@
  },
  {
   "likes": 759,
-  "uploadfile_id": 759,
+  "starRating": 759,
   "id": 760,
   "name": "역삼정",
   "category": "한식",
@@ -9121,7 +9121,7 @@
  },
  {
   "likes": 760,
-  "uploadfile_id": 760,
+  "starRating": 760,
   "id": 761,
   "name": "연우김밥",
   "category": "분식",
@@ -9133,7 +9133,7 @@
  },
  {
   "likes": 761,
-  "uploadfile_id": 761,
+  "starRating": 761,
   "id": 762,
   "name": "연우김밥 (성산)",
   "category": "분식",
@@ -9145,7 +9145,7 @@
  },
  {
   "likes": 762,
-  "uploadfile_id": 762,
+  "starRating": 762,
   "id": 763,
   "name": "열매정원",
   "category": "양식",
@@ -9157,7 +9157,7 @@
  },
  {
   "likes": 763,
-  "uploadfile_id": 763,
+  "starRating": 763,
   "id": 764,
   "name": "옛살비 강된장",
   "category": "한식",
@@ -9169,7 +9169,7 @@
  },
  {
   "likes": 764,
-  "uploadfile_id": 764,
+  "starRating": 764,
   "id": 765,
   "name": "오곡당",
   "category": "한식",
@@ -9181,7 +9181,7 @@
  },
  {
   "likes": 765,
-  "uploadfile_id": 765,
+  "starRating": 765,
   "id": 766,
   "name": "오샬 (커리146)",
   "category": "인도",
@@ -9193,7 +9193,7 @@
  },
  {
   "likes": 766,
-  "uploadfile_id": 766,
+  "starRating": 766,
   "id": 767,
   "name": "오세계향",
   "category": "한식",
@@ -9205,7 +9205,7 @@
  },
  {
   "likes": 767,
-  "uploadfile_id": 767,
+  "starRating": 767,
   "id": 768,
   "name": "옥루몽 (신촌본점)",
   "category": "한식",
@@ -9217,7 +9217,7 @@
  },
  {
   "likes": 768,
-  "uploadfile_id": 768,
+  "starRating": 768,
   "id": 769,
   "name": "옥루몽 (어린이 대공원점)",
   "category": "한식",
@@ -9229,7 +9229,7 @@
  },
  {
   "likes": 769,
-  "uploadfile_id": 769,
+  "starRating": 769,
   "id": 770,
   "name": "온더보더 (광화문D타워)",
   "category": "양식",
@@ -9241,7 +9241,7 @@
  },
  {
   "likes": 770,
-  "uploadfile_id": 770,
+  "starRating": 770,
   "id": 771,
   "name": "온더보더 (롯데몰김포공항)",
   "category": "양식",
@@ -9253,7 +9253,7 @@
  },
  {
   "likes": 771,
-  "uploadfile_id": 771,
+  "starRating": 771,
   "id": 772,
   "name": "온더보더 (롯데월드몰)",
   "category": "양식",
@@ -9265,7 +9265,7 @@
  },
  {
   "likes": 772,
-  "uploadfile_id": 772,
+  "starRating": 772,
   "id": 773,
   "name": "온더보더 (여의도IFC)",
   "category": "양식",
@@ -9277,7 +9277,7 @@
  },
  {
   "likes": 773,
-  "uploadfile_id": 773,
+  "starRating": 773,
   "id": 774,
   "name": "온더보더 (이태원)",
   "category": "양식",
@@ -9289,7 +9289,7 @@
  },
  {
   "likes": 774,
-  "uploadfile_id": 774,
+  "starRating": 774,
   "id": 775,
   "name": "온더보더 (코엑스도심공항)",
   "category": "양식",
@@ -9301,7 +9301,7 @@
  },
  {
   "likes": 775,
-  "uploadfile_id": 775,
+  "starRating": 775,
   "id": 776,
   "name": "온더보더 (타임스퀘어)",
   "category": "양식",
@@ -9313,7 +9313,7 @@
  },
  {
   "likes": 776,
-  "uploadfile_id": 776,
+  "starRating": 776,
   "id": 777,
   "name": "온마을",
   "category": "한식",
@@ -9325,7 +9325,7 @@
  },
  {
   "likes": 777,
-  "uploadfile_id": 777,
+  "starRating": 777,
   "id": 778,
   "name": "올드델리 (노원)",
   "category": "인도",
@@ -9337,7 +9337,7 @@
  },
  {
   "likes": 778,
-  "uploadfile_id": 778,
+  "starRating": 778,
   "id": 779,
   "name": "올드델리 (수유)",
   "category": "인도",
@@ -9349,7 +9349,7 @@
  },
  {
   "likes": 779,
-  "uploadfile_id": 779,
+  "starRating": 779,
   "id": 780,
   "name": "완차이",
   "category": "중식",
@@ -9361,7 +9361,7 @@
  },
  {
   "likes": 780,
-  "uploadfile_id": 780,
+  "starRating": 780,
   "id": 781,
   "name": "왓어바웃 롤",
   "category": "일식",
@@ -9373,7 +9373,7 @@
  },
  {
   "likes": 781,
-  "uploadfile_id": 781,
+  "starRating": 781,
   "id": 782,
   "name": "왕타이",
   "category": "동남아",
@@ -9385,7 +9385,7 @@
  },
  {
   "likes": 782,
-  "uploadfile_id": 782,
+  "starRating": 782,
   "id": 783,
   "name": "요띠드",
   "category": "양식",
@@ -9397,7 +9397,7 @@
  },
  {
   "likes": 783,
-  "uploadfile_id": 783,
+  "starRating": 783,
   "id": 784,
   "name": "요요의 부엌",
   "category": "양식",
@@ -9409,7 +9409,7 @@
  },
  {
   "likes": 784,
-  "uploadfile_id": 784,
+  "starRating": 784,
   "id": 785,
   "name": "우부래도",
   "category": "카페",
@@ -9421,7 +9421,7 @@
  },
  {
   "likes": 785,
-  "uploadfile_id": 785,
+  "starRating": 785,
   "id": 786,
   "name": "원더로우",
   "category": "카페",
@@ -9433,7 +9433,7 @@
  },
  {
   "likes": 786,
-  "uploadfile_id": 786,
+  "starRating": 786,
   "id": 787,
   "name": "원슈가데이",
   "category": "양식",
@@ -9445,7 +9445,7 @@
  },
  {
   "likes": 787,
-  "uploadfile_id": 787,
+  "starRating": 787,
   "id": 788,
   "name": "위샐러듀",
   "category": "양식",
@@ -9457,7 +9457,7 @@
  },
  {
   "likes": 788,
-  "uploadfile_id": 788,
+  "starRating": 788,
   "id": 789,
   "name": "이드",
   "category": "한식",
@@ -9469,7 +9469,7 @@
  },
  {
   "likes": 789,
-  "uploadfile_id": 789,
+  "starRating": 789,
   "id": 790,
   "name": "이뮤 베이크샵",
   "category": "베이커리",
@@ -9481,7 +9481,7 @@
  },
  {
   "likes": 790,
-  "uploadfile_id": 790,
+  "starRating": 790,
   "id": 791,
   "name": "이밥",
   "category": "한식",
@@ -9493,7 +9493,7 @@
  },
  {
   "likes": 791,
-  "uploadfile_id": 791,
+  "starRating": 791,
   "id": 792,
   "name": "이웃집 영준이",
   "category": "기타",
@@ -9505,7 +9505,7 @@
  },
  {
   "likes": 792,
-  "uploadfile_id": 792,
+  "starRating": 792,
   "id": 793,
   "name": "이찌밥",
   "category": "분식",
@@ -9517,7 +9517,7 @@
  },
  {
   "likes": 793,
-  "uploadfile_id": 793,
+  "starRating": 793,
   "id": 794,
   "name": "이탈리안 비스트로 쿠오레",
   "category": "양식",
@@ -9529,7 +9529,7 @@
  },
  {
   "likes": 794,
-  "uploadfile_id": 794,
+  "starRating": 794,
   "id": 795,
   "name": "이화성",
   "category": "중식",
@@ -9541,7 +9541,7 @@
  },
  {
   "likes": 795,
-  "uploadfile_id": 795,
+  "starRating": 795,
   "id": 796,
   "name": "인도야시장",
   "category": "인도",
@@ -9553,7 +9553,7 @@
  },
  {
   "likes": 796,
-  "uploadfile_id": 796,
+  "starRating": 796,
   "id": 797,
   "name": "인딕슬로우 (송파)",
   "category": "양식",
@@ -9565,7 +9565,7 @@
  },
  {
   "likes": 797,
-  "uploadfile_id": 797,
+  "starRating": 797,
   "id": 798,
   "name": "잇스파이스",
   "category": "동남아",
@@ -9577,7 +9577,7 @@
  },
  {
   "likes": 798,
-  "uploadfile_id": 798,
+  "starRating": 798,
   "id": 799,
   "name": "잇츠 파스타",
   "category": "양식",
@@ -9589,7 +9589,7 @@
  },
  {
   "likes": 799,
-  "uploadfile_id": 799,
+  "starRating": 799,
   "id": 800,
   "name": "잇파스타",
   "category": "양식",
@@ -9601,7 +9601,7 @@
  },
  {
   "likes": 800,
-  "uploadfile_id": 800,
+  "starRating": 800,
   "id": 801,
   "name": "자연밥상",
   "category": "한식",
@@ -9613,7 +9613,7 @@
  },
  {
   "likes": 801,
-  "uploadfile_id": 801,
+  "starRating": 801,
   "id": 802,
   "name": "자하손만두",
   "category": "한식",
@@ -9625,7 +9625,7 @@
  },
  {
   "likes": 802,
-  "uploadfile_id": 802,
+  "starRating": 802,
   "id": 803,
   "name": "작은인디아 (리틀인디아)",
   "category": "인도",
@@ -9637,7 +9637,7 @@
  },
  {
   "likes": 803,
-  "uploadfile_id": 803,
+  "starRating": 803,
   "id": 804,
   "name": "작지만 카페",
   "category": "카페",
@@ -9649,7 +9649,7 @@
  },
  {
   "likes": 804,
-  "uploadfile_id": 804,
+  "starRating": 804,
   "id": 805,
   "name": "재동순두부",
   "category": "한식",
@@ -9661,7 +9661,7 @@
  },
  {
   "likes": 805,
-  "uploadfile_id": 805,
+  "starRating": 805,
   "id": 806,
   "name": "전골떡볶이 덕미가",
   "category": "분식",
@@ -9673,7 +9673,7 @@
  },
  {
   "likes": 806,
-  "uploadfile_id": 806,
+  "starRating": 806,
   "id": 807,
   "name": "전환마을 부엌밥풀꽃",
   "category": "한식",
@@ -9685,7 +9685,7 @@
  },
  {
   "likes": 807,
-  "uploadfile_id": 807,
+  "starRating": 807,
   "id": 808,
   "name": "정선부뚜막",
   "category": "한식",
@@ -9697,7 +9697,7 @@
  },
  {
   "likes": 808,
-  "uploadfile_id": 808,
+  "starRating": 808,
   "id": 809,
   "name": "제로비건",
   "category": "한식",
@@ -9709,7 +9709,7 @@
  },
  {
   "likes": 809,
-  "uploadfile_id": 809,
+  "starRating": 809,
   "id": 810,
   "name": "죠샌드위치 (고려대구로병원)",
   "category": "양식",
@@ -9721,7 +9721,7 @@
  },
  {
   "likes": 810,
-  "uploadfile_id": 810,
+  "starRating": 810,
   "id": 811,
   "name": "죠샌드위치 (고속터미널)",
   "category": "양식",
@@ -9733,7 +9733,7 @@
  },
  {
   "likes": 811,
-  "uploadfile_id": 811,
+  "starRating": 811,
   "id": 812,
   "name": "죠샌드위치 (광장동)",
   "category": "양식",
@@ -9745,7 +9745,7 @@
  },
  {
   "likes": 812,
-  "uploadfile_id": 812,
+  "starRating": 812,
   "id": 813,
   "name": "죠샌드위치 (교대역)",
   "category": "양식",
@@ -9757,7 +9757,7 @@
  },
  {
   "likes": 813,
-  "uploadfile_id": 813,
+  "starRating": 813,
   "id": 814,
   "name": "죠샌드위치 (구로디지털단지)",
   "category": "양식",
@@ -9769,7 +9769,7 @@
  },
  {
   "likes": 814,
-  "uploadfile_id": 814,
+  "starRating": 814,
   "id": 815,
   "name": "죠샌드위치 (남산스테이트타워)",
   "category": "양식",
@@ -9781,7 +9781,7 @@
  },
  {
   "likes": 815,
-  "uploadfile_id": 815,
+  "starRating": 815,
   "id": 816,
   "name": "죠샌드위치 (논현학사)",
   "category": "양식",
@@ -9793,7 +9793,7 @@
  },
  {
   "likes": 816,
-  "uploadfile_id": 816,
+  "starRating": 816,
   "id": 817,
   "name": "죠샌드위치 (대치사거리)",
   "category": "양식",
@@ -9805,7 +9805,7 @@
  },
  {
   "likes": 817,
-  "uploadfile_id": 817,
+  "starRating": 817,
   "id": 818,
   "name": "죠샌드위치 (도곡렉슬)",
   "category": "양식",
@@ -9817,7 +9817,7 @@
  },
  {
   "likes": 818,
-  "uploadfile_id": 818,
+  "starRating": 818,
   "id": 819,
   "name": "죠샌드위치 (도봉한신)",
   "category": "양식",
@@ -9829,7 +9829,7 @@
  },
  {
   "likes": 819,
-  "uploadfile_id": 819,
+  "starRating": 819,
   "id": 820,
   "name": "죠샌드위치 (독립문역)",
   "category": "양식",
@@ -9841,7 +9841,7 @@
  },
  {
   "likes": 820,
-  "uploadfile_id": 820,
+  "starRating": 820,
   "id": 821,
   "name": "죠샌드위치 (마곡)",
   "category": "양식",
@@ -9853,7 +9853,7 @@
  },
  {
   "likes": 821,
-  "uploadfile_id": 821,
+  "starRating": 821,
   "id": 822,
   "name": "죠샌드위치 (문래GS홈쇼핑)",
   "category": "양식",
@@ -9865,7 +9865,7 @@
  },
  {
   "likes": 822,
-  "uploadfile_id": 822,
+  "starRating": 822,
   "id": 823,
   "name": "죠샌드위치 (문정법조타운)",
   "category": "양식",
@@ -9877,7 +9877,7 @@
  },
  {
   "likes": 823,
-  "uploadfile_id": 823,
+  "starRating": 823,
   "id": 824,
   "name": "죠샌드위치 (반포)",
   "category": "양식",
@@ -9889,7 +9889,7 @@
  },
  {
   "likes": 824,
-  "uploadfile_id": 824,
+  "starRating": 824,
   "id": 825,
   "name": "죠샌드위치 (방배)",
   "category": "양식",
@@ -9901,7 +9901,7 @@
  },
  {
   "likes": 825,
-  "uploadfile_id": 825,
+  "starRating": 825,
   "id": 826,
   "name": "죠샌드위치 (삼성2호)",
   "category": "양식",
@@ -9913,7 +9913,7 @@
  },
  {
   "likes": 826,
-  "uploadfile_id": 826,
+  "starRating": 826,
   "id": 827,
   "name": "죠샌드위치 (선릉)",
   "category": "양식",
@@ -9925,7 +9925,7 @@
  },
  {
   "likes": 827,
-  "uploadfile_id": 827,
+  "starRating": 827,
   "id": 828,
   "name": "죠샌드위치 (센터원)",
   "category": "양식",
@@ -9937,7 +9937,7 @@
  },
  {
   "likes": 828,
-  "uploadfile_id": 828,
+  "starRating": 828,
   "id": 829,
   "name": "죠샌드위치 (시립대)",
   "category": "양식",
@@ -9949,7 +9949,7 @@
  },
  {
   "likes": 829,
-  "uploadfile_id": 829,
+  "starRating": 829,
   "id": 830,
   "name": "죠샌드위치 (압구정)",
   "category": "양식",
@@ -9961,7 +9961,7 @@
  },
  {
   "likes": 830,
-  "uploadfile_id": 830,
+  "starRating": 830,
   "id": 831,
   "name": "죠샌드위치 (오토갤러리)",
   "category": "양식",
@@ -9973,7 +9973,7 @@
  },
  {
   "likes": 831,
-  "uploadfile_id": 831,
+  "starRating": 831,
   "id": 832,
   "name": "죠샌드위치 (의주로)",
   "category": "양식",
@@ -9985,7 +9985,7 @@
  },
  {
   "likes": 832,
-  "uploadfile_id": 832,
+  "starRating": 832,
   "id": 833,
   "name": "죠샌드위치 (이수역)",
   "category": "양식",
@@ -9997,7 +9997,7 @@
  },
  {
   "likes": 833,
-  "uploadfile_id": 833,
+  "starRating": 833,
   "id": 834,
   "name": "죠샌드위치 (일원역)",
   "category": "양식",
@@ -10009,7 +10009,7 @@
  },
  {
   "likes": 834,
-  "uploadfile_id": 834,
+  "starRating": 834,
   "id": 835,
   "name": "죠샌드위치 (잠실엘스)",
   "category": "양식",
@@ -10021,7 +10021,7 @@
  },
  {
   "likes": 835,
-  "uploadfile_id": 835,
+  "starRating": 835,
   "id": 836,
   "name": "죠샌드위치 (포스코사거리)",
   "category": "양식",
@@ -10033,7 +10033,7 @@
  },
  {
   "likes": 836,
-  "uploadfile_id": 836,
+  "starRating": 836,
   "id": 837,
   "name": "죠샌드위치 (학동디오빌)",
   "category": "양식",
@@ -10045,7 +10045,7 @@
  },
  {
   "likes": 837,
-  "uploadfile_id": 837,
+  "starRating": 837,
   "id": 838,
   "name": "죠샌드위치 (현대백화점 천호)",
   "category": "양식",
@@ -10057,7 +10057,7 @@
  },
  {
   "likes": 838,
-  "uploadfile_id": 838,
+  "starRating": 838,
   "id": 839,
   "name": "지금 여기가 맨 앞",
   "category": "양식",
@@ -10069,7 +10069,7 @@
  },
  {
   "likes": 839,
-  "uploadfile_id": 839,
+  "starRating": 839,
   "id": 840,
   "name": "지니네컵밥",
   "category": "한식",
@@ -10081,7 +10081,7 @@
  },
  {
   "likes": 840,
-  "uploadfile_id": 840,
+  "starRating": 840,
   "id": 841,
   "name": "지속",
   "category": "베이커리",
@@ -10093,7 +10093,7 @@
  },
  {
   "likes": 841,
-  "uploadfile_id": 841,
+  "starRating": 841,
   "id": 842,
   "name": "지화자",
   "category": "한식",
@@ -10105,7 +10105,7 @@
  },
  {
   "likes": 842,
-  "uploadfile_id": 842,
+  "starRating": 842,
   "id": 843,
   "name": "차호로록",
   "category": "한식",
@@ -10117,7 +10117,7 @@
  },
  {
   "likes": 843,
-  "uploadfile_id": 843,
+  "starRating": 843,
   "id": 844,
   "name": "채식주의자",
   "category": "양식",
@@ -10129,7 +10129,7 @@
  },
  {
   "likes": 844,
-  "uploadfile_id": 844,
+  "starRating": 844,
   "id": 845,
   "name": "천년식향 & 델리",
   "category": "양식",
@@ -10141,7 +10141,7 @@
  },
  {
   "likes": 845,
-  "uploadfile_id": 845,
+  "starRating": 845,
   "id": 846,
   "name": "초록뜰",
   "category": "한식",
@@ -10153,7 +10153,7 @@
  },
  {
   "likes": 846,
-  "uploadfile_id": 846,
+  "starRating": 846,
   "id": 847,
   "name": "충칭호모두샤브샤브 (홍대)",
   "category": "중식",
@@ -10165,7 +10165,7 @@
  },
  {
   "likes": 847,
-  "uploadfile_id": 847,
+  "starRating": 847,
   "id": 848,
   "name": "치아바타 몽스",
   "category": "양식",
@@ -10177,7 +10177,7 @@
  },
  {
   "likes": 848,
-  "uploadfile_id": 848,
+  "starRating": 848,
   "id": 849,
   "name": "칙피스",
   "category": "양식",
@@ -10189,7 +10189,7 @@
  },
  {
   "likes": 849,
-  "uploadfile_id": 849,
+  "starRating": 849,
   "id": 850,
   "name": "칙피스 (성수)",
   "category": "양식",
@@ -10201,7 +10201,7 @@
  },
  {
   "likes": 850,
-  "uploadfile_id": 850,
+  "starRating": 850,
   "id": 851,
   "name": "카레경반",
   "category": "일식",
@@ -10213,7 +10213,7 @@
  },
  {
   "likes": 851,
-  "uploadfile_id": 851,
+  "starRating": 851,
   "id": 852,
   "name": "카카오다다",
   "category": "카페",
@@ -10225,7 +10225,7 @@
  },
  {
   "likes": 852,
-  "uploadfile_id": 852,
+  "starRating": 852,
   "id": 853,
   "name": "카페 거북이",
   "category": "카페",
@@ -10237,7 +10237,7 @@
  },
  {
   "likes": 853,
-  "uploadfile_id": 853,
+  "starRating": 853,
   "id": 854,
   "name": "카페 딜리델리",
   "category": "양식",
@@ -10249,7 +10249,7 @@
  },
  {
   "likes": 854,
-  "uploadfile_id": 854,
+  "starRating": 854,
   "id": 855,
   "name": "카페 시바",
   "category": "양식",
@@ -10261,7 +10261,7 @@
  },
  {
   "likes": 855,
-  "uploadfile_id": 855,
+  "starRating": 855,
   "id": 856,
   "name": "카페 오르다",
   "category": "카페",
@@ -10273,7 +10273,7 @@
  },
  {
   "likes": 856,
-  "uploadfile_id": 856,
+  "starRating": 856,
   "id": 857,
   "name": "카페58.4",
   "category": "카페",
@@ -10285,7 +10285,7 @@
  },
  {
   "likes": 857,
-  "uploadfile_id": 857,
+  "starRating": 857,
   "id": 858,
   "name": "카페모닝",
   "category": "카페",
@@ -10297,7 +10297,7 @@
  },
  {
   "likes": 858,
-  "uploadfile_id": 858,
+  "starRating": 858,
   "id": 859,
   "name": "캘리포니아 피자키친 (김포공항 롯데몰)",
   "category": "양식",
@@ -10309,7 +10309,7 @@
  },
  {
   "likes": 859,
-  "uploadfile_id": 859,
+  "starRating": 859,
   "id": 860,
   "name": "캘리포니아 피자키친 (명동M플라자)",
   "category": "양식",
@@ -10321,7 +10321,7 @@
  },
  {
   "likes": 860,
-  "uploadfile_id": 860,
+  "starRating": 860,
   "id": 861,
   "name": "캘리포니아 피자키친 (역삼 GFC)",
   "category": "양식",
@@ -10333,7 +10333,7 @@
  },
  {
   "likes": 861,
-  "uploadfile_id": 861,
+  "starRating": 861,
   "id": 862,
   "name": "캘리포니아 피자키친 (은평 롯데몰)",
   "category": "양식",
@@ -10345,7 +10345,7 @@
  },
  {
   "likes": 862,
-  "uploadfile_id": 862,
+  "starRating": 862,
   "id": 863,
   "name": "캘리포니아 피자키친 (청량리역)",
   "category": "양식",
@@ -10357,7 +10357,7 @@
  },
  {
   "likes": 863,
-  "uploadfile_id": 863,
+  "starRating": 863,
   "id": 864,
   "name": "캘리포니아 피자키친 (코엑스)",
   "category": "양식",
@@ -10369,7 +10369,7 @@
  },
  {
   "likes": 864,
-  "uploadfile_id": 864,
+  "starRating": 864,
   "id": 865,
   "name": "컴플리트커피",
   "category": "카페",
@@ -10381,7 +10381,7 @@
  },
  {
   "likes": 865,
-  "uploadfile_id": 865,
+  "starRating": 865,
   "id": 866,
   "name": "코코루시아",
   "category": "양식",
@@ -10393,7 +10393,7 @@
  },
  {
   "likes": 866,
-  "uploadfile_id": 866,
+  "starRating": 866,
   "id": 867,
   "name": "콩밭뜰",
   "category": "한식",
@@ -10405,7 +10405,7 @@
  },
  {
   "likes": 867,
-  "uploadfile_id": 867,
+  "starRating": 867,
   "id": 868,
   "name": "콩빠두",
   "category": "한식",
@@ -10417,7 +10417,7 @@
  },
  {
   "likes": 868,
-  "uploadfile_id": 868,
+  "starRating": 868,
   "id": 869,
   "name": "콩플레",
   "category": "베이커리",
@@ -10429,7 +10429,7 @@
  },
  {
   "likes": 869,
-  "uploadfile_id": 869,
+  "starRating": 869,
   "id": 870,
   "name": "쿡앤북",
   "category": "양식",
@@ -10441,7 +10441,7 @@
  },
  {
   "likes": 870,
-  "uploadfile_id": 870,
+  "starRating": 870,
   "id": 871,
   "name": "퀴즈노스 (LG트윈)",
   "category": "양식",
@@ -10453,7 +10453,7 @@
  },
  {
   "likes": 871,
-  "uploadfile_id": 871,
+  "starRating": 871,
   "id": 872,
   "name": "퀴즈노스 (가락)",
   "category": "양식",
@@ -10465,7 +10465,7 @@
  },
  {
   "likes": 872,
-  "uploadfile_id": 872,
+  "starRating": 872,
   "id": 873,
   "name": "퀴즈노스 (가재울)",
   "category": "양식",
@@ -10477,7 +10477,7 @@
  },
  {
   "likes": 873,
-  "uploadfile_id": 873,
+  "starRating": 873,
   "id": 874,
   "name": "퀴즈노스 (경희의료원)",
   "category": "양식",
@@ -10489,7 +10489,7 @@
  },
  {
   "likes": 874,
-  "uploadfile_id": 874,
+  "starRating": 874,
   "id": 875,
   "name": "퀴즈노스 (남부터미널)",
   "category": "양식",
@@ -10501,7 +10501,7 @@
  },
  {
   "likes": 875,
-  "uploadfile_id": 875,
+  "starRating": 875,
   "id": 876,
   "name": "퀴즈노스 (대치사거리)",
   "category": "양식",
@@ -10513,7 +10513,7 @@
  },
  {
   "likes": 876,
-  "uploadfile_id": 876,
+  "starRating": 876,
   "id": 877,
   "name": "퀴즈노스 (둔촌사거리)",
   "category": "양식",
@@ -10525,7 +10525,7 @@
  },
  {
   "likes": 877,
-  "uploadfile_id": 877,
+  "starRating": 877,
   "id": 878,
   "name": "퀴즈노스 (롯데백화점 청량리)",
   "category": "양식",
@@ -10537,7 +10537,7 @@
  },
  {
   "likes": 878,
-  "uploadfile_id": 878,
+  "starRating": 878,
   "id": 879,
   "name": "퀴즈노스 (롯데월드)",
   "category": "양식",
@@ -10549,7 +10549,7 @@
  },
  {
   "likes": 879,
-  "uploadfile_id": 879,
+  "starRating": 879,
   "id": 880,
   "name": "퀴즈노스 (마곡나루역)",
   "category": "양식",
@@ -10561,7 +10561,7 @@
  },
  {
   "likes": 880,
-  "uploadfile_id": 880,
+  "starRating": 880,
   "id": 881,
   "name": "퀴즈노스 (목동오목교)",
   "category": "양식",
@@ -10573,7 +10573,7 @@
  },
  {
   "likes": 881,
-  "uploadfile_id": 881,
+  "starRating": 881,
   "id": 882,
   "name": "퀴즈노스 (문정법조타운)",
   "category": "양식",
@@ -10585,7 +10585,7 @@
  },
  {
   "likes": 882,
-  "uploadfile_id": 882,
+  "starRating": 882,
   "id": 883,
   "name": "퀴즈노스 (미아)",
   "category": "양식",
@@ -10597,7 +10597,7 @@
  },
  {
   "likes": 883,
-  "uploadfile_id": 883,
+  "starRating": 883,
   "id": 884,
   "name": "퀴즈노스 (방송대)",
   "category": "양식",
@@ -10609,7 +10609,7 @@
  },
  {
   "likes": 884,
-  "uploadfile_id": 884,
+  "starRating": 884,
   "id": 885,
   "name": "퀴즈노스 (서울대 글로벌 생활관)",
   "category": "양식",
@@ -10621,7 +10621,7 @@
  },
  {
   "likes": 885,
-  "uploadfile_id": 885,
+  "starRating": 885,
   "id": 886,
   "name": "퀴즈노스 (서울대 제1공학관)",
   "category": "양식",
@@ -10633,7 +10633,7 @@
  },
  {
   "likes": 886,
-  "uploadfile_id": 886,
+  "starRating": 886,
   "id": 887,
   "name": "퀴즈노스 (서울대의대)",
   "category": "양식",
@@ -10645,7 +10645,7 @@
  },
  {
   "likes": 887,
-  "uploadfile_id": 887,
+  "starRating": 887,
   "id": 888,
   "name": "퀴즈노스 (서울성모병원)",
   "category": "양식",
@@ -10657,7 +10657,7 @@
  },
  {
   "likes": 888,
-  "uploadfile_id": 888,
+  "starRating": 888,
   "id": 889,
   "name": "퀴즈노스 (서울스퀘어)",
   "category": "양식",
@@ -10669,7 +10669,7 @@
  },
  {
   "likes": 889,
-  "uploadfile_id": 889,
+  "starRating": 889,
   "id": 890,
   "name": "퀴즈노스 (서울여대)",
   "category": "양식",
@@ -10681,7 +10681,7 @@
  },
  {
   "likes": 890,
-  "uploadfile_id": 890,
+  "starRating": 890,
   "id": 891,
   "name": "퀴즈노스 (송파방이)",
   "category": "양식",
@@ -10693,7 +10693,7 @@
  },
  {
   "likes": 891,
-  "uploadfile_id": 891,
+  "starRating": 891,
   "id": 892,
   "name": "퀴즈노스 (순화덕수궁롯데캐슬)",
   "category": "양식",
@@ -10705,7 +10705,7 @@
  },
  {
   "likes": 892,
-  "uploadfile_id": 892,
+  "starRating": 892,
   "id": 893,
   "name": "퀴즈노스 (시청대한항공빌딩)",
   "category": "양식",
@@ -10717,7 +10717,7 @@
  },
  {
   "likes": 893,
-  "uploadfile_id": 893,
+  "starRating": 893,
   "id": 894,
   "name": "퀴즈노스 (신사위워크)",
   "category": "양식",
@@ -10729,7 +10729,7 @@
  },
  {
   "likes": 894,
-  "uploadfile_id": 894,
+  "starRating": 894,
   "id": 895,
   "name": "퀴즈노스 (압구정)",
   "category": "양식",
@@ -10741,7 +10741,7 @@
  },
  {
   "likes": 895,
-  "uploadfile_id": 895,
+  "starRating": 895,
   "id": 896,
   "name": "퀴즈노스 (역삼)",
   "category": "양식",
@@ -10753,7 +10753,7 @@
  },
  {
   "likes": 896,
-  "uploadfile_id": 896,
+  "starRating": 896,
   "id": 897,
   "name": "퀴즈노스 (위례)",
   "category": "양식",
@@ -10765,7 +10765,7 @@
  },
  {
   "likes": 897,
-  "uploadfile_id": 897,
+  "starRating": 897,
   "id": 898,
   "name": "퀴즈노스 (잠실)",
   "category": "양식",
@@ -10777,7 +10777,7 @@
  },
  {
   "likes": 898,
-  "uploadfile_id": 898,
+  "starRating": 898,
   "id": 899,
   "name": "퀴즈노스 (종로YBM)",
   "category": "양식",
@@ -10789,7 +10789,7 @@
  },
  {
   "likes": 899,
-  "uploadfile_id": 899,
+  "starRating": 899,
   "id": 900,
   "name": "퀴즈노스 (중계)",
   "category": "양식",
@@ -10801,7 +10801,7 @@
  },
  {
   "likes": 900,
-  "uploadfile_id": 900,
+  "starRating": 900,
   "id": 901,
   "name": "크리스피프레시 (합정)",
   "category": "양식",
@@ -10813,7 +10813,7 @@
  },
  {
   "likes": 901,
-  "uploadfile_id": 901,
+  "starRating": 901,
   "id": 902,
   "name": "키다리 아저씨",
   "category": "베이커리",
@@ -10825,7 +10825,7 @@
  },
  {
   "likes": 902,
-  "uploadfile_id": 902,
+  "starRating": 902,
   "id": 903,
   "name": "타코 아미고",
   "category": "양식",
@@ -10837,7 +10837,7 @@
  },
  {
   "likes": 903,
-  "uploadfile_id": 903,
+  "starRating": 903,
   "id": 904,
   "name": "투고샐러드 (건국대)",
   "category": "양식",
@@ -10849,7 +10849,7 @@
  },
  {
   "likes": 904,
-  "uploadfile_id": 904,
+  "starRating": 904,
   "id": 905,
   "name": "투고샐러드 (경희대)",
   "category": "양식",
@@ -10861,7 +10861,7 @@
  },
  {
   "likes": 905,
-  "uploadfile_id": 905,
+  "starRating": 905,
   "id": 906,
   "name": "투고샐러드 (고려대)",
   "category": "양식",
@@ -10873,7 +10873,7 @@
  },
  {
   "likes": 906,
-  "uploadfile_id": 906,
+  "starRating": 906,
   "id": 907,
   "name": "투고샐러드 (노원역)",
   "category": "양식",
@@ -10885,7 +10885,7 @@
  },
  {
   "likes": 907,
-  "uploadfile_id": 907,
+  "starRating": 907,
   "id": 908,
   "name": "투고샐러드 (덕성여대)",
   "category": "양식",
@@ -10897,7 +10897,7 @@
  },
  {
   "likes": 908,
-  "uploadfile_id": 908,
+  "starRating": 908,
   "id": 909,
   "name": "투고샐러드 (성신여대)",
   "category": "양식",
@@ -10909,7 +10909,7 @@
  },
  {
   "likes": 909,
-  "uploadfile_id": 909,
+  "starRating": 909,
   "id": 910,
   "name": "투고샐러드 (신촌)",
   "category": "양식",
@@ -10921,7 +10921,7 @@
  },
  {
   "likes": 910,
-  "uploadfile_id": 910,
+  "starRating": 910,
   "id": 911,
   "name": "투고샐러드 (한국외국어대)",
   "category": "양식",
@@ -10933,7 +10933,7 @@
  },
  {
   "likes": 911,
-  "uploadfile_id": 911,
+  "starRating": 911,
   "id": 912,
   "name": "투고샐러드 (한양대)",
   "category": "양식",
@@ -10945,7 +10945,7 @@
  },
  {
   "likes": 912,
-  "uploadfile_id": 912,
+  "starRating": 912,
   "id": 913,
   "name": "판타스타코",
   "category": "양식",
@@ -10957,7 +10957,7 @@
  },
  {
   "likes": 913,
-  "uploadfile_id": 913,
+  "starRating": 913,
   "id": 914,
   "name": "팥동동",
   "category": "한식",
@@ -10969,7 +10969,7 @@
  },
  {
   "likes": 914,
-  "uploadfile_id": 914,
+  "starRating": 914,
   "id": 915,
   "name": "퍼블리코타코",
   "category": "양식",
@@ -10981,7 +10981,7 @@
  },
  {
   "likes": 915,
-  "uploadfile_id": 915,
+  "starRating": 915,
   "id": 916,
   "name": "페르시안궁전",
   "category": "인도",
@@ -10993,7 +10993,7 @@
  },
  {
   "likes": 916,
-  "uploadfile_id": 916,
+  "starRating": 916,
   "id": 917,
   "name": "페스타 바이 민구",
   "category": "양식",
@@ -11005,7 +11005,7 @@
  },
  {
   "likes": 917,
-  "uploadfile_id": 917,
+  "starRating": 917,
   "id": 918,
   "name": "페이퍼넛츠",
   "category": "카페",
@@ -11017,7 +11017,7 @@
  },
  {
   "likes": 918,
-  "uploadfile_id": 918,
+  "starRating": 918,
   "id": 919,
   "name": "페트라",
   "category": "인도",
@@ -11029,7 +11029,7 @@
  },
  {
   "likes": 919,
-  "uploadfile_id": 919,
+  "starRating": 919,
   "id": 920,
   "name": "펠앤콜",
   "category": "카페",
@@ -11041,7 +11041,7 @@
  },
  {
   "likes": 920,
-  "uploadfile_id": 920,
+  "starRating": 920,
   "id": 921,
   "name": "포에버",
   "category": "카페",
@@ -11053,7 +11053,7 @@
  },
  {
   "likes": 921,
-  "uploadfile_id": 921,
+  "starRating": 921,
   "id": 922,
   "name": "포인트프레드릭",
   "category": "기타",
@@ -11065,7 +11065,7 @@
  },
  {
   "likes": 922,
-  "uploadfile_id": 922,
+  "starRating": 922,
   "id": 923,
   "name": "포케포케",
   "category": "양식",
@@ -11077,7 +11077,7 @@
  },
  {
   "likes": 923,
-  "uploadfile_id": 923,
+  "starRating": 923,
   "id": 924,
   "name": "포켓파크",
   "category": "베이커리",
@@ -11089,7 +11089,7 @@
  },
  {
   "likes": 924,
-  "uploadfile_id": 924,
+  "starRating": 924,
   "id": 925,
   "name": "포탈라 (마포)",
   "category": "인도",
@@ -11101,7 +11101,7 @@
  },
  {
   "likes": 925,
-  "uploadfile_id": 925,
+  "starRating": 925,
   "id": 926,
   "name": "포탈라 (종로)",
   "category": "인도",
@@ -11113,7 +11113,7 @@
  },
  {
   "likes": 926,
-  "uploadfile_id": 926,
+  "starRating": 926,
   "id": 927,
   "name": "포포브레드",
   "category": "카페",
@@ -11125,7 +11125,7 @@
  },
  {
   "likes": 927,
-  "uploadfile_id": 927,
+  "starRating": 927,
   "id": 928,
   "name": "푸드 더즈 매터 (Food does Matter)",
   "category": "양식",
@@ -11137,7 +11137,7 @@
  },
  {
   "likes": 928,
-  "uploadfile_id": 928,
+  "starRating": 928,
   "id": 929,
   "name": "푸울파티",
   "category": "양식",
@@ -11149,7 +11149,7 @@
  },
  {
   "likes": 929,
-  "uploadfile_id": 929,
+  "starRating": 929,
   "id": 930,
   "name": "풍납동 미도리",
   "category": "양식",
@@ -11161,7 +11161,7 @@
  },
  {
   "likes": 930,
-  "uploadfile_id": 930,
+  "starRating": 930,
   "id": 931,
   "name": "플랜브이",
   "category": "카페",
@@ -11173,7 +11173,7 @@
  },
  {
   "likes": 931,
-  "uploadfile_id": 931,
+  "starRating": 931,
   "id": 932,
   "name": "플랜트 (PLANT)",
   "category": "양식",
@@ -11185,7 +11185,7 @@
  },
  {
   "likes": 932,
-  "uploadfile_id": 932,
+  "starRating": 932,
   "id": 933,
   "name": "피피샐러드",
   "category": "양식",
@@ -11197,7 +11197,7 @@
  },
  {
   "likes": 933,
-  "uploadfile_id": 933,
+  "starRating": 933,
   "id": 934,
   "name": "하궁",
   "category": "중식",
@@ -11209,7 +11209,7 @@
  },
  {
   "likes": 934,
-  "uploadfile_id": 934,
+  "starRating": 934,
   "id": 935,
   "name": "한과채",
   "category": "한식",
@@ -11221,7 +11221,7 @@
  },
  {
   "likes": 935,
-  "uploadfile_id": 935,
+  "starRating": 935,
   "id": 936,
   "name": "한국술집 안씨막걸리",
   "category": "기타",
@@ -11233,7 +11233,7 @@
  },
  {
   "likes": 936,
-  "uploadfile_id": 936,
+  "starRating": 936,
   "id": 937,
   "name": "한국의 집",
   "category": "한식",
@@ -11245,7 +11245,7 @@
  },
  {
   "likes": 937,
-  "uploadfile_id": 937,
+  "starRating": 937,
   "id": 938,
   "name": "한상훈쉐프 (카페 모리나리)",
   "category": "양식",
@@ -11257,7 +11257,7 @@
  },
  {
   "likes": 938,
-  "uploadfile_id": 938,
+  "starRating": 938,
   "id": 939,
   "name": "할랄가이즈 (강남)",
   "category": "인도",
@@ -11269,7 +11269,7 @@
  },
  {
   "likes": 939,
-  "uploadfile_id": 939,
+  "starRating": 939,
   "id": 940,
   "name": "할랄가이즈 (삼성)",
   "category": "양식",
@@ -11281,7 +11281,7 @@
  },
  {
   "likes": 940,
-  "uploadfile_id": 940,
+  "starRating": 940,
   "id": 941,
   "name": "할랄가이즈 (이태원)",
   "category": "인도",
@@ -11293,7 +11293,7 @@
  },
  {
   "likes": 941,
-  "uploadfile_id": 941,
+  "starRating": 941,
   "id": 942,
   "name": "할랄가이즈 (홍대)",
   "category": "인도",
@@ -11305,7 +11305,7 @@
  },
  {
   "likes": 942,
-  "uploadfile_id": 942,
+  "starRating": 942,
   "id": 943,
   "name": "해밀 비건 베이커리",
   "category": "베이커리",
@@ -11317,7 +11317,7 @@
  },
  {
   "likes": 943,
-  "uploadfile_id": 943,
+  "starRating": 943,
   "id": 944,
   "name": "해방식당",
   "category": "양식",
@@ -11329,7 +11329,7 @@
  },
  {
   "likes": 944,
-  "uploadfile_id": 944,
+  "starRating": 944,
   "id": 945,
   "name": "해콩 (망원)",
   "category": "한식",
@@ -11341,7 +11341,7 @@
  },
  {
   "likes": 945,
-  "uploadfile_id": 945,
+  "starRating": 945,
   "id": 946,
   "name": "해피돌핀 비건분식",
   "category": "분식",
@@ -11353,7 +11353,7 @@
  },
  {
   "likes": 946,
-  "uploadfile_id": 946,
+  "starRating": 946,
   "id": 947,
   "name": "허씨전통중경마라쌍궈(석기시대) 건대점",
   "category": "중식",
@@ -11365,7 +11365,7 @@
  },
  {
   "likes": 947,
-  "uploadfile_id": 947,
+  "starRating": 947,
   "id": 948,
   "name": "헤이보울",
   "category": "양식",
@@ -11377,7 +11377,7 @@
  },
  {
   "likes": 948,
-  "uploadfile_id": 948,
+  "starRating": 948,
   "id": 949,
   "name": "헬스클럽 샐러드&요거트",
   "category": "양식",
@@ -11389,7 +11389,7 @@
  },
  {
   "likes": 949,
-  "uploadfile_id": 949,
+  "starRating": 949,
   "id": 950,
   "name": "호수꼬치 (홍대합정점)",
   "category": "기타",
@@ -11401,7 +11401,7 @@
  },
  {
   "likes": 950,
-  "uploadfile_id": 950,
+  "starRating": 950,
   "id": 951,
   "name": "호질",
   "category": "기타",
@@ -11413,7 +11413,7 @@
  },
  {
   "likes": 951,
-  "uploadfile_id": 951,
+  "starRating": 951,
   "id": 952,
   "name": "홀썸",
   "category": "베이커리",
@@ -11425,7 +11425,7 @@
  },
  {
   "likes": 952,
-  "uploadfile_id": 952,
+  "starRating": 952,
   "id": 953,
   "name": "홈그라운드",
   "category": "양식",
@@ -11437,7 +11437,7 @@
  },
  {
   "likes": 953,
-  "uploadfile_id": 953,
+  "starRating": 953,
   "id": 954,
   "name": "홈로스팅카페 패밀리앤프렌즈",
   "category": "카페",
@@ -11449,7 +11449,7 @@
  },
  {
   "likes": 954,
-  "uploadfile_id": 954,
+  "starRating": 954,
   "id": 955,
   "name": "홍도깨비",
   "category": "기타",
@@ -11461,7 +11461,7 @@
  },
  {
   "likes": 955,
-  "uploadfile_id": 955,
+  "starRating": 955,
   "id": 956,
   "name": "홍린",
   "category": "중식",
@@ -11473,7 +11473,7 @@
  },
  {
   "likes": 956,
-  "uploadfile_id": 956,
+  "starRating": 956,
   "id": 957,
   "name": "홍밀밀",
   "category": "카페",
@@ -11485,7 +11485,7 @@
  },
  {
   "likes": 957,
-  "uploadfile_id": 957,
+  "starRating": 957,
   "id": 958,
   "name": "홍쉐프",
   "category": "양식",
@@ -11497,7 +11497,7 @@
  },
  {
   "likes": 958,
-  "uploadfile_id": 958,
+  "starRating": 958,
   "id": 959,
   "name": "화상손만두",
   "category": "중식",
@@ -11509,7 +11509,7 @@
  },
  {
   "likes": 959,
-  "uploadfile_id": 959,
+  "starRating": 959,
   "id": 960,
   "name": "황금룡",
   "category": "중식",
@@ -11521,7 +11521,7 @@
  },
  {
   "likes": 960,
-  "uploadfile_id": 960,
+  "starRating": 960,
   "id": 961,
   "name": "효제눅",
   "category": "카페",
@@ -11533,7 +11533,7 @@
  },
  {
   "likes": 961,
-  "uploadfile_id": 961,
+  "starRating": 961,
   "id": 962,
   "name": "후문첫집",
   "category": "한식",
@@ -11545,7 +11545,7 @@
  },
  {
   "likes": 962,
-  "uploadfile_id": 962,
+  "starRating": 962,
   "id": 963,
   "name": "후스테이블",
   "category": "양식",
@@ -11557,7 +11557,7 @@
  },
  {
   "likes": 963,
-  "uploadfile_id": 963,
+  "starRating": 963,
   "id": 964,
   "name": "훅트포케(강남역)",
   "category": "양식",
@@ -11569,7 +11569,7 @@
  },
  {
   "likes": 964,
-  "uploadfile_id": 964,
+  "starRating": 964,
   "id": 965,
   "name": "훌리오 (종로)",
   "category": "양식",
@@ -11581,7 +11581,7 @@
  },
  {
   "likes": 965,
-  "uploadfile_id": 965,
+  "starRating": 965,
   "id": 966,
   "name": "히피스베이글",
   "category": "카페",
@@ -11593,7 +11593,7 @@
  },
  {
   "likes": 966,
-  "uploadfile_id": 966,
+  "starRating": 966,
   "id": 967,
   "name": "힐사이드테이블",
   "category": "양식",
@@ -11605,7 +11605,7 @@
  },
  {
   "likes": 967,
-  "uploadfile_id": 967,
+  "starRating": 967,
   "id": 968,
   "name": "쿠소이",
   "category": "카페",
@@ -11617,7 +11617,7 @@
  },
  {
   "likes": 968,
-  "uploadfile_id": 968,
+  "starRating": 968,
   "id": 969,
   "name": "리틀마나님",
   "category": "한식,양식",
@@ -11629,7 +11629,7 @@
  },
  {
   "likes": 969,
-  "uploadfile_id": 969,
+  "starRating": 969,
   "id": 970,
   "name": "스타일비건",
   "category": "양식",
@@ -11641,7 +11641,7 @@
  },
  {
   "likes": 970,
-  "uploadfile_id": 970,
+  "starRating": 970,
   "id": 971,
   "name": "드렁큰비건",
   "category": "양식",
@@ -11653,7 +11653,7 @@
  },
  {
   "likes": 971,
-  "uploadfile_id": 971,
+  "starRating": 971,
   "id": 972,
   "name": "카페 썬",
   "category": "카페",
@@ -11665,7 +11665,7 @@
  },
  {
   "likes": 972,
-  "uploadfile_id": 972,
+  "starRating": 972,
   "id": 973,
   "name": "스프라우트(매장내 취식불가)",
   "category": "양식",

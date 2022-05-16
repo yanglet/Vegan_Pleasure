@@ -1,13 +1,20 @@
 package com.project.veganpleasure.global.config;
 
 import com.google.gson.Gson;
+import com.project.veganpleasure.domain.member.entity.Member;
+import com.project.veganpleasure.domain.member.repository.MemberRepository;
+import com.project.veganpleasure.domain.review.entity.Review;
+import com.project.veganpleasure.domain.review.repository.ReviewRepository;
+import com.project.veganpleasure.domain.store.entity.District;
 import com.project.veganpleasure.domain.store.entity.Store;
 import com.project.veganpleasure.domain.store.repository.StoreRepository;
 import lombok.RequiredArgsConstructor;
 import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 import org.springframework.core.io.ClassPathResource;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -16,6 +23,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.ArrayList;
 
 @Component
 @RequiredArgsConstructor
@@ -32,6 +40,9 @@ public class InitDb {
     @RequiredArgsConstructor
     static class InitService{
         private final StoreRepository storeRepository;
+        private final ReviewRepository reviewRepository;
+        private final MemberRepository memberRepository;
+        private final BCryptPasswordEncoder passwordEncoder;
 
         public void dbInit() throws IOException, ParseException {
             ClassPathResource resource = new ClassPathResource("data/data.json");
@@ -39,15 +50,30 @@ public class InitDb {
             System.out.println("path = " + path);
             JSONArray jsonList = (JSONArray) new JSONParser().parse(new FileReader(path.toString()));
 
-
             for (Object o : jsonList) {
                 Store store = new Gson().fromJson(o.toString(), Store.class);
+                JSONObject jsonObject = (JSONObject) o;
+                store.setVegetarianTypes(jsonObject.get("vegetarianType").toString());
+                store.setDistrict(District.valueOf(jsonObject.get("district").toString()));
                 store.setUploadFile(null);
                 if(store.getMenu().length() > 255){
-                    store.setMenu("범인이구나!");
+                    store.setMenu(store.getMenu().substring(0, 255));
                 }
                 storeRepository.save(store);
             }
+            Member member1 = Member.builder()
+                    .email("yanglet@naver.com")
+                    .password(passwordEncoder.encode("pw"))
+                    .name("양충욱")
+                    .nickname("양글렛")
+                    .role("user")
+                    .vegetarianTypes("비건")
+                    .build();
+
+            memberRepository.save(member1);
+
+            Review review = Review.of("컨텐트", 3L, storeRepository.findByName("8빵"), member1, null);
+            reviewRepository.save(review);
         }
     }
 }
