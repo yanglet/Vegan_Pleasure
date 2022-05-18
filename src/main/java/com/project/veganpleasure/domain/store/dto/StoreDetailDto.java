@@ -12,25 +12,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * private Long id;
- *     private String name;
- *     @Enumerated(EnumType.STRING)
- *     private Category category;
- *     private String address;
- *     @Enumerated(EnumType.STRING)
- *     private District district;
- *     private String phoneNumber;
- *     private int likes;
- *     private Long starRating;
- *     private String menu;
- *     @OneToMany(mappedBy = "store")
- *     private List<Review> reviewList = new ArrayList<>();
- *     @OneToOne(fetch = FetchType.LAZY)
- *     @JoinColumn(name = "uploadfile_id")
- *     private UploadFile uploadFile;
- *     private String vegetarianTypes;
- */
 @NoArgsConstructor
 @Getter
 @Setter

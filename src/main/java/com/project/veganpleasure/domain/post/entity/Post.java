@@ -25,7 +25,7 @@ public class Post extends BaseEntity {
     @JoinColumn(name = "member_id")
     private Member member;
     @OneToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "starRating")
+    @JoinColumn(name = "uploadfild_id")
     private UploadFile uploadFile;
 
     @Builder
